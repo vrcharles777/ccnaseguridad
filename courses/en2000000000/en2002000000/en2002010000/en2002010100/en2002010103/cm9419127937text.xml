@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Physical Security</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Operating System Security</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Router Hardening</b>]]></text> 
+</component>
+
+</textcomponents>

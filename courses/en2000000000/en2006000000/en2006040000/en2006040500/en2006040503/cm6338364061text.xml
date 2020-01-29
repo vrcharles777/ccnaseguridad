@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Telephony Servers</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>IP WAN</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>SRST Router</b>]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Recommended Security Practices for VoIP</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Use IPsec for authentication</li><li>Use IPsec to protect all traffic, not just voice</li><li>Consider SLA with service provider</li><li>Terminate on a VPN concentrator or large router inside of firewall to gain these benefits:</li><textformat blockindent="18"><li>Performance</li><li>Reduced configuration complexity</li><li>Managed organizational boundaries</li></textformat></ul></td></tr></table>]]></text> 
+  </component>
+  
+</textcomponents>

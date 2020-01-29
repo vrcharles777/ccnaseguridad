@@ -1,0 +1,6 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Use an extended ACL to block all FTP traffic from 172.16.4.0/24 network, but allow all other traffic.</b>]]></text>
+</component>
+
+</textcomponents>

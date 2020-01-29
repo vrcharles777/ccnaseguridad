@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Host A</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Host B</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>IKE Phase 1 Exchange</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>1. <textformat blockindent="15">Negotiate IKE policy sets</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>2. <textformat blockindent="15">DH key exchange</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>3. <textformat blockindent="15">Verify the peer identity</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>1. <textformat blockindent="15">Negotiate IKE policy sets</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>2. <textformat blockindent="15">DH key exchange</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>3. <textformat blockindent="15">Verify the peer identity</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Policy 10<br/>DES<br/>MD5<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Policy 15<br/>DES<br/>MD5<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>IKE Phase 2 Exchange</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Negotiate IPsec policy</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Negotiate IPsec policy</b>]]></text>
+</component>
+
+</textcomponents>

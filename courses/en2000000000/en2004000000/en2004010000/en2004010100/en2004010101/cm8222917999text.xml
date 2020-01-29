@@ -1,0 +1,106 @@
+<textcomponents><!-- buttons -->
+<component id="ID_btn1">
+<text><![CDATA[ACL Topology]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[ACL Types]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view ACL information.]]></text>
+</component>
+
+
+<!-- slide1 -->
+<component id="ID_txt01">
+<text><![CDATA[IP Address<br>192.168.1.5]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[HTTP Protocol]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Network<br>172.16.0.0]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Telnet Access]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[OK]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[OK]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Internal Network]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[MAC Address<br>xx:xx:xx:xx:xx:xx]]></text> 
+</component>
+
+<!-- slide2 -->
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td><font color='#FFFFFF'><b>Protocol</b></font></td>
+		<td width='150'><font color='#FFFFFF'><b>Range</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>IP</td>
+		<td bgcolor='#DDDDDD'>1-99, 1300-1999</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Extended IP</td>
+		<td bgcolor='#F2F2F2'>100-199, 2000-2699</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Ethernet type code</td>
+		<td bgcolor='#DDDDDD'>200-299</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>DECnet and Extended DECnet </td>
+		<td bgcolor='#F2F2F2'>300-399</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>XNS</td>
+		<td bgcolor='#DDDDDD'>400-499</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Extended XNS</td>
+		<td bgcolor='#DDDDDD'>500-599</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>AppleTalk</td>
+		<td bgcolor='#F2F2F2'>600-699</td>
+	</tr>
+		<tr>
+		<td bgcolor='#F2F2F2'>Ethernet address</td>
+		<td bgcolor='#F2F2F2'>700-799</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>IPX</td>
+		<td bgcolor='#DDDDDD'>800-899</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Extended IPX</td>
+		<td bgcolor='#F2F2F2'>900-999</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>IPX SAP</td>
+		<td bgcolor='#DDDDDD'>1000-1099</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Extended transparent bridging</td>
+		<td bgcolor='#DDDDDD'>1100-1199</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

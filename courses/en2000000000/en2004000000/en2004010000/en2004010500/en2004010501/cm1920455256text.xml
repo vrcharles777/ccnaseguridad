@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Types of ACLs</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Standard IP ACLs</li><li>Extended IP ACLs</li><font color="#0000ff"><li>Extended IP ACLs using TCP <font face='_typewriter'><b>established</b></font></li><font color="#0000ff"><li>Reflexive IP ACLs</li></font><font color="#000000"><li>Dynamic ACLs</li><li>Time-Based ACLs</li><li>Context-based Access Control (CBAC) ACLs</li></ul></td></tr></table>]]></text> 
+  </component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<font color="#0000ff"><b>Inside</b></font>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<font color="#ff0000"><b>Outside</b></font>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>HTTP Request</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>HTTP Reply</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>Telnet Request</b>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,11 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>IP Network</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>SAN</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Specialized network that enables fast, reliable access among servers and external storage resources.]]></text> 
+  </component>
+</textcomponents>

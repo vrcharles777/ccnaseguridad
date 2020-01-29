@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[The switch can forward frames between PC1 and PC2 without flooding because the MAC address table contains port-to-MAC-address mappings in the MAC address table for these PCs.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[MAC Table<br/>Port 1: MAC PC 1<br/>Port 2: MAC PC 2<br/>Port 3: Empty]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Frame]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Port 1]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Port 2]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Port 3]]></text>
+</component>
+
+</textcomponents>

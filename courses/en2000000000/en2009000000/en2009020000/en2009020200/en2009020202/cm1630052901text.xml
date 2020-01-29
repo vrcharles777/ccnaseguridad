@@ -1,0 +1,23 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Secure  Communications for Remote-Access</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Secure Communications for Site-to-Site Access</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Roll over each element of the Cisco Secure Communications Solution for more information.]]></text> 
+  </component>
+<component id="ID_title1">
+  <text><![CDATA[<b>Remote Access</b>]]></text> 
+  </component>
+<component id="ID_title2">
+  <text><![CDATA[<b>Site-to-Site Access</b>]]></text> 
+  </component>
+<component id="ID_body1">
+  <text><![CDATA[Powered by the Cisco Adaptive Security Appliance (ASA), Cisco Secure Remote Access is a single-platform solution that helps protect company resources while granting customized, secure access to individuals based on roles. Benefits include:<ul><li>Web-based access without preinstalled desktop software</li><li>Threat-protected VPN access that integrates network and endpoint security in the Cisco Secure Sockets Layer (SSL) VPN platform</li><li>Simple, flexible, cost-effective licensing that scales as network needs change</li><li>Supports both IP Security (IPsec) and SSL connectivity from a single platform</li><li>Supports unified management of remote-access and site-to-site VPN services to help reduce costs and management complexity</li></ul>]]></text> 
+  </component>
+<component id="ID_body2">
+  <text><![CDATA[Through VPN, delivers reliable transport for complex mission-critical traffic without compromising communications quality. Cisco's site-to-site VPN solutions integrate advanced network intelligence and routing for network designs ranging from traditional hub-and-spoke to "any-to-any" intersite connectivity. Support for Cisco Site-to-Site Access includes:<ul><li>IPsec VPN</li><li>Easy VPN</li><li>Dynamic Multipoint VPN</li><li>Group Encrypted Transport VPN</li></ul>]]></text> 
+  </component>
+</textcomponents>

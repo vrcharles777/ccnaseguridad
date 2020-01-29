@@ -1,0 +1,82 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+  <text><![CDATA[<ul><li>A transform set is a combination of IPsec transforms that enact a security policy for traffic.</li><li>A transform set can have one AH transform and up to two ESP transforms.</li></ul>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Transform Set Command</b>]]></text> 
+  </component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Transform Combinations</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>crypto ipsec transform-set Parameters</b>]]></text> 
+  </component>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td width='260' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Command</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Description</b></font></td>
+		
+					
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>transform-set-name</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>This parameter specifies the name of the transform set to create (or modify).</td>
+			
+	</tr>
+	
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>transform1, transform2, transform3, transform4</i></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Type of transform set. Specify up to four "transforms": one Authentication Header (AH), one Encapsulating Security Payload (ESP) encryption, one ESP authentication. These transforms define the IP Security (IPsec) security protocols and algorithms.</td>
+			
+	</tr>
+	
+</table>
+]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Allowed Transform Combinations</b>]]></text> 
+  </component>
+<component id="tableHTML2">
+  <text><![CDATA[<table bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td width='120' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>AH Transform</b> <i>(Pick only one.)</i></td>
+		<td width='100' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>ah-md5-hmac<BR/><BR/>------------------<BR/><b>ah-sha-hmac</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>AH with the MD5 (Message Digest 5) (a Hash-based Message Authentication Code [HMAC] variant) authentication algorithm</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>AH with the SHA (Secure Hash Algorithm) (an HMAC variant) authentication algorithm</li></ul></td>			
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>ESP Encryption Transform</b> <i>(Pick only one.)</i></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>esp-aes<BR/><BR/>------------------<BR/>esp-aes 192<BR/>------------------<BR/>esp-aes 256<BR/>------------------<BR/>esp-des<BR/><BR/>------------------<BR/>esp-3des</b><BR/>------------------<BR/>esp-null<BR/>------------------<BR/>esp-seal<BR/></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>ESP with the 128-bit Advanced Encryption Standard (AES) encryption algorithim</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>ESP with the 192-bit AES encryption algorithim</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>ESP with the 256-bit AES encryption algorithim</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>ESP with the 56-bit Data Encryption Standard (DES) encryption algorithm</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>ESP with the 168-bit DES encryption algorithm (3DES or Triple DES)</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>Null encryption algorithm</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>ESP with the 160-bit SEAL encryption algorithm.</li></ul></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>ESP Authentication Transform</b> <i>(Pick only one.)</i></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>esp-md5-hmac<BR/>------------------<BR/>esp-sha-hmac</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>ESP with the MD5 (HMAC variant) authentication algorithm</li></ul><TEXTFORMAT BLOCKINDENT='17'>-----------------------------------------------------------</TEXTFORMAT><ul><li>ESP with the SHA (HMAC variant) authentication algorithm</li></ul></td>	
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>IP Compression Transform</b></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>comp-lzs</b></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>IP compression with the Lempel-Ziv-Stac (LZS) algorithm</li></ul></td>	
+	</tr>
+</table>
+]]></text> 
+  </component>
+<component id="ID_header1">
+  <text><![CDATA[<b>Transform Type</b>]]></text> 
+  </component>
+<component id="ID_header2">
+  <text><![CDATA[<b>Transform </b>]]></text> 
+  </component>
+<component id="ID_header3">
+  <text><![CDATA[<b>Description</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>PC1</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>POP3 Server</b>]]></text>
+</component>
+
+<component id="ID_pop3">
+	<text><![CDATA[<b>POP3</b>]]></text>
+</component>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Click on each button to view the associated content.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+	<text><![CDATA[<b>ACL Usage</b>]]></text>
+</component>
+
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Nmap</b>]]></text>
+</component>
+
+
+
+</textcomponents>

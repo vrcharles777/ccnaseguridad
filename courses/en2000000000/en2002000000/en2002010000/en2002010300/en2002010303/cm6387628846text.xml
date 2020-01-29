@@ -1,0 +1,95 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to see different commands. Roll over the highlighted text portions of the command for more information.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<font face='_typewriter'><b>login block-for</b></font>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<font face='_typewriter'><b>login quiet-mode</b></font>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<font face='_typewriter'><b>login delay</b></font>]]></text>
+</component>
+
+<!-- slide1-->
+<component id="ID_sl1_txt01">
+<text><![CDATA[In this example, login will be disabled for 120 seconds (2 minutes) if more than 5 login failures occur within 60 seconds.]]></text>
+</component>
+
+<component id="ID_sl1_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>This command must be issued before any other <b>login</b> command can be used.</li><li>This command can help provide DoS detection and prevention.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_sl1_pop01">
+<text><![CDATA[(<font face='_typewriter'><i>seconds</i></font>) The amount of time, in seconds, login access should be blocked]]></text>
+</component>
+
+<component id="ID_sl1_pop02">
+<text><![CDATA[(<font face='_typewriter'><i>tries</i></font>) The total number of attempts within a specified timeframe that are allowed before login is blocked]]></text>
+</component>
+
+<component id="ID_sl1_pop03">
+<text><![CDATA[(<font face='_typewriter'><i>seconds</i></font>) The total number of seconds in which the maximum number of attempts must be reached before login is blocked
+]]></text>
+</component>
+
+
+<!-- slide 2-->
+<component id="ID_sl2_txt01">
+<text><![CDATA[This example shows a configuration that invokes an ACL named PERMIT-ADMIN. Hosts that match the PERMIT-ADMIN statements are exempt from the Quiet-Mode.]]></text>
+</component>
+
+<component id="ID_sl2_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Command specifies an ACL is applied to the router when switched to Quiet-Mode and identifies hosts that are exempt from the Quiet-Mode failure time.</li><li>If not configured, all login requests will be denied during the Quiet-Mode.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_sl2_pop01">
+<text><![CDATA[Creates a standard access control list named PERMIT-ADMIN that identifies specific hosts on the network]]></text>
+</component>
+
+<component id="ID_sl2_pop02">
+<text><![CDATA[(<font face='_typewriter'><i>acl-name</i></font> | <font face='_typewriter'><i>acl-number</i></font>) specifies the name or number of a given ACL]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_sl3_txt01">
+<text><![CDATA[The example configures a delay of 3 seconds in between successive login attempts.]]></text>
+</component>
+
+<component id="ID_sl3_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Helps mitigate dictionary attacks</li><li>This is an optional command. If not set, a default delay of one second is enforced after the <font face='_typewriter'><b>login block-for</b></font> command is configured.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_sl3_pop01">
+<text><![CDATA[(<font face='_typewriter'><i>seconds</i></font>) The amount of time, in seconds, between successive login attempts]]></text>
+</component>
+
+
+
+</textcomponents>

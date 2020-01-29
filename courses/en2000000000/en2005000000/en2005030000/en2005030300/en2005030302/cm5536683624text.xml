@@ -1,0 +1,17 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[This example shows how to change signature actions to alert, drop, and reset for signature 6130 with subsig ID of 10.]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[This example shows how to change event actions for all signatures that belong to the signature IOS IPS Basic category.]]></text> 
+  </component>
+<component id="ID_btn1">
+  <text><![CDATA[<b>Change actions for a Signature</b>]]></text> 
+  </component>
+<component id="ID_btn2">
+  <text><![CDATA[<b>Change actions for a Category</b>]]></text> 
+  </component>
+<component id="ID_inst">
+   <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+ </component>
+</textcomponents>

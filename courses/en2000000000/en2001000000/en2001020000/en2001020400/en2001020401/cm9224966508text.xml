@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='blue' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr><td><b>Memory</b></td></tr>
+    <tr><td bgcolor='#F2F2F2'>Login function<br/>User (8 char):user 1<br/>Password (8 char):xxxxxxxx 01bd03a2683e0<br/>call-auth(user, password)</td></tr>
+</table>]]></text> 
+</component>
+
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='blue' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr><td colspan='4'><b>Stack</b></td></tr>
+	<tr><td colspan='2'><b>Variables</b></td><td colspan='2'><b>Return Address</b></td></tr>
+    <tr><td bgcolor='#F2F2F2' width='40'>user</td><td bgcolor='#F2F2F2'>xx xxx xxx</td><td bgcolor='#F2F2F2'>01bd03a</td><td bgcolor='#F2F2F2'>2683e0</td></tr>
+</table>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Attacker</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Server</b>]]></text> 
+</component>
+
+
+</textcomponents>

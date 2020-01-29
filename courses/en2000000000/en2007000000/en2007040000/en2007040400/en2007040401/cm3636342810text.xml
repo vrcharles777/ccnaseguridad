@@ -1,0 +1,14 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Alice applies for a driver's license.</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>She receives her driver's license after her identity is proven.</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Alice attempts to cash a check.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Her identity is accepted after her driver’s license is checked.</b>]]></text> 
+  </component>
+</textcomponents>

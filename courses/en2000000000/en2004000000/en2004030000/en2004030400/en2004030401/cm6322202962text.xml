@@ -1,0 +1,7 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<ul><li>Enables real time alerts.</li></ul><BR/><BR/>*Note: Alerts are enabled by default and automatically display on the console line of the router. If alerts have been disabled using the <font face='_typewriter'><b>ip inspect alert-off</b></font> command, the <font face='_typewriter'><b>no</b></font> form of that command, as seen above, is required to re-enable alerts.]]></text>
+</component>
+
+</textcomponents>
+

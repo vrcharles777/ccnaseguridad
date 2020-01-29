@@ -1,0 +1,23 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+   <text><![CDATA[Password-Only Method]]></text> 
+</component>
+  
+<component id="ID_btn2">
+   <text><![CDATA[Local Database Method]]></text> 
+</component>
+
+<component id="ID_txt_01">
+   <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt_02">
+   <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+</textcomponents>

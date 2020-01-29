@@ -1,0 +1,82 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Bob</b>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Confirm Order</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>hash</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>1c34d56…</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Bob</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Private Key</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>encrypt</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Signature<br/>_(Encrypted Hash)_<br/>0a77b3440…</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Signed Data</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Confirm Order</b>]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>Signature<br/>_____________<br/>0a77b3440…</b>]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[<b>Signature Verified</b>]]></text> 
+  </component>
+<component id="ID_txt14">
+  <text><![CDATA[<b>1c34d56…</b>]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>hash</b>]]></text> 
+  </component>
+<component id="ID_txt16">
+  <text><![CDATA[<b>Data</b>]]></text> 
+  </component>
+<component id="ID_txt17">
+  <text><![CDATA[<b>Confirm Order</b>]]></text> 
+  </component>
+<component id="ID_txt18">
+  <text><![CDATA[<b>Bob</b>]]></text> 
+  </component>
+<component id="ID_txt19">
+  <text><![CDATA[<b>Public Key</b>]]></text> 
+  </component>
+<component id="ID_txt20">
+  <text><![CDATA[<b>Alice</b>]]></text> 
+  </component>
+<component id="ID_txt21">
+  <text><![CDATA[<b>1c34d56…</b>]]></text> 
+  </component>
+<component id="ID_txt22">
+  <text><![CDATA[<b>decrypt</b>]]></text> 
+  </component>
+<component id="ID_txt23">
+  <text><![CDATA[<b>Signature<br/>____________<br/>0a77b3440…</b>]]></text> 
+  </component>
+
+
+<component id="ID_bullets01">
+<text><![CDATA[<table header='none'>
+
+	<tr>
+		<td bgcolor='#DDDDDD'><b>There are six steps to the digital signature process:<br/>1. <textformat blockindent="15">The sending device (signer) creates a hash of the document.</textformat><br/>2. <textformat blockindent="15">The sending device encrypts the hash with the private key of the signer.</textformat><br/>3. <textformat blockindent="15">The encrypted hash, known as the signature, is appended to the document.</textformat><br/>4. <textformat blockindent="15">The receiving device (verifier) accepts the document with the digital signature and obtains the public key of the sending device.</textformat><br/>5. <textformat blockindent="15">The receiving device decrypts the signature using the public key of the sending device. This step unveils the assumed hash value of the sending device.</textformat><br/>6. <textformat blockindent="15">The receiving device makes a hash of the received document, without its signature, and compares this hash to the decrypted signature hash. If the hashes match, the document is authentic; it was signed by the assumed signer and has not changed since it was signed.</textformat></b></td>
+	</tr>
+</table>]]></text>
+</component>
+  
+</textcomponents>

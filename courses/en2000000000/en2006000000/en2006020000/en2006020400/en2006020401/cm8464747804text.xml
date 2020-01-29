@@ -1,0 +1,34 @@
+<textcomponents>
+
+<component id="ID_box01">
+<text><![CDATA[<b><font size='+2'>Legend</font><br/>F = Forwarding <br/>B = Blocking</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Root Bridge<br/>Priority = 8192<br/>MAC Address= 0000.00C0.1234</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+</textcomponents>

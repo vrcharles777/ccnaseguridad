@@ -1,0 +1,22 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[GRE Tunnel]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[IP Transport Network]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>GRE tunnel is up and the protocol is up if:<ul><li>Tunnel source and destination are configured</li><li>Tunnel destination is in routing table</li><li>GRE keepalives are received (if used)</li><li>GRE is the default tunnel mode</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

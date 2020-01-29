@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_top1">
+	<text><![CDATA[<b>DCE</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Router to Router SSH</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Host to Router SSH</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>There are no current SSH sessions ongoing with R1.</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>R2 establishes an SSH connection with R1 and provides username and password.</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>There is an incoming and outgoing SSHv2 session user Bob.</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[Initiate an SSH connection.]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[Enter the username.]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[Enter the password.]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[Once authenticated, the SSH window opens.]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[This is an example of using TeraTerm to SSH from a Windows client to router R1.]]></text> 
+</component>
+
+</textcomponents>

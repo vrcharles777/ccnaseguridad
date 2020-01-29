@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Trunk<br/>(Native VLAN = 10)]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Disable trunking on all access ports.</li><li>Disable auto trunking and manually enable trunking.</li><li>Be sure that the native VLAN is used only for trunk lines.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

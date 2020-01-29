@@ -1,0 +1,88 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Symmetric Key (triple DES) Encryption]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Alice]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Key 1]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Key 2]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Key 3]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Ciphertext]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Encryption]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Ciphertext]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[Key 3]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Key 2]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[Key 1]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Bob]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[Decryption]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[Plaintext]]></text>
+</component>
+
+
+<component id="ID_txt21">
+<text><![CDATA[1. <textformat blockindent='14'>The clear text from Alice is encrypted using Key 1. That ciphertext is decrypted using a different key, Key 2. Finally that ciphertext is encrypted using another key, Key 3.</textformat><br/><br/>2. <textformat blockindent='14'>When the 3DES ciphered text is received, the process is reversed. That is, the ciphered text must first be decrypted using Key 3, encrypted using Key 2, and finally decrypted using Key 1.</textformat>]]></text>
+</component>
+
+</textcomponents>

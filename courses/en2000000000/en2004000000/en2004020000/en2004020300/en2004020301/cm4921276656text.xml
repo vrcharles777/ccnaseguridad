@@ -1,0 +1,35 @@
+﻿<textcomponents>
+
+<component id="txt01">
+<text><![CDATA[<b>Traffic can originate from either the private to the DMZ or vice versa.</b>]]></text>
+</component>
+
+<component id="txt02">
+<text><![CDATA[<b>Traffic originating from the public to the DMZ is allowed, but restricted.</b>]]></text> 
+</component>
+
+<component id="txt03">
+<text><![CDATA[<b>Traffic originating from the DMZ to the public is not allowed.</b>]]></text> 
+</component>
+
+<component id="txt04">
+<text><![CDATA[<b>Traffic originating from the private to public is allowed.</b>]]></text> 
+</component>
+  
+<component id="txt05">
+<text><![CDATA[<b>Traffic originating from the public to the private is not allowed.</b>]]></text> 
+</component>
+
+<component id="internet">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+  <component id="dmz">
+  <text><![CDATA[<b>DMZ</b>]]></text> 
+  </component>
+  <component id="trusted">
+  <text><![CDATA[<b>Trusted (private)</b>]]></text> 
+  </component>
+  <component id="untrusted">
+  <text><![CDATA[<b>Untrusted (public)</b>]]></text> 
+  </component>
+</textcomponents>

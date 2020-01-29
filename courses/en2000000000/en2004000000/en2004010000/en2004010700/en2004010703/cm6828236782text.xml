@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>Serial 0/0/0</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[I can't surf the web at 10:00 A.M. because of the time-based ACL!]]></text>
+</component>
+
+</textcomponents>

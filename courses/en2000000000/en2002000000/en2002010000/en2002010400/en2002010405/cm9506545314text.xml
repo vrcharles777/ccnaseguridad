@@ -1,0 +1,55 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content. Roll over the orange highlights for more information.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Generate RSA Key </b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Edit VTY Lines</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Generate RSA Key</b><br/>Used to configure a cryptographic key if one is not set.]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Line Range</b><br/>This setting displays the range of vty connections to which the rest of the settings in the row apply.]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>EXEC Timeout</b><br/>This setting displays the number of minutes of inactivity after which a session is terminated.]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Input Protocols Allowed</b><br/>This setting displays the protocols that are configured for input, which can be Telnet, SSH, or both Telnet and SSH.]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>Output Protocols Allowed</b><br/>This setting displays the protocols that are configured for output, which can be Telnet, SSH, or both Telnet and SSH.]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Inbound Access-class</b><br/>This setting displays the name or number of the ACL that is applied to the inbound direction of the line range.]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>Outbound Access-class</b><br/>This setting displays the name or number of the ACL that is applied to the outbound direction of the line range.]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>ACL</b><br/>If configured, this setting shows the ACL that is associated with the vty connections.]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<b>Authentication Policy</b><br/>This setting displays the AAA authentication policy associated with this vty line. This field is not visible if AAA is not configured on the router.]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<b>Authorization Policy</b><br/>This setting displays the AAA authorization policy associated with this vty line. This field is not visible if AAA is not configured on the router.]]></text> 
+</component>
+
+</textcomponents>

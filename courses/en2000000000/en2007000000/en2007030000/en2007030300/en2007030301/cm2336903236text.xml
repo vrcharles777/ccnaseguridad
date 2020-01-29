@@ -1,0 +1,40 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td colspan='2'><font color='#FFFFFF'>3DES Characteristics</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Description</td>
+		<td bgcolor='#F2F2F2'>Triple Data Encryption Standard </td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Timeline</td>
+		<td bgcolor='#F2F2F2'>Standardized 1977</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Type of Algorithm</td>
+		<td bgcolor='#F2F2F2'>Symmetric</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Key size (in bits)</td>
+		<td bgcolor='#F2F2F2'>112 and 168 bits</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Speed</td>
+		<td bgcolor='#F2F2F2'>Low</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Time to crack<br/>(Assuming a computer could try 255 keys per second)
+</td>
+		<td bgcolor='#F2F2F2'>4.6 Billion years with current technology</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Resource Consumption</td>
+		<td bgcolor='#F2F2F2'>Medium</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>OOB management guidelines<ul><li>Provide the highest level of security and mitigate the risk of passing insecure management protocols over the production network.</li></ul>In-band management guidelines<ul><li>Apply only to devices that need to be managed or monitored.</li><li>Use IPsec, SSH, or SSL when possible.</li><li>Decide whether the management channel needs to be open at all times.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,12 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Step 1: Configure the IP domain name<BR/>Step 2: Generate one-way secret keys<BR/>Step 3: Verify or create a local database entry<BR/>Step 4: Enable VTY inbound SSH sessions</td></tr></table>]]></text> 
+  </component>
+
+
+<component id="ID_top1">
+	<text><![CDATA[<b>DCE</b>]]></text>
+</component>
+
+</textcomponents>

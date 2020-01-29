@@ -1,0 +1,8 @@
+﻿<textcomponents>
+<component id="ID_btn1">
+<text><![CDATA[<b>Launch the IPS Rule Wizard</b>]]></text>
+</component>
+<component id="ID_btn2">
+  <text><![CDATA[<b>Select Interfaces</b>]]></text> 
+  </component>
+</textcomponents>

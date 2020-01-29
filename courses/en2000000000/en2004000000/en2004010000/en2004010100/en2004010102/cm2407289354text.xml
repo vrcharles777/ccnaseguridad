@@ -1,0 +1,33 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[Types of Cisco ACLs]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the differences between standard and extended numbered IP ACLs.]]></text>
+</component>
+
+<component id="ID_btn01">
+<text><![CDATA[Standard Numbered IP ACL]]></text>
+</component>
+
+<component id="ID_btn02">
+<text><![CDATA[Extended Numbered IP ACL]]></text>
+</component>
+
+<!-- slide1 -->
+<component id="ID_sl1_txt01">
+<text><![CDATA[Standard ACLs filter IP packets based on the source address only.]]></text>
+</component>
+
+<!-- slide2 -->
+<component id="ID_sl2_txt01">
+<text><![CDATA[Standard ACLs filter IP packets based on the source address only.]]></text>
+</component>
+
+<component id="ID_sl2_txt02">
+<text><![CDATA[<b>Extended ACLs filter IP packets based on several attributes, including the following:<b><ul><li>Source and destination IP addresses</li><li>Source and destination TCP and UDP ports</li><li>Protocol type (IP, ICMP, UDP, TCP, or protocol number)</li></ul>]]></text>
+</component>
+
+</textcomponents>

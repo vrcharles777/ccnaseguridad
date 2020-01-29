@@ -1,0 +1,34 @@
+<textcomponents>
+
+<component id="ID_instructions">
+  <text><![CDATA[<b> </b>]]></text>  
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Local Authentication</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='15'>The user establishes a connection with the router.</textformat><br/>2. <textformat blockindent='15'>The router prompts the user for a username and password authenticating the user using a local database.</textformat></td></tr></table>]]></text> 
+  </component>
+
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Server-Based Authentication</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='15'>The user establishes a connection with the router.</textformat><br/>2. <textformat blockindent='15'>The router prompts the user for a username and password.</textformat><br/>3. <textformat blockindent='15'>The router passes the username and password to the Cisco Secure ACS (server or engine).</textformat><br/>4. <textformat blockindent='15'>The Cisco Secure ACS authenticates the user. The user is authorized to access the router (administrative access), or the network based on information found in the Cisco Secure ACS database.</textformat></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_txt_01">
+   <text><![CDATA[<b>Remote User</b>]]></text> 
+</component>
+
+<component id="ID_txt_02">
+   <text><![CDATA[<b>Perimeter Router</b>]]></text> 
+</component>
+
+<component id="ID_txt_03">
+   <text><![CDATA[<b>Cisco Secure ACS for Windows Server</font>]]></text> 
+</component>
+
+<component id="ID_txt_04">
+   <text><![CDATA[<b>Cisco Secure ACS Solution Engine</font>]]></text> 
+</component>
+
+<component id="ID_txt_05">
+   <text><![CDATA[<b>Cisco Secure ACS Express</font>]]></text> 
+</component>
+</textcomponents>

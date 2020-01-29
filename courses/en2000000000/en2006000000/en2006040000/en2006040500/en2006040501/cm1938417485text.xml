@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Voice VLAN = 110</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Data VLAN = 10</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>802.1Q Trunk</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>IP phone<br/>10.1.110.3</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Desktop PC<br/>172.16.1.1</b>]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Creates a separate broadcast domain for voice traffic.</li><li>Protects against eavesdropping and tampering.</li><li>Renders packet-sniffing tools less effective.</li><li>Makes it easier to implement VACLs that are specific to voice traffic.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+</textcomponents>

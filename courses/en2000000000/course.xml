@@ -1,0 +1,48 @@
+<course id="en2000000000">
+<title>
+<content-text>CCNA Security</content-text>
+</title>
+  <subtitle>
+    <content-text>Implementing Network Security</content-text>
+  </subtitle>
+    <courseversion>
+        <content-text>1.0</content-text>
+    </courseversion>
+  <chapter id="en2099000000">
+    <file>chapter99.xml</file>
+  </chapter>
+  <chapter id="en2000000000">
+    <file>chapter00.xml</file>
+  </chapter>
+  <chapter id="en2001000000">
+    <file>chapter01.xml</file>
+  </chapter>
+  <chapter id="en2002000000">
+    <file>chapter02.xml</file>
+  </chapter>
+  <chapter id="en2003000000">
+    <file>chapter03.xml</file>
+  </chapter>
+  <chapter id="en2004000000">
+    <file>chapter04.xml</file>
+  </chapter>
+  <chapter id="en2005000000">
+    <file>chapter05.xml</file>
+  </chapter>
+  <chapter id="en2006000000">
+    <file>chapter06.xml</file>
+  </chapter>
+  <chapter id="en2007000000">
+    <file>chapter07.xml</file>
+  </chapter>
+  <chapter id="en2008000000">
+    <file>chapter08.xml</file>
+  </chapter>
+  <chapter id="en2009000000">
+    <file>chapter09.xml</file>
+  </chapter>
+<glossary>
+          <file>glossary.xml</file>
+          <indexfile>glossaryindex.xml</indexfile>
+</glossary>
+</course>

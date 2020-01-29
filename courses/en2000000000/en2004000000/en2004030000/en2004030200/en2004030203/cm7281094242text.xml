@@ -1,0 +1,89 @@
+<textcomponents>
+<component id="ID_btn1">
+<text><![CDATA[CBAC TCP Handling]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[CBAC UDP Handling]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the packet exchanges for CBAC TCP & UDP handling.]]></text>
+</component>
+
+
+<!-- slide 1 -->
+<component id="ID_s1_bullets">
+<text><![CDATA[Stateful Inspection algorithm:<ul><li>Source IP</li><li>Source Port</li><li>Destination IP</li><li>Destination Port</li><li>Sequence Number</li></ul>]]></text>
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[Source Address]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Destination Address]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Source Port]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[Destination Port]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Initial Sequence Number]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[Ack]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[Flag]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[No Data]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[IP Header]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[TCP Header]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_s2_bullets">
+<text><![CDATA[Stateful Inspection algorithm:<ul><li>Source IP</li><li>Source Port</li><li>Destination IP</li><li>Destination Port</li><li>UDP Responses</li><li>Configurable Timeout</li></ul>]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+<text><![CDATA[Source Address]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Destination Address]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Source Port]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[Destination Port]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[IP Header]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[UDP Header]]></text>
+</component>
+
+</textcomponents>

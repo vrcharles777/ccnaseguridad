@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<b>Brute Force Attack</b>]]></text> 
+</component>
+  
+<component id="ID_txt01">
+  <text><![CDATA[<b>Known Ciphertext</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Successfully Unencrypted<br/><br/>Key found</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>With a Brute Force attack, the attacker has some portion of the ciphertext. The attacker attempts to unencrypt the ciphertext with all possible keys.</td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

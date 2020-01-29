@@ -1,0 +1,58 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01a">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Sets the violation mode (optional)</li></ul></td></tr></table>]]></text> 
+  </component>
+
+<component id="ID_table01b">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Enters a static secure MAC address for the interface (optional)</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_table01c">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Enables sticky learning on the interface (optional)</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_header1">
+<text><![CDATA[<font color="#ffffff"><b>Parameter</b></font>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<font color="#ffffff"><b>Description</b></font>]]></text>
+</component>
+
+<component id="ID_table02">
+   <text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+
+	<tr>
+		<td width="200" bgcolor='#DDDDDD'><font face='_typewriter'><b>protect</b></font></td>
+		<td bgcolor='#DDDDDD'>(Optional) Set the security violation protect mode. When the number of secure MAC addresses reaches the limit allowed on the port, packets with unknown source addresses are dropped until you remove a sufficient number of secure MAC addresses or increase the number of maximum allowable addresses. You are not notified that a security violation has occurred.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face='_typewriter'><b>restrict</b></font></td>
+		<td bgcolor='#F2F2F2'>(Optional) Set the security violation restrict mode. When the number of secure MAC addresses reaches the limit allowed on the port, packets with unknown source addresses are dropped until you remove a sufficient number of secure MAC addresses or increase the number of maximum allowable addresses. In this mode, you are notified that a security violation has occurred. Specifically, a Simple Network Management Protocol (SNMP) trap is sent, a syslog message is logged, and the violation counter increments.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>shutdown</b></font></td>
+		<td bgcolor='#DDDDDD'>(Optional) Set the security violation shutdown mode. In this mode, a port security violation causes the interface to immediately become error-disabled and turns off the port LED. It also sends an SNMP trap, logs a syslog message, and increments the violation counter. When a secure port is in the error-disabled state, you can bring it out of this state by entering the <font face="_typewriter"><b>errdisable recovery cause psecure-violation</b></font> global configuration command, or you can manually re-enable it by entering the <font face="_typewriter"><b>shutdown</b></font> and <font face="_typewriter"><b>no shutdown</b></font> interface configuration commands.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>shutdown vlan</b></font></td>
+		<td bgcolor='#F2F2F2'>Set the security violation mode to per-VLAN shutdown. In this mode, only the VLAN on which the violation occurred is error-disabled.</td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+    
+    
+  <component id="ID_btn1">
+  <text><![CDATA[<b>Port Security Violation Configuration</b>]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[<b><font face="_typewriter">switchport port-security violation</font> Parameters</b>]]></text> 
+  </component>
+
+</textcomponents>

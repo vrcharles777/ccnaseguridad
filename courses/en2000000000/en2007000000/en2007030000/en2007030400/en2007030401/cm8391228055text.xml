@@ -1,0 +1,52 @@
+﻿<textcomponents>
+<component id="ID_txt02">
+<text><![CDATA[More Information]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[For more information on AES, go to <a href="javascript:openExternal('http://www.nist.gov/aes');"><font color='#0000FF'>http://www.nist.gov/aes</font></a>. In 2008, the NIST held a competition, similar to the AES initiative, to develop a new SHA version, SHA-3. For more information, refer to <a href="javascript:openExternal('http://csrc.nist.gov/groups/ST/hash/sha-3/index.html');"><font color='#0000FF'>http://csrc.nist.gov/groups/ST/hash/sha-3/index.html</font></a>]]></text>
+</component>
+<component id="ID_txt00">
+<text><![CDATA[<b>More Information</b>]]></text>
+</component>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td colspan='2' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>AES Characteristics</b></font></td>
+		
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Description</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Advanced Encryption Standard</td>	
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Timeline</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Official Standard since 2001</td>	
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Type of Algorithm</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Symmetric</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Key size (in bits)</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>128, 192, and 256</td>
+			
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Speed</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>High</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Time to crack</b><br/>(Assuming a computer could try 255 keys per second)</td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>149 Trillion years</td>
+			
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Resource Consumption</b></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Low</td>
+	</tr>
+	<tr>
+</table>
+]]></text> 
+  </component>
+</textcomponents>

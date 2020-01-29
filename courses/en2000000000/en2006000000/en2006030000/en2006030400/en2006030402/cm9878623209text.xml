@@ -1,0 +1,63 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01a">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Enables broadcast storm protection.</li><li>Enables multicast storm protection.</li><li>Specifies the action that should take place when the threshold (level) is reached.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+  
+<component id="ID_header1">
+<text><![CDATA[<font color="#ffffff"><b>Parameter</b></font>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<font color="#ffffff"><b>Description</b></font>]]></text>
+</component>
+
+<component id="ID_table02">
+   <text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+
+	<tr>
+		<td width="200" bgcolor='#DDDDDD'><font face='_typewriter'><b>broadcast</b></font></td>
+		<td bgcolor='#DDDDDD'>This parameter enables broadcast storm control on the interface.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>multicast</b></font></td>
+		<td bgcolor='#F2F2F2'>This parameter enables multicast storm control on the interface.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>unicast</b></font></td>
+		<td bgcolor='#DDDDDD'>This parameter enables unicast storm control on the interface.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>level</b> <i>level</i> [<i>level-low</i>]</font></td>
+		<td bgcolor='#F2F2F2'>Specify the rising and falling suppression levels as a percentage of total bandwidth of the port.<br/><font face="_typewriter"><i>level</i></font>: Rising suppression level, up to two decimal places. The range is 0.00 to 100.00. Block the flooding of storm packets when the value specified for level is reached.<br/><font face="_typewriter"><i>level-low</i></font>: (Optional) Falling suppression level, up to two decimal places. The range is 0.00 to 100.00. This value must be less than or equal to the rising suppression value. If a falling suppression level is not configured, it is set to the rising suppression level.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>level bps </b><i>bps </i>[<i>bps-low</i>]</font></td>
+		<td bgcolor='#DDDDDD'>Specify the rising and falling suppression levels as a rate in bits per second at which traffic is received on the port.<br/><font face="_typewriter"><i>bps</i></font>: Rising suppression level, up to 1 decimal place. The range is 0.0 to 10000000000.0. Block the flooding of storm packets when the value specified for bps is reached.<br/><font face="_typewriter"><i>bps-low</i></font>: (Optional) Falling suppression level, up to one decimal place. The range is 0.0 to 10000000000.0. This value must be equal to or less than the rising suppression value.<br/>Use metric suffixes such as k, m, and g for large number thresholds.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>level pps </b><i>pps </i>[<i>pps-low</i>]</font></td>
+		<td bgcolor='#F2F2F2'>Specify the rising and falling suppression levels as a rate in packets per second at which traffic is received on the port.<br/><font face="_typewriter"><i>pps:</i></font> Rising suppression level, up to one decimal place. The range is 0.0 to 10000000000.0. Block the flooding of storm packets when the value specified for pps is reached.<br/><font face="_typewriter"><i>pps-low</i></font>: (Optional) Falling suppression level, up to one decimal place. The range is 0.0 to 10000000000.0. This value must be equal to or less than the rising suppression value.<br/>Use metric suffixes such as <b>k</b>, <b>m</b>, and <b>g</b> for large number thresholds.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>action </b>{<b>shutdown</b>|<b>trap</b>}</font></td>
+		<td bgcolor='#DDDDDD'>The action taken when a storm occurs on a port. The default action is to filter traffic and to not send an SNMP trap.<br/>The keywords have these meanings:<br/><font face="_typewriter"><b>shutdown:</b></font> Disables the port during a storm<br/><font face="_typewriter"><b>trap:</b></font> Sends an SNMP trap when a storm occurs</td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+    
+    
+  <component id="ID_btn1">
+  <text><![CDATA[<b>Storm Control Configuration</b>]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[<b><font face="_typewriter">storm-control</font> Parameters</b>]]></text> 
+  </component>
+
+</textcomponents>

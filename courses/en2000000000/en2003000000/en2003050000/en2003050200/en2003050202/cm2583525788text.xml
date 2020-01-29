@@ -1,0 +1,35 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+   <text><![CDATA[Accounting Type]]></text> 
+</component>
+  
+<component id="ID_btn2">
+   <text><![CDATA[List Type]]></text> 
+</component>
+  
+<component id="ID_btn3">
+   <text><![CDATA[Record Type]]></text> 
+</component>
+  
+<component id="ID_btn4">
+   <text><![CDATA[Method List]]></text> 
+</component>
+
+<component id="ID_btn5">
+   <text><![CDATA[Sample Config]]></text> 
+</component>
+
+<component id="ID_txt_s3_01">
+   <text><![CDATA[<b>Record type will vary depending on the list type.</b>]]></text> 
+</component>
+
+<component id="ID_txt_s4_01">
+   <text><![CDATA[<b>Notice that there are only two types of methods that are configurable.</b>]]></text> 
+</component>
+
+</textcomponents>

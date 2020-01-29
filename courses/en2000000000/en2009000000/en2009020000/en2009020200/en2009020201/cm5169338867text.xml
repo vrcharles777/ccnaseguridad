@@ -1,0 +1,35 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>Cisco Threat Control and Containment</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[Click each section of the pie chart to view details about the Cisco Threat Control and Containment solution.]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Threat Control for Email</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Threat Control for Infrastructure</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Threat Control for Endpoints</b>]]></text> 
+  </component>
+<component id="ID_titleTxt1">
+  <text><![CDATA[<b>The Cisco Threat Control for Endpoints solution offers the following capabilities:</b>]]></text> 
+  </component>
+<component id="ID_bodyTxt1">
+  <text><![CDATA[<ul><li>Endpoint integrity assessment, including checks for the latest security service packs or anti-virus definitions and quarantine of noncompliant systems</li><li>Network-level attack detection and prevention to protect systems targeted by hackers</li><li>Behavioral monitoring on every system to build "day-zero" defenses</li><li>Threat containment on infected systems and preventing the spread of infection to other devices</li></ul>]]></text> 
+  </component>
+<component id="ID_titleTxt2">
+  <text><![CDATA[<b>The Cisco Threat Control for Infrastructure solution offers the following capabilities:</b>]]></text> 
+  </component>
+<component id="ID_bodyTxt2">
+  <text><![CDATA[<ul><li>Tracks behavioral patterns and correlates them with other network security information to provide a clear picture of events across the entire IT infrastructure</li><li>Enables implementation of security policies to mitigate threats in real time</li><li>Prioritizes resources to focus on the most important threats and attacks</li><li>Detects threats from both endpoints and network infrastructure</li><li>Correlates threats into a central location</li></ul>]]></text> 
+  </component>
+<component id="ID_titleTxt3">
+  <text><![CDATA[<b>The Cisco Threat Control for Email solution offers the following capabilities:</b>]]></text> 
+  </component>
+<component id="ID_bodyTxt3">
+  <text><![CDATA[<ul><li>Repudiation filtering, email authentication and flow control</li><li>Content scanning, advanced anti-spam and policy enforcement</li><li>Encryption of confidential information</li><li>Innovative virus outbreak filtering</li></ul>]]></text> 
+  </component>
+</textcomponents>

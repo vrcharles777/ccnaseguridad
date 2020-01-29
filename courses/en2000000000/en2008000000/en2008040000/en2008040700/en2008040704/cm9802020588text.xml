@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+  <text><![CDATA[<ul><li>This is an example of the Main Mode error message.</li><li>The failure of Main Mode suggests that the Phase 1 policy does not match on both sides.</li><li>Verify that the Phase 1 policy is on both peers and ensure that all the attributes match.</li></ul>]]></text> 
+  </component>
+</textcomponents>

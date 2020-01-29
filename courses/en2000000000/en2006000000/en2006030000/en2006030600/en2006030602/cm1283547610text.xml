@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the each button to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[Configuring SPAN]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Verifying SPAN]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,44 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Private Key (Encrypt) + Public Key (Decrypt) = Authentication</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Can I get your Public Key please?</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Here is my Public Key.</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Alice's Private Key</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Alice</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Alice's Public Key</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Encrypted Text</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Encrypted Text</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Alice's Public Key</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Bob</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[Encryption Algorithm]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[Encryption Algorithm]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[1. Alice encrypts a message with her private key.<BR/>2. Alice transmits the encrypted message to Bob.<BR/>3. Bob needs to verify that the message actually came from Alice. He requests and acquires Alice's public key.<BR/>4. Bob uses the public key to successfully decrypt the message and authenticate that the message did, indeed, come from Alice.]]></text> 
+  </component>
+<component id="ID_txt15">
+  <text><![CDATA[<b>Encrypted Text</b>]]></text> 
+  </component>
+</textcomponents>

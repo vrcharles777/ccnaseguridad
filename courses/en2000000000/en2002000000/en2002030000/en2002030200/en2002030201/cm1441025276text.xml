@@ -1,0 +1,6 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Syslog questions:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>What are the most important logs?</li><li>How are important messages separated from routine notifications?</li><li>How do you prevent tampering with logs?</li><li>How do you ensure the time stamps match?</li><li>What log data is needed in criminal investigations?</li><li>How do you deal with the volume of messages?</li><li>How do you manage all of the devices?</li><li>How can you track when attacks or network failures occur?</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

@@ -1,0 +1,27 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>FTP Server<br/>200.1.1.11</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Email Server<br/>200.1.1.12</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>DNS Server<br/>200.1.1.13</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Web Server<br/>200.1.1.14</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Internal Segment<br/>200.1.2.0/24</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Internal Router</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Edge Router</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+
+</textcomponents>

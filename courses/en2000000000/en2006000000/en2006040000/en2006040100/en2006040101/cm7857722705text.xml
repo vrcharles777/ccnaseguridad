@@ -1,0 +1,209 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click each button to view a sample Wireless, VoIP, and SAN topology.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Wireless</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>VoIP</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<b>SAN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[<b>WCS Cross-WLC Monitoring</b>]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[<b>Wireless IDS/IPS features within WLC</b>]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[<b>NOC</b>]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[<b>ACS AAA Server</b>]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[<b>WLC Switch</b>]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[<b>Core</b>]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[<b>FW</b>]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[<b>CS-MARS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[<b>LWAPP Tunnel</b>]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[<b>LAP</b>]]></text>
+</component>
+
+<component id="ID_s1_txt14">
+<text><![CDATA[<b>WLAN Client Traffic</b>]]></text>
+</component>
+
+<component id="ID_s1_txt15">
+<text><![CDATA[<b>LAP</b>]]></text>
+</component>
+
+<component id="ID_s1_txt16">
+<text><![CDATA[<b>Rogue Client</b>]]></text>
+</component>
+
+<component id="ID_s1_txt17">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt18">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt19">
+<text><![CDATA[<b>Rogue AP</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_s2_txt01">
+<text><![CDATA[<b>Directory</b>]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[<b>Voice/Email</b>]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[<b>Directory</b>]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[<b>Voice/Email</b>]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[<b>Directory</b>]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[<b>Voice/Email</b>]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[<b>Gatekeeper(s)</b>]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+<text><![CDATA[<b>Branch offices</b>]]></text>
+</component>
+
+<component id="ID_s2_txt09">
+<text><![CDATA[<b>Conf</b>]]></text>
+</component>
+
+<component id="ID_s2_txt10">
+<text><![CDATA[<b>MTP</b>]]></text>
+</component>
+
+<component id="ID_s2_txt11">
+<text><![CDATA[<b>Conf</b>]]></text>
+</component>
+
+<component id="ID_s2_txt12">
+<text><![CDATA[<b>MTP</b>]]></text>
+</component>
+
+<component id="ID_s2_txt13">
+<text><![CDATA[<b>Conf</b>]]></text>
+</component>
+
+<component id="ID_s2_txt14">
+<text><![CDATA[<b>MTP</b>]]></text>
+</component>
+
+<component id="ID_s2_txt15">
+<text><![CDATA[<b>Headquarters</b>]]></text>
+</component>
+
+<component id="ID_s2_txt16">
+<text><![CDATA[<b>PSTN</b>]]></text>
+</component>
+
+<component id="ID_s2_txt17">
+<text><![CDATA[<b>IP WAN primary voice path</b>]]></text>
+</component>
+
+
+
+<component id="ID_s3_txt01">
+<text><![CDATA[<b>128 Storage Ports @ 2G<br/>64 ISL to Edge @ 4G<br/>1 : 1 ISL to Storage</b>]]></text>
+</component>
+
+<component id="ID_s3_txt02">
+<text><![CDATA[<b>256 Storage Ports</b>]]></text>
+</component>
+
+<component id="ID_s3_txt03">
+<text><![CDATA[<b>Each Core Switch<br/>6 x 24-Port Modules (Storage)<br/>5 x 12-Port Modules (ISLs)</b>]]></text>
+</component>
+
+<component id="ID_s3_txt04">
+<text><![CDATA[<b>16-Port PortChannels<br/>Provide 64 Gbps to Each Core</b>]]></text>
+</component>
+
+<component id="ID_s3_txt05">
+<text><![CDATA[<b>496 Host Ports @ 2G<br/>32 ISL to Core @ 4G<br/>7.75 : 1 Host to Core</b>]]></text>
+</component>
+
+<component id="ID_s3_txt06">
+<text><![CDATA[<b>Each Edge Switch<br/>11 x 48-Port Modules<br/>2 x 64Gbps PortChannels<br/>496 Hosts/Switch</b>]]></text>
+</component>
+
+<component id="ID_s3_txt07">
+<text><![CDATA[<b>1984 Host Ports</b>]]></text>
+</component>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</textcomponents>

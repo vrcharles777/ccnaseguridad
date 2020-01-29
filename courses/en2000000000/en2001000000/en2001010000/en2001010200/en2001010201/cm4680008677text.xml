@@ -1,0 +1,14 @@
+<textcomponents>
+<component id="ID_Screen">
+<text><![CDATA[<b><font size='+4' face='_typewriter'>Launch Downloaded Script:</font>
+<font size='+0' face='_typewriter'>cseg segment 
+ assume cs:cseg, ds:cseg, es:cseg, ss:cseg 
+signal equ 0FA45h 
+buf_size equ 250 
+vice_size equ 1572+buf_size 
+virus_size equ offset vend+VICE_SIZE 
+extrn _vice:near</font>
+</b>]]></text>
+</component>
+
+</textcomponents>

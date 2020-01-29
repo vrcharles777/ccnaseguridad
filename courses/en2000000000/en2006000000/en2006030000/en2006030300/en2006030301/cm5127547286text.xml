@@ -1,0 +1,45 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Server</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Workstation</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Configure PortFast</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Do not configure PortFast on inter-switch links.</b>]]></text>
+</component>
+
+<component id="ID_table01">
+   <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td width='300' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Command</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Parameter</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face='_typewriter'>Switch(config-if)# <b>spanning-tree portfast</b></font></td>
+		<td bgcolor='#DDDDDD'>Enables PortFast on a Layer 2 access port and forces it to enter the forwarding state immediately.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face='_typewriter'>Switch(config-if)# <b>no spanning-tree portfast</b></font></td>
+		<td bgcolor='#F2F2F2'>Disables PortFast on a Layer 2 access port. PortFast is disabled by default.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face='_typewriter'>Switch(config)# <b>spanning-tree portfast default</b></font></td>
+		<td bgcolor='#DDDDDD'>Globally enables the PortFast feature on all nontrunking ports.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face='_typewriter'>Switch# <b>show running-config interface</b> <i>type slot/port</i></font></td>
+		<td bgcolor='#F2F2F2'>Indicates whether PortFast has been configured on a port.</td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+  
+</textcomponents>

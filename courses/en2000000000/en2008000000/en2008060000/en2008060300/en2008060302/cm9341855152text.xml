@@ -1,0 +1,51 @@
+﻿<textcomponents>
+<component id="ID_inst">
+  <text><![CDATA[<b>Click on the highlighted areas for more information about the clientless SSL VPN installations.</b>]]></text> 
+</component>
+<component id="ID_txt01">
+	<text><![CDATA[<b>Supply Partner</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>Corporate Managed Laptop</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b>Public Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+	<text><![CDATA[<b>Cisco ASA 5500 Series</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+	<text><![CDATA[<b>Public Terminals</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+	<text><![CDATA[<b>Employee at Home</b>]]></text>
+</component>
+<component id="ID_box01">
+	<text><![CDATA[<b>Clientless SSL VPN</b>]]></text>
+</component>
+
+<component id="ID_box02">
+	<text><![CDATA[<b>Client-based SSL or IPsec VPN</b>]]></text>
+</component>
+<component id="ID_pop01_title">
+	<text><![CDATA[<b>Supply Partner</b>]]></text>
+</component>
+
+<component id="ID_pop01">
+	<text><![CDATA[<b>Requires "locked down" access to specific extranet resources and applications.</b>]]></text>
+</component>
+
+<component id="ID_pop02_title">
+	<text><![CDATA[<b>Public Terminals</b>]]></text>
+</component>
+
+<component id="ID_pop02">
+	<text><![CDATA[<b>Remote users may require lightweight access to email and Web-based applications from a public machine.</b>]]></text>
+</component>
+
+</textcomponents>

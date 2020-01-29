@@ -1,0 +1,31 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>In this example, four user accounts were created.<ul><li>A USER account with normal, Level 1 access.</li><li>A SUPPORT account with Level 5 and <font face='_typewriter'><b>ping</b></font> command access.</li><li>A JR-ADMIN account with the same privileges as the SUPPORT account plus access to the <font face='_typewriter'><b>reload</b></font> command.</li><li>An ADMIN account which has all of the regular privileged EXEC commands.</li></ul></td></tr></table>]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The administrator tests the accounts and logs in as the Level 1 user.<ul><li>Usernames are not case-sensitive by default.</li><li>Notice the prompt indicates Level 1 (<font face='_typewriter'>R1></font>).</li><li>The <font face='_typewriter'><b>ping</b></font> command which is typically available from Level 1 is no longer available.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_s3_txt01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The administrator now verifies the Level 5 access.<ul><li>The <font face='_typewriter'><b>enable</b><i> level</i></font> command is used to switch from Level 1 to Level 5.</li><li>Notice now the user can <font face='_typewriter'><b>ping</b></font> but cannot use the <font face='_typewriter'><b>reload</b></font> command.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_button1">
+  <text><![CDATA[<b>Create Privilege Levels</b>]]></text> 
+</component>
+
+<component id="ID_button2">
+  <text><![CDATA[<b>Level 1</b>]]></text> 
+</component>
+
+<component id="ID_button3">
+  <text><![CDATA[<b>Level 5</b>]]></text> 
+</component>
+
+</textcomponents>

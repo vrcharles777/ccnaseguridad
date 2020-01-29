@@ -1,0 +1,14 @@
+﻿<textcomponents>
+  <component id="ID_txt01">
+  <text><![CDATA[<b>Click R1 to view a sample configuration of local AAA Authentication.</b>]]></text> 
+  </component>
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+<component id="ID_minfo02">
+<text><![CDATA[More Information]]></text>
+</component>
+<component id="ID_minfo03">
+<text><![CDATA[AAA Authentication using a local database is most commonly referred to as Local AAA Authentication. However, Cisco also refers to this type of authentication as "self-contained authentication" or the "self-contained AAA" method. For certification purposes, it is necessary to be familiar with all terms.]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Clear<br/>Message</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>MD5</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Hash<br/>Function</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Hashed<br/>Message</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>MD5 Algorithm</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Is used in a variety of internet applications.</li><li>Uses a one-way hashing function - easy to compute hash and infeasible to compute data given a hash.</li><li>Produces a 128-bit hash from a complex sequence of simple binary operations.</li></textformat></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

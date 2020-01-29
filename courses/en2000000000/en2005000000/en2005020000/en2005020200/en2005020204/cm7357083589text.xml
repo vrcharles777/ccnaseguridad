@@ -1,0 +1,25 @@
+﻿<textcomponents>
+<component id="tableHTML">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  <tr>
+    <td rowspan='2' width='150' bgcolor='#FFFF99'><font  color='#FFFFFF'><b>Signature Trigger</b></font></td>
+    <td colspan='2' bgcolor='#FFFF99'><font  color='#FFFFFF'><p align='center'><b>Signature Type</b></p></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>Atomic Signature</b></td>
+    <td bgcolor='#FFFF99'><b>Composite Signature</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'><b>Policy-based Detection</b></td>
+    <td bgcolor='#F2F2F2'>No state required to identify undesirable behavior.</td>
+    <td bgcolor='#F2F2F2'>Previous activity (state) required to identify undesirable behavior.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD'><b>Example</b></td>
+    <td bgcolor='#DDDDDD'>Detecting abnormally large fragmented packets by examining only the last fragment.</td>
+    <td bgcolor='#DDDDDD'>A SUN Unix host sending RPC requests to remote hosts without initially consulting the SUN PortMapper program.</td>
+  </tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

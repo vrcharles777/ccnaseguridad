@@ -1,0 +1,98 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_s1">
+  <text><![CDATA[<b>Physical Security</b>]]></text> 
+</component>
+
+<component id="ID_txt02_s1">
+  <text><![CDATA[<b>Operating System Security</b>]]></text>
+</component>
+
+<component id="ID_txt03_s1">
+  <text><![CDATA[<b>Router Hardening</b>]]></text> 
+</component>
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><b><li>It is crucial that the network perimeter is secure.</li><br/><li>Secure administrative access must be implemented on infrastructure devices.</li><br/><li>For remote access to infrastructure devices, implement advanced virtual login security.</li><br/><li>Use SSH instead of Telnet wherever supported.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+
+<component id="femaleText_s2">
+<text><![CDATA[<b>Security Operator Privileges</b><br/><li>Configure AAA</li><li>Issue <font face="_typewriter"><b>show</b></font> Commands</li><li>Configure Firewall</li><li>Configure IDS/IPS</li><li>Configure NetFlow</li>]]></text>
+</component>
+
+<component id="maleText_s2">
+  <text><![CDATA[<b>WAN Engineer Privileges</b><br/><li>Configure Routing</li><li>Configure Interfaces</li><li>Issue <font face="_typewriter"><b>show</b></font> Commands</li>]]></text> 
+</component>
+
+<component id="slide02">
+<text><![CDATA[<b><font size="14"><li>Provide access to infrastructure devices based on privilege level.</li><br/><li>Implement role-based CLI to provide hierarchical administrative access.</li></b></ul></font>]]></text>
+</component>
+
+
+
+
+
+
+<component id="ID_txt01_s3">
+<text><![CDATA[Public Web Server<BR/>10.2.2.3]]></text>
+</component>
+<component id="ID_txt02_s3">
+  <text><![CDATA[Mail Server<BR/>10.2.2.4]]></text> 
+  </component>
+<component id="ID_txt03_s3">
+  <text><![CDATA[Admin Server<BR/>10.2.2.5]]></text> 
+  </component>
+<component id="ID_txt04_s3">
+  <text><![CDATA[Syslog Client]]></text> 
+  </component>
+<component id="ID_txt05_s3">
+  <text><![CDATA[Protected LAN<BR/>10.2.3.0/24]]></text> 
+  </component>
+<component id="ID_txt06_s3">
+	<text><![CDATA[Syslog Server (Log Host)<BR/>10.2.2.6]]></text>
+</component>
+<component id="ID_txt07_s3">
+	<text><![CDATA[User<BR/>10.2.3.3]]></text>
+</component>
+<component id="ID_txt08_s3">
+	<text><![CDATA[DMZ LAN 10.2.2.0/24]]></text>
+</component>
+<component id="ID_txt09_s3">
+	<text><![CDATA[FTP/Web Server 10.2.3.2]]></text>
+</component>
+
+<component id="slide03">
+<text><![CDATA[<b><font size="14"><li>Secure Cisco IOS images and configuration files using the Cisco IOS resilient configuration feature.</li><br/><li>Identify factors for securely transmitting data related to network management and reporting of device activity.</li><br/><li>Implement syslog logging from critical infrastructure devices.</li><br/><li>Implement SNMP management reporting.</li><br/><li>Configure a central time source using the Network Time Protocol (NTP).</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt01_s4">
+<text><![CDATA[<font size="12"><b>Perform Security Audit</b></font>]]></text>
+</component>
+
+<component id="ID_txt02_s4">
+<text><![CDATA[<font size="12"><b>One-Step Lockdown</b></font>]]></text>
+</component>
+
+<component id="slide04">
+<text><![CDATA[<b><font size="14"><li>Identify all services, interfaces, and management services that are vulnerable to network attacks.</li><br/><li>Routinely perform security audits.</li><br/><li>Use the SDM one-step lockdown feature or the <font face='_typewriter'><b>auto secure</b></font> command on new routers.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+</textcomponents>

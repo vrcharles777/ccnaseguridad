@@ -1,0 +1,13 @@
+<textcomponents>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>MARS Characteristics</b></font></td>
+	</tr>
+	<tr><td bgcolor='#DDDDDD'><ul><li>MARS is used to centrally manage all IPS sensors.</li><li>MARS is used to correlate all of the IPS and Syslog events in a central location.</li><li>MARS functionality should be integrated into the incident response plan identified by the Network Security Policy.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

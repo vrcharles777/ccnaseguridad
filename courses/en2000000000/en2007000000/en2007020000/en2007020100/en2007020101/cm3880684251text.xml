@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Data of Arbitrary Length]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Fixed-Length<br/>Hash Value]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Clear Message]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<font color='#FFFFFF'>Hash Function</font>]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Hashes are used for integrity assurance.</li><li>Hashes are based on one-way functions.</li><li>The hash function hashes arbitrary data into a fixed-length digest known as the hash value, message digest, digest, or fingerprint.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

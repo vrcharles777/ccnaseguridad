@@ -1,0 +1,73 @@
+﻿<textcomponents>
+<component id="ID_caption">
+<text><![CDATA[<b>*** An alert will be written to the Event Store, even if the Produce Alert action is not selected.</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Category</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Specific Alert</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Description</b>]]></text> 
+  </component>
+<component id='tableHTML'>
+<text><![CDATA[<table bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  <tr>
+    <td width='130' rowspan='2'><b>Generating an alert</b></td>
+    <td width='165'>Produce alert</td>
+    <td><li>This action writes the event to the Event Store as an alert.</li></td>
+  </tr>
+  <tr>
+    <td>Produce verbose alert</td>
+    <td><li>This action includes an encoded dump of the offending packet in the alert. ***</li></td>
+  </tr>
+  <tr>
+    <td rowspan='3'><b>Logging the activity</b></td>
+    <td>Log attacker packets</td>
+    <td><li>This action starts IP logging on packets that contain the attacker address and sends an alert. ***</li></td>
+  </tr>
+  <tr>
+    <td>Log pair packets</td>
+    <td><li>This action starts IP logging on packets that contain the attacker and victim address pair. ***</li></td>
+  </tr>
+  <tr>
+    <td>Log victim packets</td>
+    <td><li>This action starts IP logging on packets that contain the victim address and sends an alert. ***</li></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic' rowspan='3'><b>Dropping or preventing the activity</b></td>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Deny attacker inline</td>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><li>This action terminates the current packet and future packets from this attacker address for a specified period of time.</li><li>The sensor maintains a list of the attackers currently being denied by the system.</li><li>Entries may be removed from the list manually or wait for the timer to expire.</li><li>The timer is a sliding timer for each entry. Therefore, if attacker A is currently being denied, but issues another attack, the timer for attacker A is reset and attacker A remains on the denied attacker list until the timer expires.</li><li>If the denied attacker list is at capacity and cannot add a new entry, the packet is still denied.</li></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Deny connection inline</td>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><li>This action terminates the current packet and future packets on this TCP flow.</li></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Deny packet inline</td>
+    <td bgcolor='#FFFFCC' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><li>This action terminates the packet.</li></td>
+  </tr>
+  <tr>
+    <td><b>Resetting a TCP connection</b></td>
+    <td>Reset TCP connection</td>
+    <td><li>This action sends TCP resets to hijack and terminate the TCP flow.</li></td>
+  </tr>
+  <tr>
+    <td rowspan='3'><b>Blocking future activity</b></td>
+    <td>Request block connection</td>
+    <td><li>This action sends a request to a blocking device to block this connection.</li></td>
+  </tr>
+  <tr>
+    <td>Request block host</td>
+    <td><li>This action sends a request to a blocking device to block this attacker host.</li></td>
+  </tr>
+  <tr>
+    <td>Request SNMP trap</td>
+    <td><li>This action sends a request to the notification application component of the sensor to perform Simple Network Management Protocol (SNMP) notification. ***</li></td>
+  </tr>
+</table>
+]]></text>
+</component>
+
+</textcomponents>

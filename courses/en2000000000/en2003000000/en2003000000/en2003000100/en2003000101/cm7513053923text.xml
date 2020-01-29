@@ -1,0 +1,5 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>In this chapter, you will:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Explain the function and operation of the authentication, authorization, and accounting (AAA) protocol.</li><li>Configure a Cisco router to perform AAA authentication with a local database.</li><li>Describe how to configure Cisco ACS to support AAA for Cisco IOS routers.</li><li>Configure server-based AAA.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

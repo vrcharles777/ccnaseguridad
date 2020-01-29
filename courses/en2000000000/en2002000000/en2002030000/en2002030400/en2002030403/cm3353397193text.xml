@@ -1,0 +1,47 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Transmissions from manager to agent may be <b>authenticated</b> to guarantee the identity of the sender and the <b>integrity</b> and timeliness of a message.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[SNMPv3 messages may be encrypted to ensure <b>privacy</b>.]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Agent may enforce <b>access control</b> to restrict each principal to certain actions on certain portions of its data.]]></text>
+</component>
+
+<component id="ID_top01">
+<text><![CDATA[<b>NMS</b>]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[<b>NMS</b>]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[<b>NMS</b>]]></text>
+</component>
+
+<component id="ID_top04">
+<text><![CDATA[<b>Encrypted Tunnel</b>]]></text>
+</component>
+
+<component id="ID_top05">
+<text><![CDATA[<b>Managed Node</b>]]></text>
+</component>
+
+<component id="ID_top06">
+<text><![CDATA[<b>Managed Node</b>]]></text>
+</component>
+
+<component id="ID_top07">
+<text><![CDATA[<b>Managed Node</b>]]></text>
+</component>
+
+<component id="ID_top08">
+<text><![CDATA[<b>Managed Node</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,60 @@
+<textcomponents>
+
+<!-- slide2 -->
+
+<component id="ID_s2_txt01">
+<text><![CDATA[<b>Price</b>]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[<b>Functionality</b>]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[<b><font color="#ffffffff">SOHO</font></b>]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[<b><font color="#ffffffff">ROBO</font></b>]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[<b><font color="#ffffffff">SMB</font></b>]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[<b><font color="#ffffffff">Enterprise</font></b>]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[<b><font color="#ffffffff">SP</font></b>]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+<text><![CDATA[<b>PIX 501 Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_s2_txt09">
+<text><![CDATA[<b>PIX 506E Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_s2_txt10">
+<text><![CDATA[<b>PIX 515E Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_s2_txt11">
+<text><![CDATA[<b>PIX 525 Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_s2_txt12">
+<text><![CDATA[<b>PIX 535 Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_s2_txt13">
+<text><![CDATA[<b>Gigabit Ethernet</b>]]></text>
+</component>
+
+</textcomponents>
+
+
+

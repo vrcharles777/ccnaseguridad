@@ -1,0 +1,91 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Secure Network Platform<br/><font size="-2">Security Services Integrated into the Network</font></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Integrate Advanced Services</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Leverage Existing Investment</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Required Network Security Services</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Automated Threat Response</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Virtualized Security Services</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Behavioral-Based Protection</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Endpoint Posture<br/>Control</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Dynamic DDoS<br/>Mitigation</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Endpoint and Application-Layer Inspection</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Security Point Products</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Integrate Advanced Security Services, while leveraging existing network infrastructure, to meet security requirements.</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>Access Control</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Network Antivirus</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>IP Network</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>IPsec and SSL VPN</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>Access Control</b>]]></text>
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>Network Antivirus</b>]]></text>
+</component>
+
+</textcomponents>

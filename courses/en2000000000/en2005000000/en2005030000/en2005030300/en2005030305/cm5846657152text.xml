@@ -1,0 +1,14 @@
+﻿<textcomponents>
+<component id="ID_button1">
+<text><![CDATA[<b>Edit a Signature</b>]]></text>
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Signature Parameters - 1</b>]]></text> 
+  </component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Signature Parameters - 2</b>]]></text> 
+  </component>
+<component id="ID_inst">
+   <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+ </component>
+</textcomponents>

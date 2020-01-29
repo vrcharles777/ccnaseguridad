@@ -1,0 +1,28 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[Comparing IDS and IPS Solutions]]></text>
+</component>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td> </td>
+		<td><font color='#FFFFFF'>Advantages</font></td>
+		<td><font color='#FFFFFF'>Disadvantages</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>IDS (Promiscuous Mode)</td>
+		<td bgcolor='#DDDDDD'><ul><li>No impact on network (latency, jitter)</li><li>No network impact if there is a sensor failure</li><li>No network impact if there is sensor overload</li></ul></td>
+		<td bgcolor='#DDDDDD'><ul><li>Response action cannot stop trigger packets</li><li>Correct tuning required for response actions</li><li>Must have a well thought-out security policy</li><li>More vulnerable to network evasion techniques</li></ul></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>IPS (Inline Mode)</td>
+		<td bgcolor='#F2F2F2'><ul><li>Stops trigger packets</li><li>Can use stream normalization techniques</li></ul></td>
+		<td bgcolor='#F2F2F2'><ul><li>Sensor issues might affect network traffic</li><li>Sensor overloading impacts the network</li><li>Must have a well thought-out security policy</li><li>Some impact on network (latency, jitter)</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+</textcomponents>

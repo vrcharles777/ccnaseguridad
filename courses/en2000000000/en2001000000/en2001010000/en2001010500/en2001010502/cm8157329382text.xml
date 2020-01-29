@@ -1,0 +1,163 @@
+<textcomponents>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text>
+</component>
+
+<component id="ID_inst02">
+	<text><![CDATA[<b>Roll over the highlighted icons to view more information. </b>]]></text>
+</component>
+
+<component id="ID_title">
+	<text><![CDATA[<b><font size='+2'>Cisco Self-Defending Network</font></b>]]></text>
+</component>
+
+<component id="ID_btn1">
+	<text><![CDATA[<b>Services</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Topology</b>]]></text> 
+</component>
+
+<component id="ID_box01_title">
+	<text><![CDATA[<b>Services:</b>]]></text>
+</component>
+
+<component id="ID_box01_txt">
+	<text><![CDATA[<b>360º visibility and protection:<br/><textformat blockindent='20'>Delivering comprehensive and proactive network defense</textformat><br/><br/>Simplified control:<br/><textformat blockindent='20'>Streamlining policy and threat management across the network</textformat><br/><br/>Business resiliency:<br/><textformat blockindent='20'>Ensuring the enterprise operations</textformat></b>]]></text>
+</component>
+
+<component id="ID_chart01">
+	<text><![CDATA[<b>Policy Management</b>]]></text>
+</component>
+
+<component id="ID_chart01txt">
+	<text><![CDATA[<b><font size="-2">Cisco Security Manager</font></b>]]></text>
+</component>
+
+<component id="ID_chart02">
+	<text><![CDATA[<b>Threat Management</b>]]></text> 
+</component>
+
+<component id="ID_chart02txt">
+	<text><![CDATA[<b><font size="-2">Cisco Security MARS</font></b>]]></text> 
+</component>
+
+<component id="ID_chart03">
+	<text><![CDATA[<b>Endpoint Security</b>]]></text> 
+</component>
+
+<component id="ID_chart03txt">
+	<text><![CDATA[<b><font size="-2">Cisco NAC Appliance and Cisco Security Agent</font></b>]]></text> 
+</component>
+
+<component id="ID_chart04">
+	<text><![CDATA[<b>Network Infrastructure</b>]]></text> 
+</component>
+
+<component id="ID_chart04txt">
+	<text><![CDATA[<b><font size="-2">Cisco IPS Sensor Software, Cisco IOS Software, and Cisco ASA Adaptive Security Appliances</font></b>]]></text> 
+</component>
+
+<component id="ID_topo01">
+	<text><![CDATA[<b>VPN Router</b>]]></text>
+</component>
+
+<component id="ID_topo02">
+	<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_topo03">
+	<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_topo04">
+	<text><![CDATA[<b>Cisco ISR, VPN, FW</b>]]></text> 
+</component>
+
+<component id="ID_topo05">
+	<text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_topo06">
+	<text><![CDATA[<b>Cisco ISR, VPN, FW</b>]]></text>
+</component>
+
+<component id="ID_topo07">
+	<text><![CDATA[<b>Cisco ASA, FW, VPN</b>]]></text> 
+</component>
+
+<component id="ID_topo08">
+	<text><![CDATA[<b>IPS</b>]]></text> 
+</component>
+
+<component id="ID_topo09">
+	<text><![CDATA[<b>Cisco Catalyst 6500</b>]]></text> 
+</component>
+
+<component id="ID_topo10">
+	<text><![CDATA[<b>MARS</b>]]></text> 
+</component>
+
+<component id="ID_topo11">
+	<text><![CDATA[<b>CS-MGR</b>]]></text> 
+</component>
+
+<component id="ID_pop01t">
+	<text><![CDATA[<b>CS-MGR</b>]]></text>
+</component>
+
+<component id="ID_pop01">
+	<text><![CDATA[<b>Cisco Security Manager provides policy-based management.</b>]]></text>
+</component>
+
+<component id="ID_pop02t">
+	<text><![CDATA[<b>MARS</b>]]></text> 
+</component>
+
+<component id="ID_pop02">
+	<text><![CDATA[<b>Cisco Security Monitoring, Analysis, and Response System (MARS) provides threat management.</b>]]></text> 
+</component>
+
+<component id="ID_pop03t">
+	<text><![CDATA[<b>IPS</b>]]></text> 
+</component>
+
+<component id="ID_pop03">
+	<text><![CDATA[<b>Cisco IPS provides traffic inspection and threat mitigation.</b>]]></text> 
+</component>
+
+<component id="ID_pop04t">
+	<text><![CDATA[<b>Cisco ASA, FW, VPN</b>]]></text> 
+</component>
+
+<component id="ID_pop04">
+	<text><![CDATA[<b>Cisco IOS Firewall Software and Cisco Adaptive Security Appliances provide traffic filtering.</b>]]></text> 
+</component>
+
+<component id="ID_pop05t">
+	<text><![CDATA[<b>Cisco ISR, VPN, FW</b>]]></text> 
+</component>
+
+<component id="ID_pop05">
+	<text><![CDATA[<b>Cisco IOS Firewall and Virtual Private Network software provide private networking, access control and filtering.</b>]]></text> 
+</component>
+
+<component id="ID_pop05at">
+	<text><![CDATA[<b>Cisco ISR, VPN, FW</b>]]></text> 
+</component>
+
+<component id="ID_pop05a">
+	<text><![CDATA[<b>Cisco IOS Firewall and Virtual Private Network software provide private networking, access control and filtering.</b>]]></text> 
+</component>
+
+<component id="ID_pop06t">
+	<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_pop06">
+	<text><![CDATA[<b>Cisco NAC Appliances and Cisco Security Agent provide endpoint security.</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt06">
+<text><![CDATA[WWW Server<br/>209.165.201.1]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Mail Server<br/>209.165.201.2]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[DMZ]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Inside]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Outside]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Internet]]></text> 
+</component>
+
+</textcomponents>

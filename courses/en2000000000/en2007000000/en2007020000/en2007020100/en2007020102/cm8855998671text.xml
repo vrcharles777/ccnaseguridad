@@ -1,0 +1,24 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Arbitrary Length Text]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Hash Function]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Hash Value]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Clear Message]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<font color='#FFFFFF'>Hash Function</font>]]></text>
+</component>
+
+
+</textcomponents>

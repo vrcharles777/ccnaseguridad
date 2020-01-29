@@ -1,0 +1,73 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Router]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Router]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[New IP HDR]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[ESP HDR]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[ESP Trailer]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[ESP Authentication]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[&nbsp;Encrypted&nbsp;]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[&nbsp;Authenticated&nbsp;]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Provides confidentiality with encryption</li><li>Provides integrity with authentication</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

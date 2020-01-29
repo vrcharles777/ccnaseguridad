@@ -1,0 +1,33 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Clear<br/>Message</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Secret Key</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Data of Arbitrary Length</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Fixed Length Authenticated Hash Value</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[The same procedure is used for generation and verification of secure fingerprints.]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Hash<br/>Function</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  <tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>HMAC Features</b></font></td></tr>
+  <tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>HMACs use an additional secret key as input to the hash function adding authentication to integrity assurance.</li><li>The secret key is known to the sender and receiver and defeats man-in-the-middle attacks.</li><li>HMAC is based on existing hash functions, such as MD5 and SHA-1.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

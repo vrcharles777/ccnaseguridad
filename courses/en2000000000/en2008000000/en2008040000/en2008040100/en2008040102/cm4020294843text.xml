@@ -1,0 +1,13 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Tasks to Configure IPsec:
+</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><textformat tabstops='[44]'>Task 1:&#09;<textformat blockindent='44'>Ensure that ACLs are compatible with IPsec.</textformat><br/>Task 2:&#09;<textformat blockindent='44'>Create ISAKMP (IKE) policy.</textformat><br/>Task 3:&#09;<textformat blockindent='44'>Configure IPsec transform set.</textformat><br/>Task 4:&#09;<textformat blockindent='44'>Create a crypto ACL.</textformat><br/>Task 5:&#09;<textformat blockindent='44'>Create and apply the crypto map.</textformat></textformat></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

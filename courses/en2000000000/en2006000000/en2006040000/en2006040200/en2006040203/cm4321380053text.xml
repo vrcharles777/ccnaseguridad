@@ -1,0 +1,8 @@
+<textcomponents>
+
+<!-- This page does not have text -->
+<component id="ID_name">
+<text><![CDATA[ ]]></text>
+</component>
+
+</textcomponents>

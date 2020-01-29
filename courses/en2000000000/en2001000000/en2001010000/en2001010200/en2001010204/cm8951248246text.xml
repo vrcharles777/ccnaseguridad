@@ -1,0 +1,33 @@
+<textcomponents>
+<component id="ID_Job1">
+<text><![CDATA[<b>Network Security Engineer</b>]]></text>
+</component>
+<component id="ID_Job2">
+  <text><![CDATA[<b>Information Security Analyst</b>]]></text> 
+  </component>
+<component id="ID_Job3">
+  <text><![CDATA[<b>Network Security Specialist</b>]]></text> 
+  </component>
+<component id="ID_Job4">
+  <text><![CDATA[<b>Network Security Administrator</b>]]></text> 
+  </component>
+<component id="ID_Job5">
+  <text><![CDATA[<b>Network Security Architect</b>]]></text> 
+  </component>
+<component id="ID_Job6">
+	<text>Systems Engineer</text>
+</component>
+	
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+
+<component id="ID_minfo02">
+<text><![CDATA[<b>More Information</b>]]></text>
+</component>
+
+<component id="ID_minfo03">
+<text><![CDATA[In today's environment, several organizations track, organize and test vulnerabilities. The Mitre Corporation maintains a list of vulnerabilities at cve.mitre.org. Each vulnerability is given an ID and can be reviewed by network security professionals over the Internet. A continuously updated common vulnerability exposure (CVE) list is compiled. The website also describes how to manage the vulnerabilities.]]></text>
+</component>
+
+</textcomponents>

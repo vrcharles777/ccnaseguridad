@@ -1,0 +1,55 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button and roll over the highlighted text for more information.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Command Parameters</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Sample Banner</b>]]></text>
+</component>
+
+
+<!-- slide1-->
+<component id="ID_sl1_pop01">
+<text><![CDATA[Specifies and enables a message to be displayed when an EXEC process is created on the router (an EXEC banner)]]></text>
+</component>
+
+<component id="ID_sl1_pop02">
+<text><![CDATA[Specifies and enables a banner to be displayed when there is an incoming connection to a terminal line from a host on the network]]></text>
+</component>
+
+<component id="ID_sl1_pop03">
+<text><![CDATA[Specifies and enables a customized banner to be displayed before the username and password login prompts]]></text>
+</component>
+
+<component id="ID_sl1_pop04">
+<text><![CDATA[Specifies and enables a message-of-the-day (MOTD) banner]]></text>
+</component>
+
+<component id="ID_sl1_pop05">
+<text><![CDATA[Specifies and enables a banner to be displayed when a Serial Line Internet Protocol (SLIP) or PPP connection is made]]></text>
+</component>
+
+<component id="ID_sl1_pop06">
+<text><![CDATA[Represents the delimiting character of your choice—for example, a pound sign (#). You cannot use the delimiting character in the banner message]]></text>
+</component>
+
+<component id="ID_sl1_pop07">
+<text><![CDATA[Represents message text. You can include tokens in the form <font face='_typewriter'>$</font>(<font face='_typewriter'><i>token</i></font>) in the message text. Tokens are replaced with the corresponding configuration variable.]]></text>
+</component>
+
+<component id="ID_sl1_pop08">
+<text><![CDATA[Represents the delimiting character of your choice—for example, a pound sign (#). You cannot use the delimiting character in the banner message]]></text>
+</component>
+
+<!-- slide 2-->
+<component id="ID_sl2_txt01">
+<text><![CDATA[<font face='_typewriter'><b>This equipment is privately owned and access is logged. Disconnect immediately if you are not an authorized user. Violators will be prosecuted to the fullest extent of the law.<br/><br/>User Access Verification<br/><br/>Username:</b></font>]]></text>
+</component>
+
+
+</textcomponents>

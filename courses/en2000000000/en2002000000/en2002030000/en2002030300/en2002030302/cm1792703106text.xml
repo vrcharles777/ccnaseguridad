@@ -1,0 +1,30 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Public Web Server<BR/>10.2.2.3]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Mail Server<BR/>10.2.2.4]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Administrator Server<BR/>10.2.2.5]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Syslog Client]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Protected LAN<BR/>10.2.3.0/24]]></text> 
+  </component>
+<component id="ID_txt06">
+	<text><![CDATA[Syslog Server<BR/>10.2.3.2]]></text>
+</component>
+<component id="ID_txt07">
+	<text><![CDATA[User<BR/>10.2.3.3]]></text>
+</component>
+<component id="ID_txt08">
+	<text><![CDATA[DMZ LAN 10.2.2.0/24]]></text>
+</component>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>A syslog server is a device that accepts and processes log messages from one or more syslog clients.</li><li>A syslog client is a router or other type of equipment that generates log messages and forwards them to a syslog server.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

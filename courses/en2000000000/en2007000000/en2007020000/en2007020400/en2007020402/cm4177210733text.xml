@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>DES Key</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Keyspace</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b># of Possible Keys</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>56-bit</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>72,000,000,000,000,000</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>57-bit</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>144,000,000,000,000,000</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>58-bit</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>288,000,000,000,000,000</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>59-bit</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>576,000,000,000,000,000</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>60-bit</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>1,152,000,000,000,000,000</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<ul><li>For each bit added to the DES key, the attacker would require twice the amount of time to search the keyspace.</li><li>Longer keys are more secure but are also more resource intensive and can affect throughput.</li>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Twice as much time]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[Four times as much time]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[With 60-bit DES an attacker would require sixteen times as much time as 56-bit DES]]></text>
+</component>
+
+</textcomponents>

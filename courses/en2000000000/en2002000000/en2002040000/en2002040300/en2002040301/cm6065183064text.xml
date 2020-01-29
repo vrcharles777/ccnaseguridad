@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Locking Down a Router with Cisco SDM</b>]]></text>
+</component>
+
+<component id="ID_inst01">
+<text><![CDATA[Click through the steps to view how to complete the Cisco One-Step Lockdown process.]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Steps:</b>]]></text>
+</component>
+
+
+<component id="ID_button2">
+<text><![CDATA[<b>1</b>]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[<b>2</b>]]></text>
+</component>
+
+<component id="ID_button4">
+<text><![CDATA[<b>3</b>]]></text>
+</component>
+
+<component id="ID_button6">
+<text><![CDATA[<b>4</b>]]></text>
+</component>
+
+<component id="ID_button8">
+<text><![CDATA[<b>5</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt02">
+<text><![CDATA[From the <b>Configure</b> tab choose the <b>Security Audit</b> feature.]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Choose the <b>One-step lockdown</b> feature to perform the security action.]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Be sure to click <b>Yes</b> to continue the security audit process. Clicking No will cancel the operation.]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Once the process is complete, SDM displays a list of recommended settings. Click <b>Deliver</b> to send the configuration changes to the router.]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[The Commands Delivery Status window shows the status of delivering the commands to the router. After the configuration is delivered to the router, click <b>OK</b> to finish.]]></text>
+</component>
+
+
+</textcomponents>

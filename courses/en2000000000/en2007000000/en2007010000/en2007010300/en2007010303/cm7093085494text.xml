@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<b>Meet-in-the-Middle Attack</b>]]></text> 
+</component>
+  
+<component id="ID_txt01">
+  <text><![CDATA[<b>Known Ciphertext</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Known Plaintext</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[Use every possible decryption key until a result is found  matching the corresponding plaintext.]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[Use every possible encryption key until a result is found  matching the corresponding ciphertext.]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>MATCH of Ciphertext!<br/><br/>Key found</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>With a Meet-in-the-Middle attack, the attacker has some portion of text in both plaintext and ciphertext. The attacker attempts to unencrypt the ciphertext with all possible keys while simultaneously encrypting the plaintext with another set of possible keys until one match is found.</td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

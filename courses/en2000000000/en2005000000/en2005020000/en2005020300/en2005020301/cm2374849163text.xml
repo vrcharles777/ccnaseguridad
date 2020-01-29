@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Alarm Type</font></td>
+		<td><font color='#FFFFFF'>Network Activity</font></td>
+		<td><font color='#FFFFFF'>IPS Activity</font></td>
+		<td><font color='#FFFFFF'>Outcome</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>False positive</td>
+		<td bgcolor='#DDDDDD'>Normal user traffic</td>
+		<td bgcolor='#DDDDDD'>Alarm generated</td>
+		<td bgcolor='#DDDDDD'>Tune alarm</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>False negative</td>
+		<td bgcolor='#F2F2F2'>Attack traffic</td>
+		<td bgcolor='#F2F2F2'>No alarm generated</td>
+		<td bgcolor='#F2F2F2'>Tune alarm</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>True positive</td>
+		<td bgcolor='#DDDDDD'>Attack traffic</td>
+		<td bgcolor='#DDDDDD'>Alarm generated</td>
+		<td bgcolor='#DDDDDD'>Ideal setting</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>True negative</td>
+		<td bgcolor='#F2F2F2'>Normal user traffic</td>
+		<td bgcolor='#F2F2F2'>No alarm generated</td>
+		<td bgcolor='#F2F2F2'>Ideal setting</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

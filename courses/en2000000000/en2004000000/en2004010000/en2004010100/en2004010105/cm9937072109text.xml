@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>ACL Configuration Guidelines</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>ACLs are created globally and then applied to interfaces.</li><li>An ACL can filter traffic going through the router, or traffic to and from the router, depending on how it is applied.</li><li>Only one ACL per interface, per protocol, per direction is allowed.</li><li>Standard or extended indicates the information that is used to filter packets.</li><li>ACLs are processed top-down. Once a packet meets an ACL test, the ACL processing stops and the packet is either permitted or denied; therefore, the most specific statements must go at the top of the list.</li><li>All ACLs have an implicit “deny all” statement at the end, therefore every list must have at least one permit statement to allow any traffic to pass.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

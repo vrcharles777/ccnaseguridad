@@ -1,0 +1,22 @@
+﻿<textcomponents>
+
+<!---slide 1---->
+<component id="ID_title01">
+  <text><![CDATA[<b>Step 3: Define Firewall Policies</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_new">
+  <text><![CDATA[<b>NAT Pool<BR/>172.16.10.32/28</b>]]></text> 
+</component>
+</textcomponents>

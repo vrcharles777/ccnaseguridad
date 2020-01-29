@@ -1,0 +1,83 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the CBAC capabilities for more information.]]></text>
+</component>
+
+<component id="ID_header01">
+<text><![CDATA[<b>CBAC Capabilities</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[Monitors TCP Connection Setup<br/>Examines TCP Sequence Numbers]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Inspects DNS Queries and Replies]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[Inspects Common ICMP Message Types]]></text>
+</component>
+
+<component id="ID_btn4">
+<text><![CDATA[Supports Applications with Multiple Channels, such as FTP and Multimedia]]></text>
+</component>
+
+<component id="ID_btn5">
+<text><![CDATA[Inspects Embedded Addresses]]></text>
+</component>
+
+<component id="ID_btn6">
+<text><![CDATA[Inspects Application Layer Information]]></text>
+</component>
+
+<component id="ID_pop1">
+<text><![CDATA[ ]]></text>
+</component>
+ 
+<component id="ID_poptext1">
+<text><![CDATA[<ul><li>TCP Connections not setup within 30 seconds after receipt of the first SYN segment, result in the IOS removing the entry from the state table and ACL.</li><li>Once the FIN flag is set, indicating a connection is ending, this results in the IOS removing the entry from the state table and ACL.</li><li>If a TCP session is idle longer than 1 hour, the IOS removes the entry. </li><li>If sequence numbers do not fall within an expected range, the packets are dropped.</li></ul>]]></text>
+</component>
+
+<component id="ID_pop2">
+<text><![CDATA[ ]]></text>
+</component>
+
+<component id="ID_poptext2">
+<text><![CDATA[<ul><li>CBAC approximates UDP connection times. If no traffic is seen on a UDP connection for more than 30 seconds, the IOS removes the entry from the state table and ACL.</li><li>DNS queries and replies are also inspected. When an internal device generates a DNS query, CBAC expects the remote DNS server to respond with a DNS reply within 5 seconds, otherwise the dynamic ACL entry is removed to prevent spoofing. </li><li>Once a DNS reply is seen, the IOS immediately removes the dynamic ACL entry.</li></ul>]]></text>
+</component>
+
+<component id="ID_pop3">
+<text><![CDATA[ ]]></text>
+</component>
+
+<component id="ID_poptext3">
+<text><![CDATA[<ul><li>Inspection of ICMP traffic was introduced in Cisco IOS Release 12.2(15)T.</li><li>ICMP message types that are inspected include: echo request, echo reply, destination unreachable, time exceeded, timestamp request, and timestamp reply messages. All other ICMP message types are not inspected.</li><li>CBAC expects replies to the supported ICMP message types within 10 seconds, otherwise the ICMP connection is removed from the state table and the dynamic ACL entry is removed.</li><li>Only the supported response message types are allowed (based on the request); other message types are dropped.</li></ul>]]></text>
+</component>
+
+<component id="ID_pop4">
+<text><![CDATA[ ]]></text>
+</component>
+
+<component id="ID_poptext4">
+<text><![CDATA[<ul><li>CBAC inspects the control connection for these applications to determine whether a data connection or other connection is being opened.</li><li>If new connections are created in conjunction with the control channel, the information is automatically added to the dynamic ACL to permit the connection.</li></ul>]]></text>
+</component>
+
+<component id="ID_pop5">
+<text><![CDATA[ ]]></text>
+</component>
+
+<component id="ID_poptext5">
+<text><![CDATA[If NAT/PAT is enabled, it changes IP addresses or port numbers based on information in the address translation table.]]></text>
+</component>
+
+<component id="ID_pop6">
+<text><![CDATA[ ]]></text>
+</component>
+
+<component id="ID_poptext6">
+<text><![CDATA[<ul><li>CBAC can limit the interaction between two devices, for example, limiting SMTP commands between two email servers.</li><li>CBAC uses timeout and threshold values to inspect the setup of TCP connections to prevent DoS attacks. When thresholds are reached, the IOS can start dropping incomplete connections, generate an alert, and/or block the TCP traffic.</li></ul>]]></text>
+</component>
+
+</textcomponents>

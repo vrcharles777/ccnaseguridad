@@ -1,0 +1,25 @@
+﻿<textcomponents>
+
+<component id="ID_top01">
+  <text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+</component>
+
+<component id="ID_top03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_box01">
+  <text><![CDATA[<b><ul><li>Applies the crypto map to outgoing interface</li><li>Activates the IPsec policy</li></ul></b>]]></text>
+</component>
+
+<component id="ID_box02">
+  <text><![CDATA[<b>MYMAP</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>In this chapter, you will:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Describe the evolution of network security.</li><li>Describe the drivers for network security.</li><li>Describe the major network security organizations.</li><li>Describe the domains of network security.</li><li>Describe network security policies.</li><li>Describe viruses, worms, and Trojan Horses.</li><li>Describe how to mitigate threats from viruses, worms, and Trojan Horses.</li><li>Describe how network attacks are categorized.</li><li>Describe reconnaissance attacks.</li><li>Describe access attacks.</li><li>Describe Denial of Service attacks.</li><li>Describe how to mitigate network attacks.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

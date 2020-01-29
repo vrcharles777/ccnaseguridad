@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[1. <textformat blockindent='14'>Examines the Fa0/0 inbound ACL to determine if telnet requests are permitted to leave the network.</textformat>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[2. <textformat blockindent='14'>IOS compares packet type to inspection rules to determine if telnet should be tracked.</textformat>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[3. <textformat blockindent='14'>Adds information to the state type to track the telnet session.</textformat>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[4. <textformat blockindent='14'>Adds a dynamic entry to the inbound ACL on S0/0/0 to allow reply packets back into the internal network.</textformat>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[5. <textformat blockindent='14'>When the session is terminated by the client, the router will remove the state entry and dynamic ACL entry.</textformat>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Request telnet 209.x.x.x]]></text>
+</component>
+
+</textcomponents>

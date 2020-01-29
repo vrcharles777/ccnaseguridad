@@ -1,0 +1,51 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Create the IPS Rule and IPS File Location</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Enable SDEE and Logging Notifications</b>]]></text> 
+</component>
+  
+<component id="ID_btn3">
+  <text><![CDATA[<b>Configure the Signature Categories</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  <text><![CDATA[<b>Assign the IPS Rule to an Interface</b>]]></text> 
+</component>
+
+<component id="ID_bullets1">
+<text><![CDATA[<ul><li><textformat blockindent='14'>IPS rule <font face="_typewriter">iosips</font> is created.</textformat></li><li><textformat blockindent='14'>IPS location in flash is identified as <font face="_typewriter">flash:ips</font>.</li></ul></textformat>]]></text>
+</component>
+
+<component id="ID_bullets2">
+<text><![CDATA[SDEE and logging notification are enabled.]]></text>
+</component>
+
+<component id="ID_bullets3">
+<text><![CDATA[<ul><li><textformat blockindent='14'>The IPS <font face="_typewriter"><b>all</b></font> category is retired.</b></font></textformat></li><li><textformat blockindent='14'>The IPS <font face="_typewriter"><b>basic</b></font> category is unretired.</textformat></li></ul>]]></text>
+</component>
+
+<component id="ID_bullets4a">
+<text><![CDATA[<ul><li><textformat blockindent='14'>The IPS rule is applied in a incoming direction.</textformat></li></ul>]]></text>
+</component>
+
+<component id="ID_bullets4b">
+<text><![CDATA[<ul><li><textformat blockindent='14'>The IPS rule is applied in an incoming and outgoing direction.</textformat></li></ul>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<font face="_typewriter"><b>&lt;Output omitted&gt;</b></font>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<font face="_typewriter"><b>&lt;Output omitted&gt;</b></font>]]></text> 
+</component>
+  
+</textcomponents>

@@ -1,0 +1,27 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Configure IOS IPS Crypto Key</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Confirm IOS IPS Crypto Key</b>]]></text> 
+</component>
+  
+<component id="ID_bullets">
+<text><![CDATA[<textformat blockindent='14'>Highlight and copy the text contained in the public key file and paste it in global configuration mode.</textformat>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<font face="_typewriter"><b>&lt;Output omitted&gt;</b></font>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<font face="_typewriter"><b>&lt;Output omitted&gt;</b></font>]]></text> 
+</component>
+  
+</textcomponents>

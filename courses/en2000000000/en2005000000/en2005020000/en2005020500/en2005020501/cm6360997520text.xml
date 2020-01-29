@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_bubble">
+<text><![CDATA[The MARS appliance detected and mitigated an ARP poisoning attack.]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b> </b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>There are four factors to consider when planning a monitoring strategy:<ul><li>Management method</li><li>Event correlation</li><li>Security staff</li><li>Incident response plan</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

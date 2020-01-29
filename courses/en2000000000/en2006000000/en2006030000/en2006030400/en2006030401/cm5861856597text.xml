@@ -1,0 +1,40 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Storm Control</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Forwarded traffic</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Blocked traffic</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Total number of broadcast packets or bytes</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Threshold</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Time</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>T1</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>T2</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>T3</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>T4</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>T5</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,46 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button for more information.</b>]]></text> 
+</component>
+
+<component id="ID_caption1">
+  	<text><![CDATA[<b></b>]]></text> 
+</component>
+<component id="ID_caption2">
+  	<text><![CDATA[<b>Threats continue to become more sophisticated as the technical knowledge needed by attackers to implement attacks diminishes.</b>]]></text> 
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>High</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Medium</b>]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>Low</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Sophistication of Attacker Tools</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Technical Knowledge Needed</b>]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>Drag the attacker along the timeline.</b>]]></text>
+</component>
+
+<component id="table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+<tr><td bgcolor='#DDDDDD'><font color="#ffffff"><b>Timeline:</b></font></td></tr>
+<tr><td bgcolor='#F2F2F2'><ul><li>1978 - First Spam on ARPAnet</li><li>1988 - The Morris Internet Virus</li><li>1999 - Melissa Email Virus</li><li>2000 - Mafiaboy DoS Attack, Love Bug Worm, L0phtCrack password cracker released</li><li>2001 - Code Red DoS Attack</li><li>2004 - Botnet hits U.S. Military Systems </li><li>2007 - Storm botnet, TJX Credit Card Data Breach</li><li>2008 - Société Générale Stock Fraud</li></ul>
+</td></tr></table>]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>World Overview</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Attacker Tools Overview</b>]]></text>
+</component>
+</textcomponents>

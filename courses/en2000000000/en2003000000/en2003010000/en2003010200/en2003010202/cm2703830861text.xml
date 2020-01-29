@@ -1,0 +1,24 @@
+<textcomponents>
+
+<!-- topology -->
+<component id="ID_top01">
+<text><![CDATA[Remote Client]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[Perimeter Router]]></text>
+</component>
+
+<!-- bullets -->
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>1. <textformat blockindent='15'>When a user has been authenticated, a session is established with an AAA server.</textformat><br/>2. <textformat blockindent='15'>The router requests authorization for the requested service from the AAA server.</textformat><br/>3. <textformat blockindent='15'>The AAA server returns a PASS/FAIL for authorization.</textformat></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,10 @@
+<textcomponents>
+
+<component id="ID_bubble">
+  <text><![CDATA[<b>Another DoS attack!</b>]]></text> 
+  </component>
+  
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>The Symptoms of a DoS Attack Include:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Unusually slow network performance (opening files or accessing web sites)</li><li>Unavailability of a particular web site</li><li>Inability to access any web site</li><li>Dramatic increase in the number of spam emails received (“mail bomb”)</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

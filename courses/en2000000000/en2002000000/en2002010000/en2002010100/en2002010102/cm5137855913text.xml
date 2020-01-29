@@ -1,0 +1,51 @@
+<textcomponents>
+<component id="ID_txtHeader">
+<text><![CDATA[<b>Routers are used to secure the perimeter of networks.</b>]]></text> 
+</component>
+<component id="ID_txt01">
+<text><![CDATA[A single router approach:<ul><li>One router protecting the LAN.</li></ul>]]></text> 
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Defense-in-depth approach:<ul><li>A router screening traffic before a dedicated firewall appliance (e.g., ASA).</li><br/><br/><br/><br/><br/>DMZ approach:<li>Variation with a DMZ containing servers that must be accessible from the Internet connected to the firewall appliance.</li></ul>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[<b>R1</b>]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>LAN 1<br/>192.168.2.0<b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>R1</b>]]></text> 
+</component>
+<component id="ID_txt08">
+<text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[<b>LAN 1<br/>192.168.2.0<b>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt11">
+<text><![CDATA[<b>R1</b>]]></text> 
+</component>
+<component id="ID_txt12">
+<text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>R2</b>]]></text> 
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>DMZ</b>]]></text> 
+</component>
+<component id="ID_txt15">
+<text><![CDATA[<b>LAN 1<br/>192.168.2.0<b>]]></text>
+</component>
+
+</textcomponents>

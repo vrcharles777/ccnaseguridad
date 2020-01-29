@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_title01">
+<text><![CDATA[Encapsulated with GRE]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Original IP Packet]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[IP]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[GRE]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[IP]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[TCP]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Default GRE Header]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Flags]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Protocol Type]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Identifies the type of payload;<br/>EtherType 0x800 is used for IP]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Identifies the presence of optional header fields]]></text>
+</component>
+
+</textcomponents>

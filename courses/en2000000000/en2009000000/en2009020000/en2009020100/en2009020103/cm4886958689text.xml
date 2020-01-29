@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Cisco Self-Defending Network Defined</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Efficient security management, control, and response</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Advanced technologies and security services that:<ul><li>Mitigate the effects of outbreaks</li><li>Protect critical assets</li><li>Ensure privacy</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Security as an integral, fundamental network feature</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Operational Control and Policy Management</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Threat Control and Containment</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Secure Communications</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Secure Network Platform</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,44 @@
+﻿<textcomponents>
+<component id="ID_txt00">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>File System Interceptor</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Network Interceptor</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Configuration Interceptor</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Execution Space Interceptor</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>State</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Rules Engine</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Correlation Engine</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Rules and Policies</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>Allowed Request</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Blocked Request</b>]]></text> 
+  </component>
+<component id="ID_label1">
+  <text><![CDATA[<b>Application Software</b>]]></text> 
+  </component>
+<component id="ID_label2">
+  <text><![CDATA[<b>Operating System</b>]]></text> 
+  </component>
+<component id="ID_label3">
+  <text><![CDATA[<b>KERNEL</b>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,20 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Advantages and Disadvantages of HIPS</b>]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='320'><font color='#FFFFFF'><b>Advantages</b></font></td>
+		<td><font color='#FFFFFF'><b>Disadvantages</b></font></td>
+	</tr>
+	<tr>
+		<td><ul><li>The success or failure of an attack can be readily determined.</li><li>HIPS does not have to worry about fragmentation attacks or variable Time to Live (TTL) attacks.</li><li>HIPS has access to the traffic in unencrypted form.</li></ul></td>
+		<td><ul><li>HIPS does not provide a complete network picture.</li><li>HIPS has a requirement to support multiple operating systems.</li></ul></td>
+	</tr>
+</table>]]></text> 
+</component>
+
+</textcomponents>

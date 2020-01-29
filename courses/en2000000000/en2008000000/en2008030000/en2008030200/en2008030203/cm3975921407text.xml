@@ -1,0 +1,75 @@
+<textcomponents>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[Data payload is encrypted]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Integrity]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Authentication]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[Confidentiality]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Diffie-Hellman]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[Choices]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[MD5]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[SHA]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[PSK]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[RSA]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[DES]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[3DES]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[AES]]></text>
+</component>
+
+<component id="ID_s1_txt14">
+<text><![CDATA[SEAL]]></text>
+</component>
+
+<component id="ID_s1_txt15">
+<text><![CDATA[DH1]]></text>
+</component>
+
+<component id="ID_s1_txt16">
+<text><![CDATA[DH2]]></text>
+</component>
+
+<component id="ID_s1_txt17">
+<text><![CDATA[DH5]]></text>
+</component>
+
+<component id="ID_s1_txt18">
+<text><![CDATA[DH7]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,110 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text>
+</component>
+
+<!-- buttons -->
+<component id="ID_btn1">
+<text><![CDATA[<b>OSI Layers</b>]]></text>
+</component>
+<component id="ID_btn2">
+<text><![CDATA[<b>Stateful Packet Filtering</b>]]></text>
+</component>
+<component id="ID_btn3">
+<text><![CDATA[<b>Advantages/Disadvantages</b>]]></text>
+</component>
+
+
+<!-- slide1 -->
+<component id="ID_s1_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s1_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s1_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s1_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s1_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s1_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s1_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s1_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s1_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s1_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s1_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s1_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s1_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s1_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[Internet]]></text>
+</component>
+<component id="ID_s1_txt09">
+<text><![CDATA[Stateful Inspection]]></text>
+</component>
+<component id="ID_s1_txt10">
+<text><![CDATA[Stateful Session Flow Tables]]></text>
+</component>
+
+<!-- slide2 -->
+
+<component id="ID_s2_txt01">
+<text><![CDATA[source port 1500]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[destination port 80]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr>
+  <td width="255" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font color="#ffffff"><b>Inside ACL (Outgoing Traffic)</b></font></td>
+  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font color="#ffffff"><b>Outside ACL (Incoming Traffic)</b></font></td>
+</tr><tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>permit ip 10.0.0.0 0.0.0.255 any</b></font></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter" color="#ff0000"><b>Dynamic: permit tcp host 209.165.201.3 eq 80 host 10.1.1.1 eq 1500</b></font><br/><font face="_typewriter" color="#000000"><b>permit tcp any host 10.1.1.2 eq 25<br/>permit udp any host 10.1.1.2 eq 53<br/>deny ip any any</b></font></td></tr></table>]]></text> 
+  </component>
+
+<!-- slide3 -->
+
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr>
+  <td width="95" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>&nbsp;</td>
+  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+</tr><tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Advantages</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Stateful firewalls are often used as a primary means of defense by filtering unwanted, unnecessary, or undesirable traffic.</li><li>By providing more stringent control over security, stateful firewalls strengthen packet filtering.</li><li>Stateful firewalls improve performance over packet filters or proxy servers.</li><li>Stateful firewalls defend against spoofing and DoS attacks by determining whether packets belong to an existing connection or are from an unauthorized source.</li><li>More log information is provided by a stateful firewall than a packet filtering firewall.</li></ul></td></tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Disadvantages</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Stateful firewalls cannot prevent Application Layer attacks because they do not examine the actual contents of the HTTP connection.</li><li>Not all protocols are stateful, such as UDP and ICMP, these protocols do not get as much support.</li><li>Some applications open multiple connections requiring a whole new range of ports opened to allow this second connection.</li><li>Stateful firewalls do not support user authentication.</li></ul></td>
+  </tr>
+</table>]]></text> 
+  </component>
+
+</textcomponents>
+
+
+

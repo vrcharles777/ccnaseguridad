@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Review Zone-Based Policy</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>IOS CLI Generated Output</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>List of services defined in the firewall policy</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Apply action (inspect = stateful inspection)</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Zones created</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Interfaces assigned to zones</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Inspection applied from private to public zones</b>]]></text>
+</component>
+
+</textcomponents>

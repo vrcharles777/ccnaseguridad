@@ -1,0 +1,30 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[MAC A]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[MAC B]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[SNMP traps sent to NMS when new MAC addresses appear or when old ones time out.]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[NMS]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Switch CAM Table]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[MAC D is away
+from the network.]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>MAC address notification</b> allows monitoring of the MAC addresses, at the module and port level, added by the switch or removed from the CAM table for secure ports.]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Fa1/1 = MAC A<BR/>Fa1/2 = MAC B<BR/><BR/>Fa2/1 = MAC D<BR/>(address ages out)]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[MAC D is away from the network.]]></text>
+</component>
+</textcomponents>

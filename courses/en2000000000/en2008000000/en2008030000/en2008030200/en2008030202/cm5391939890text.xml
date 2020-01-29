@@ -1,0 +1,137 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>AH Protocols</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>AH Authentication and Integrity</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_s1_txt01">
+<text><![CDATA[All data in plaintext]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Integrity]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Authentication]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[Diffie-Hellman]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Choices]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[MD5]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[SHA]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[PSK]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[RSA]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[DH1]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[DH2]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[DH5]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[DH7]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_s2_txt01">
+<text><![CDATA[AH Authentication and Integrity]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[IP Header + Data + Key]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Hash]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[Authentication Data<br/><font color='#1F4783'>(00ABCDEF)</font>]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[AH]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_s2_internet">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_s2_txt09">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_s2_txt10">
+<text><![CDATA[AH]]></text>
+</component>
+
+<component id="ID_s2_txt11">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_s2_txt12">
+<text><![CDATA[IP Header + Data + Key]]></text>
+</component>
+
+<component id="ID_s2_txt13">
+<text><![CDATA[Hash]]></text>
+</component>
+
+<component id="ID_s2_txt14">
+<text><![CDATA[Recomputed Hash<br/><font color='#FF0000'>(00ABCDEF)</font>]]></text>
+</component>
+
+<component id="ID_s2_txt15">
+<text><![CDATA[=]]></text>
+</component>
+
+<component id="ID_s2_txt16">
+<text><![CDATA[Received Hash<br/><font color='#1F4783'>(00ABCDEF)</font>]]></text>
+</component>
+
+</textcomponents>

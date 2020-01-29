@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button for endpoint security solutions.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Cisco Endpoint Security Solutions</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Other Vendor Endpoint Security Solutions</b>]]></text> 
+</component>
+
+<component id="ID_chart1">
+  <text><![CDATA[<b>Attack Prevention</b>]]></text> 
+</component>
+
+<component id="ID_chart2">
+  <text><![CDATA[<b>Data Loss Prevention</b>]]></text> 
+</component>
+
+<component id="ID_chart3">
+  <text><![CDATA[<b>Policy Enforcement</b>]]></text> 
+</component>
+
+<component id="ID_chart4">
+  <text><![CDATA[<b>Network Collaboration</b>]]></text> 
+</component>
+
+<component id="ID_chart1_sub">
+  <text><![CDATA[<b>"Zero Update"<br/>Protection Stops<br/>Malicious Mobile<br/>Code, Botnets,<br/>Rootkits,<br/>Day-Zero Attacks</b>]]></text> 
+</component>
+
+<component id="ID_chart2_sub">
+  <text><![CDATA[<b>Identity and Control<br/>Sensitive Information</b>]]></text> 
+</component>
+
+<component id="ID_chart3_sub">
+  <text><![CDATA[<b>Corporate Acceptable Use<br/>Regulatory Compliance (PCI)</b>]]></text> 
+</component>
+
+<component id="ID_chart4_sub">
+  <text><![CDATA[<b>NAC<br/>Network IPS<br/>Wireless<br/>Traffic Marketing<br/>Event Correlation<br/>Data Loss Prevention</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Cisco Security Agent</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>IronPort</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Cisco NAC</b>]]></text> 
+</component>
+
+</textcomponents>

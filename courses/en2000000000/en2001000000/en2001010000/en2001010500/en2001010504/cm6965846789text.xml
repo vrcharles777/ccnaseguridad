@@ -1,0 +1,17 @@
+<textcomponents>
+
+<component id="ID_paper">
+	<text><![CDATA[<b><font size='+2'>1. What do you have that others <textformat blockindent='16'>want?</textformat>
+
+2. What processes, data, or <textformat blockindent='16'>information systems are critical to you, your company, or your organization?</textformat>
+
+3. What would stop your company or <textformat blockindent='16'>organization from doing business or fulfilling its mission?</textformat>
+</font></b>]]></text>
+</component>
+
+<component id="ID_caption">
+	<text><![CDATA[<b>The security policy should protect the assets of your organization by answering several security questions.</b>]]></text>
+</component>
+
+
+</textcomponents>

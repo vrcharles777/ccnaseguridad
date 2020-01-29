@@ -1,0 +1,76 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click Play to view the animation.</b>]]></text>
+</component>
+
+<component id="ID_txt01">		
+<text><![CDATA[<b><font face='_typewriter'>show version</font></b>]]></text>
+</component>
+
+<component id="ID_txt02">		
+<text><![CDATA[<b>Command authorization for user JR-ADMIN, command “<font face='_typewriter'>show version</font>”?</b>]]></text>
+</component>
+
+<component id="ID_txt03">		
+<text><![CDATA[<b>Display “<font face='_typewriter'>show version</font>” output</b>]]></text>
+</component>
+
+<component id="ID_txt04">		
+<text><![CDATA[<b>Accept</b>]]></text>
+</component>
+
+<component id="ID_txt05">		
+<text><![CDATA[<b><font face='_typewriter'>configure terminal</font></b>]]></text>
+</component>
+
+<component id="ID_txt06">		
+<text><![CDATA[<b>Command authorization for user JR-ADMIN, command “<font face='_typewriter'>config terminal</font>”?</b>]]></text>
+</component>
+
+<component id="ID_txt07">		
+<text><![CDATA[<b>Do not permit “<font face='_typewriter'>configure terminal</font>”</b>]]></text>
+</component>
+
+<component id="ID_txt08">		
+<text><![CDATA[<b>Reject</b>]]></text>
+</component>
+
+<component id="ID_txtnote">		
+<text><![CDATA[<b>The JR-ADMIN has successfully Telneted and authenticated to the TACACS+ AAA ACS Server.</b>]]></text>
+</component>
+
+<component id="ID_icon01">		
+<text><![CDATA[<b>JR-Admin</b>]]></text>
+</component>
+
+<component id="ID_icon02">		
+<text><![CDATA[<b>ACS</b>]]></text>
+</component>
+
+<component id="play"><text><![CDATA[Play]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pause]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Rewind]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Fast Forward]]></text>
+</component>
+<component id="mute"><text><![CDATA[Mute]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[UnMute]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Restart]]></text>
+</component>
+<component id="next">
+<text><![CDATA[End]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcript]]></text>
+</component>
+</textcomponents>

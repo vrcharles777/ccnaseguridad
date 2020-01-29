@@ -1,0 +1,30 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Site 1]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[AH<br/>ESP<br/>IKE]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Site 2]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Ensure that protocols 50 (ESP), 51 (AH) and UDP port 500 (ISAKMP) traffic are not blocked by incoming ACLs on interfaces used by IPsec.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

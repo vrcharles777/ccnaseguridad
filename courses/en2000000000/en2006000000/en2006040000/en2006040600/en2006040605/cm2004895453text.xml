@@ -1,0 +1,8 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Cisco MDS 9000 Family with VSAN Service]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Physical SAN islands are virtualized onto common SAN infrastructure]]></text> 
+  </component>
+</textcomponents>

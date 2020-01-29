@@ -1,0 +1,56 @@
+﻿<textcomponents>
+<component id="ID_title">
+<text><![CDATA[<b>TACACS+/RADIUS Comparison</b>]]></text>
+</component>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+<tr>
+	<td width='150' valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'>&nbsp;</td>
+	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>TACACS+</b></font></td>
+	<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color="#FFFFFF"><b>RADIUS</b></font></td>	
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Functionality</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Separates AAA according to the AAA architecture, allowing modularity of the security server implementation</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Combines authentication and authorization but separates accounting, allowing less flexibility in implementation than TACACS+</td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Standard</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Mostly Cisco supported</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Open/RFC standard</td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Transport Protocol</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>TCP</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>UDP</td>		
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>CHAP</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Bidirectional challenge and response as used in Challenge Handshake Authentication Protocol (CHAP)</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Unidirectional challenge and response from the RADIUS security server to the RADIUS client</td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Protocol Support</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Multiprotocol support</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>No ARA, no NetBEUI</td>		
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Confidentiality</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Entire packet encrypted</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Password encrypted</td>
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Customization</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Provides authorization of router commands on a per-user or per-group basis</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Has no option to authorize router commands on a per-user or per-group basis</td>		
+</tr>
+<tr>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Accounting</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Limited</td>
+	<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Extensive</td>
+</tr>
+</table>
+]]></text> 
+  </component>
+</textcomponents>	

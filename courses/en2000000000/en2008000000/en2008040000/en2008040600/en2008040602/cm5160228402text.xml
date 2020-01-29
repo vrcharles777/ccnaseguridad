@@ -1,0 +1,123 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Multiple peers can be specified for redundancy.</li></ul>]]></text> 
+  </component>
+  
+  
+  
+
+<component id="ID_title_s1">
+<text><![CDATA[<font face='_typewriter'><b>crypto map</b></font> <b>Parameters</b>]]></text>
+</component>
+
+<component id="ID_table_s1">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+	<td width='200' valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color='#FFFFFF'><b>Command Parameters</b></font></td>
+<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color='#FFFFFF'><b>Description</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>map-name</i></font></td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Defines the name assigned to the crypto map set or indicates the name of the crypto map to edit.</td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><i><font face="_typewriter">seq-num</font></i></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The number assigned to the crypto map entry.</td>	
+  </tr>
+	<tr>
+		<td height="26" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'><b>ipsec-manual</b></font></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Indicates that ISAKMP will not be used to establish the IPsec SAs.</td>	
+  </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b><font face="_typewriter">ipsec-isakmp</font></b></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Indicates that ISAKMP will be used to establish the IPsec SAs.</td>
+  </tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>cisco</b></font></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Default value) Indicates that CET will be used instead of IPsec for protecting the traffic.</td>	
+  </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>dynamic</b></font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Optional) Specifies that this crypto map entry references a preexisting static crypto map. If this keyword is used, none of the crypto map configuration commands are available.</td>
+  </tr>
+  	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>dynamic-map-name</i></font></td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Optional) Specifies the name of the dynamic crypto map set that should be used as the policy template.</td>	
+  </tr>
+</table>]]></text> 
+  </component>  
+  
+  
+
+<component id="ID_button1">
+  <text><![CDATA[<font face='_typewriter'><b>crypto map</b></font><b> Command</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Crypto Map Configuration Mode Commands</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Sample Config</b>]]></text> 
+</component>
+
+
+<component id="ID_top012">
+<text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+<component id="ID_top022">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+  </component>
+<component id="ID_top032">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+
+
+<component id="ID_title_s2">
+<text><![CDATA[<font face='_typewriter'><b>crypto map</b></font> <b>Configuration Mode Commands</b>]]></text>
+</component>
+
+<component id="ID_table_s2">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+	<td width='200' valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color='#FFFFFF'><b>Command</b></font></td>
+<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color='#FFFFFF'><b>Description</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>set</b></font></td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Used with the <b><font face="_typewriter">peer</font></b>, <b><font face="_typewriter">pfs</font></b>, <b><font face="_typewriter">transform-set</font></b>, and <b><font face="_typewriter">security-association</font></b> commands.</td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>peer </b>[<i>hostname</i> | <i>ip-address</i>]</font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Specifies the allowed IPsec peer by IP address or hostname.</td>	
+  </tr>
+	<tr>
+		<td height="26" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'><b>pfs </b>[<b>group1 </b>|<b> group2</b>]</font></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Specifies DH Group 1 or Group 2.</td>	
+  </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>transform-set</b> [<i>set_name(s)</i>]</font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Specify list of transform sets in priority order. When the <b><font face="_typewriter">ipsec-manual</font></b> parameter is used with the <b><font face="_typewriter">crypto map</font></b> command, then only one transform set can be defined. When the <b><font face="_typewriter">ipsec-isakmp</font></b> parameter or the <b><font face="_typewriter">dynamic</font></b> parameter is used with the <b><font face="_typewriter">crypto map</font></b> command, up to six transform sets can be specified.</td>
+  </tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>security-association lifetime</b></font></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Sets SA lifetime parameters in seconds or kilobytes.</td>	
+  </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>match address </b>[<i>access-list-id</i> | <i>name</i>]</font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Identifies the extended ACL by its name or number. The value should match the access-list-number or name argument of a previously defined IP-extended ACL being matched.</td>
+  </tr>
+  	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>no</b></font></td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Used to delete commands entered with the <b><font face="_typewriter">set</font></b> command.</td>	
+  </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>exit</b></font></td>
+	    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Exits crypto map configuration mode.</td>
+  </tr>
+</table>]]></text> 
+  </component>  
+  
+  
+</textcomponents>

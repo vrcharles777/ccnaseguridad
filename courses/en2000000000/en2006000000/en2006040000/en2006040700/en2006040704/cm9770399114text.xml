@@ -1,0 +1,79 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Relationship of VSANs to Zones</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Physical Topology</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Two VSANs each with multiple zones. Disks and hosts are dedicated to VSANs although both hosts and disks can belong to multiple zones within a single VSAN. They cannot, however, span VSANs.</b>]]></text> 
+</component>
+
+<component id="ID_VSAN2">
+  <text><![CDATA[<b>VSAN 2</b></b>]]></text> 
+</component>
+
+<component id="ID_VSAN3">
+  <text><![CDATA[<b>VSAN 3</b></b>]]></text> 
+</component>
+
+<component id="ID_zoneA">
+  <text><![CDATA[<b>ZoneA</b>]]></text> 
+</component>
+
+<component id="ID_zoneB">
+  <text><![CDATA[<b>ZoneB</b>]]></text> 
+</component>
+
+<component id="ID_zoneC">
+  <text><![CDATA[<b>ZoneC</b>]]></text> 
+</component>
+
+<component id="ID_zoneD">
+  <text><![CDATA[<b>ZoneD</b>]]></text> 
+</component>
+  
+<component id="ID_disk1">
+  <text><![CDATA[<b>Disk1</b>]]></text> 
+</component>
+
+<component id="ID_disk2">
+  <text><![CDATA[<b>Disk2</b>]]></text> 
+</component>
+
+<component id="ID_disk3">
+  <text><![CDATA[<b>Disk3</b>]]></text> 
+</component>
+
+<component id="ID_disk4">
+  <text><![CDATA[<b>Disk4</b>]]></text> 
+</component>
+
+<component id="ID_disk5">
+  <text><![CDATA[<b>Disk5</b>]]></text> 
+</component>
+
+<component id="ID_disk6">
+  <text><![CDATA[<b>Disk6</b>]]></text> 
+</component>
+
+<component id="ID_host1">
+  <text><![CDATA[<b>Host1</b>]]></text> 
+</component>
+
+<component id="ID_host2">
+  <text><![CDATA[<b>Host2</b>]]></text> 
+</component>
+
+<component id="ID_host3">
+  <text><![CDATA[<b>Host3</b>]]></text> 
+</component>
+
+<component id="ID_host4">
+  <text><![CDATA[<b>Host4</b>]]></text> 
+</component>
+
+</textcomponents>

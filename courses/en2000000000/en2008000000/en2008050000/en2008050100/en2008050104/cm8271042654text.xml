@@ -1,0 +1,17 @@
+﻿<textcomponents>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Roll over the highlighted areas for more information about the wizard mode.</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Quick setup uses predefined IKE and IPsec policies.]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Step by step wizard includes IKE and IPsec policy configuration steps.]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Quick setup]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[Step by step wizard]]></text> 
+  </component>
+</textcomponents>

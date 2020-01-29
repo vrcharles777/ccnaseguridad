@@ -1,0 +1,79 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[Click on each of the technical area buttons for more information.]]></text> 
+  </component>
+  
+<component id="ID_btn01">
+<text><![CDATA[<b>General</b>]]></text>
+</component>
+<component id="ID_btn02">
+  <text><![CDATA[<b>Email</b>]]></text> 
+  </component>
+<component id="ID_btn03">
+<text><![CDATA[<b>Remote Access</b>]]></text>
+</component>
+<component id="ID_btn04">
+  <text><![CDATA[<b>Telephony</b>]]></text> 
+  </component>
+<component id="ID_btn05">
+<text><![CDATA[<b>Application</b>]]></text>
+</component>
+<component id="ID_btn06">
+  <text><![CDATA[<b>Network</b>]]></text> 
+  </component>
+<component id="ID_btn07">
+<text><![CDATA[<b>Wireless Communication</b>]]></text>
+</component>
+  
+<component id="ID_pop1">
+  <text><![CDATA[<b>General Policies</b>]]></text> 
+  </component>
+<component id="ID_pop2">
+  <text><![CDATA[<b>Email Policies</b>]]></text> 
+  </component>
+<component id="ID_pop3">
+  <text><![CDATA[<b>Remote Access Policies</b>]]></text> 
+  </component>
+<component id="ID_pop4">
+  <text><![CDATA[<b>Telephony Policies</b>]]></text> 
+  </component>
+<component id="ID_pop5">
+  <text><![CDATA[<b>Application Policies</b>]]></text> 
+  </component>
+<component id="ID_pop6">
+  <text><![CDATA[<b>Network Policies</b>]]></text> 
+  </component>
+<component id="ID_pop7">
+  <text><![CDATA[<b>Wireless Communication Policies</b>]]></text> 
+  </component>
+
+  
+<component id="ID_poptext1">
+  <text><![CDATA[<ul><li><b>AUP:</b> Defines the acceptable use of equipment and computing services, such as email, and the appropriate security measures that employees should take to protect the corporate resources and proprietary information.</li><li><b>Account access request policy:</b> Formalizes the account and access request process within the organization. Users and system administrators who bypass the standard processes for account and access requests can cause legal action against the organization.</li><li><b>Acquisition assessment policy:</b> Defines the responsibilities regarding corporate acquisitions and defines the minimum requirements that the information security group must complete for an acquisition assessment.</li><li><b>Audit policy:</b> Conducts audits and risk assessments to ensure integrity of information and resources, investigates incidents, ensures conformance to security policies, and monitors user and system activity where appropriate.</li><li><b>Information sensitivity policy:</b> Defines the requirements for classifying and securing information in a manner appropriate to its sensitivity level.</li><li><b>Password policy:</b> Defines the standards for creating, protecting, and changing strong passwords.</li><li><b>Risk assessment policy:</b> Defines the requirements and provides the authority for the information security team to identify, assess, and mitigate risks to the information infrastructure that is associated with conducting business.</li><li><b>Global web server policy:</b> Defines the standards that are required by all web hosts.</li></ul>]]></text>
+  </component>
+  
+<component id="ID_poptext2">
+  <text><![CDATA[<ul><li><b>Automatically forwarded email policy:</b> Defines the rules for enabling automatic forwarding of emails to another account. Generally, this policy restricts automatic email forwarding to an external destination without prior approval from the appropriate manager or director.</li><li><b>Email policy:</b> Defines the standards for use of email. Creation, distribution and receipt of SPAM may be covered here as well as in the AUP.</li></ul>]]></text> 
+  </component>
+  
+  <component id="ID_poptext3">
+  <text><![CDATA[<ul><li><b>Dial-in access policy:</b> Defines the appropriate dial-in access and its use by authorized personnel.</li><li><b>Remote-access policy:</b> Defines the standards for connecting to the organization network from any host or network external to the organization.</li><li><b>Virtual private network (VPN) security policy:</b> Defines the requirements for remote-access IP Security (IPsec) or other VPN connections to the organization network.</li></ul>]]></text> 
+  </component>
+  
+  <component id="ID_poptext4">
+  <text><![CDATA[<ul><li><b>Analog and ISDN line policy:</b> Defines the standards to use analog and ISDN lines for sending and receiving faxes and for connection to computers.</li><li><b>Voice over IP policy:</b> Defines the standards for deploying Voice over IP (VoIP) using the existing IP data infrastructure.</li></ul>]]></text> 
+  </component>
+  
+  <component id="ID_poptext5">
+  <text><![CDATA[<ul><li><b>Acceptable encryption policy:</b> Defines the requirements for encryption algorithms that are used within the organization.</li><li><b>Application service provider (ASP) policy:</b> Defines the minimum security criteria that an ASP must execute before the organization uses them on a project.</li><li><b>Database credentials coding policy:</b> Defines the requirements for securely storing and retrieving database usernames and passwords.</li><li><b>Interprocess communications policy:</b> Defines the security requirements that any two or more processes must meet when they communicate with each other using a network socket or operating system socket. For example, requiring the use of HTTPS.</li><li><b>Project security policy:</b> Defines requirements for project managers to review all projects for possible security requirements.</li><li><b>Source code protection policy:</b> Establishes minimum information security requirements for managing product source code.</li></ul>]]></text> 
+  </component>
+  
+  <component id="ID_poptext6">
+  <text><![CDATA[<ul><li><b>Extranet policy:</b> Defines the requirements of a third-party organization when that organization must access the network. This often includes signing a third-party connection agreement.</li><li><b>Minimum requirements for network access policy:</b> Defines the standards and requirements for any device that requires connectivity to the internal network.</li><li><b>Network access standards:</b> Defines the standards for secure physical port access for all wired and wireless network data ports.</li><li><b>Router and switch security policy:</b> Defines the minimal security configuration standards for routers and switches inside the network or used in a production capacity.</li><li><b>Server security policy:</b> Defines the minimal security configuration standards for servers inside the network or used in a production capacity.</li></ul>]]></text> 
+  </component>
+  
+  <component id="ID_poptext7">
+  <text><![CDATA[<ul><li><b>Use policy:</b> Defines standards for wireless systems that are used to connect to the network.</li></ul>]]></text> 
+  </component>
+</textcomponents>

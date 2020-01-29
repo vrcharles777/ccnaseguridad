@@ -1,0 +1,44 @@
+﻿<textcomponents>
+<component id="tableHTML">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+	  <td width='150' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>&nbsp;</td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Advantages</b></font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Disdvantages</b></font></td>
+					
+	</tr>
+	<tr>
+		
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Pattern-based Detection</b></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Easy configuration</li><li>Fewer false positives</li><li>Good signature design</li></ul></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>No detection of unknown signatures</li><li>Initially a lot of false positives</li><li>Signatures must be created, updated, and tuned</li></ul></td>
+			
+  </tr>
+	<tr>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Anomaly-based Detection</b></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Simple and reliable</li><li>Customized policies</li><li>Can detect unknown attacks</li></ul></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Generic output</li><li>Policy must be created</li></ul></td>
+			
+  </tr>
+	<tr>
+		
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Policy-based Detection</b></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Easy configuration</li><li>Can detect unknown attacks</li></ul></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Difficult to profile typical activity in large networks</li><li>Traffic profile must be constant</li></ul></td>
+			
+  </tr>
+	
+	<tr>
+		
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Honey Pot-based Detection</b></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Window to view attacks</li><li>Distract and confuse attackers</li><li>Slow down and avert attacks</li><li>Collect information about attack</li></ul></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Dedicated honey pot server</li><li>Honey pot server must not be trusted</li></ul></td>
+			
+  </tr>
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

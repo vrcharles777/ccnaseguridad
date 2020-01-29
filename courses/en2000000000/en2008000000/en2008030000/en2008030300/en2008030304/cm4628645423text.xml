@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Host A</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Host B</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>IKE Phase 1 Aggressive Mode Exchange</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>1. <textformat blockindent="15">Send IKE policy set and R1’s DH key.</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>2. <textformat blockindent="15">Confirm IKE policy set, calculate shared secret and send R2's DH key.</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>3. <textformat blockindent="15">Calculate shared secret, verify peer identify, and confirm with peer.</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>4. <textformat blockindent="15">Authenticate peer and begin Phase 2.</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>IKE Phase 2 Exchange</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Negotiate IPsec policy</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Negotiate IPsec policy</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Policy 10<br/>DES<br/>MD5<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>Policy 15<br/>DES<br/>MD5<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+</textcomponents>

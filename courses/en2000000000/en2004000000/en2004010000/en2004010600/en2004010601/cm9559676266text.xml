@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Types of ACLs</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Standard IP ACLs</li><li>Extended IP ACLs</li><li>Extended IP ACLs using TCP <font face='_typewriter'><b>established</b></font></li><li>Reflexive IP ACLs</li><li><font color='#0000FF'><b>Dynamic ACLs</b></font></li><li><font color='#0000FF'><b>Time-Based ACLs</b></font></li><li>Context-based Access Control (CBAC) ACLs</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

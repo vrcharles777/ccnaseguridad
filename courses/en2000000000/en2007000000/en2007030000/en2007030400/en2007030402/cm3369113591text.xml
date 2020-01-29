@@ -1,0 +1,14 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[In this example, the SECRETKEY key and plaintext are entered.]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[They are now encrypted using 128 AES.]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[An attempt at deciphering the text using a lowercase, and incorrect key.]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[A second attempt at deciphering the text using the correct key displays the original plaintext.]]></text> 
+  </component>
+</textcomponents>

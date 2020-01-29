@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b>Cisco Self-Defending Network Principles</b>]]></text>
+</component>
+
+<component id="ID_table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Integrated</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Enabling every element to be a point of defense and policy enforcement</td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_table2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Collaborative</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Collaboration among the services and devices throughout the network to thwart attacks</td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_table3">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Adaptive</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Proactive security technologies that automatically prevent threats</td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+
+</textcomponents>

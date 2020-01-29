@@ -1,0 +1,17 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>From: IT department</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>To: All Employees</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Subject:  Course Offerings</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[We are currently offering several training opportunities. Please see the list below and contact your manager regarding availability.<BR/><BR/><b>Computer Security.</b> This one-hour mandatory session is presented during orientation week and details user account security and password guidelines, network security and bandwidth guidelines, early recognition of potential virus attacks and phishing attacks, and protection from identity theft.<BR/><BR/><b>Networking.</b> Four classes are devoted to Carnegie Mellon-specific networking information: Introduction to Andrew File Space, MyFiles, UNIX, and FTP.<BR/><BR/><b>Responsible Computing.</b> Bandwidth, academic integrity, and copyright guidelines are covered in this session. It includes a section that explains safe and secure use of social networking sites such as Facebook. We present recorded case scenarios, review related policies and guidelines, and facilitate discussions to enhance the comprehension of students' responsibilities.]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b></b>]]></text> 
+  </component>
+</textcomponents>

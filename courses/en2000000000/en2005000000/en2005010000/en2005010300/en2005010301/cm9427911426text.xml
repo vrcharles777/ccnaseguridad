@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Corporate Network]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Sensor]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Sensor]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Router]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Firewall]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Untrusted Network]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Management Server]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Sensor]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Web Server]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[DNS Server]]></text>
+</component>
+
+</textcomponents>

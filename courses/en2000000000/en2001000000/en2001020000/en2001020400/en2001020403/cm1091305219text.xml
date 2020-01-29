@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text><![CDATA[<b>Worm Mitigation</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Containment</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>Inoculation</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b>Quarantine</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+	<text><![CDATA[<b>Treatment</b>]]></text>
+</component>
+
+</textcomponents>

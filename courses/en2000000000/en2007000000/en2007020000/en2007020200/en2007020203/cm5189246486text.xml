@@ -1,0 +1,7 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>In this example the plaintext entered is displaying hashed results using MD5, SHA-1, and SHA256. Notice the difference in key lengths between the various algorithms. The longer the key, the more secure the hash function.</b>]]></text> 
+  </component>
+
+</textcomponents>

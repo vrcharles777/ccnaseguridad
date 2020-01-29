@@ -1,0 +1,33 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<b>Registration Authorities</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Enrollment Request</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Completed Enrollment Request Forwarded to CA</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Certificate Issued</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>CA</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>RA</b>]]></text> 
+</component>
+
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='14'>Hosts will submit certificate requests to the RA.</textformat><br/>2. <textformat blockindent='14'>After the Registration Authority adds specific information to the certificate request and the request is approved under the organization's policy, it is forwarded on to the Certification Authority.</textformat><br/>3. <textformat blockindent='14'>The CA will sign the certificate request and send it back to the host.</textformat></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>
+
+ 

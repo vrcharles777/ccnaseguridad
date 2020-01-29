@@ -1,0 +1,39 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[An attacker is capturing packets using Wireshark on a local subnet. The attacker is particularly interested in TCP Telnet streams and notices that the administrator’s IP address (192.168.2.7) has initiated a Telnet session to a device.]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+  <text><![CDATA[By following the Telnet stream, the attacker has captured the administrator’s username (Bob) and password (cisco123).]]></text> 
+  </component>
+  
+<component id="ID_s3_txt01">
+  <text><![CDATA[When the administrator uses SSH, the attacker no longer sees Telnet packets and must instead filter by the administrator’s IP address.]]></text> 
+  </component>
+  
+<component id="ID_s4_txt01">
+  <text><![CDATA[When following the stream of data, the attacker only sees TCP and SSH packets which reveal useless encrypted information.]]></text> 
+  </component>
+  
+<component id="ID_button1">
+  <text><![CDATA[<b>Wireshark Telnet Capture</b>]]></text> 
+</component>
+
+<component id="ID_button2">
+  <text><![CDATA[<b>Password Captured</b>]]></text> 
+</component>
+
+<component id="ID_button3">
+  <text><![CDATA[<b>Wireshark SSH Capture</b>]]></text> 
+</component>
+
+<component id="ID_button4">
+  <text><![CDATA[<b>Password Encrypted</b>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,28 @@
+<textcomponents>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b><font size='+2'>SQL Slammer Worm</font></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	  <text><![CDATA[<b><font size='+20'>19</font><br/>hours</b>]]></text> 
+</component>
+
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+
+<component id="ID_minfo02">
+<text><![CDATA[<B>More Information</B>]]></text>
+</component>
+
+<component id="ID_minfo03">
+<text><![CDATA[Other worms that have created problems across the Internet:<br><li>Morris Worm – 1988</li><li>Melissa Worm (a mass-mailing macro virus) – 1999</li><li>Love Bug Worm – May 2000</li><li>Code Red Worm – July 2001</li><li>SQL Slammer Worm – January 2003</li><li>Blaster Worm – August 2003</li><li>Nachi Worm – August 2003</li><li>MyDoom Worm – January 2004</li><li>Sasser Worm – April 2004</li><li>Zotob Worm – August 2005</li><li>Nyxem Worm – January 2006</li><li>Storm Worm – January 2007</li><li>MS RPC 0Day Worm – 2007</li><li>JTV Worm – June 2008</li>]]></text>
+</component>
+<component id="ID_imagetxt1">
+	<text><![CDATA[Thu Jul 19 01:05:00 2001  (UTC)<BR/>Victims: 658]]></text>
+</component>
+<component id="ID_imagetxt2">
+	<text><![CDATA[Thu Jul 19 20:15:00 2001  (UTC)<BR/>Victims: 302573]]></text>
+</component>
+</textcomponents>

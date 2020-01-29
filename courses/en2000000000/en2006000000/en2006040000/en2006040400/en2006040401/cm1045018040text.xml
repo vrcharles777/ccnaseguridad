@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[PSTN]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Gateway]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[VoIP]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,34 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the verification command and associated output.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[Verify RSPAN]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Verification Examples]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_s1_txt01">
+<text><![CDATA[File Server]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[802.1Q Trunk]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Network Analyzer]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[Verify RSPAN:]]></text>
+</component>
+
+<!-- slide 2 - no external text for slide 2 -->
+
+</textcomponents>

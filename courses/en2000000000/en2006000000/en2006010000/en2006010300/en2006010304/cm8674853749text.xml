@@ -1,0 +1,53 @@
+<textcomponents>
+
+
+<component id="ID_txtMGR">
+  <text><![CDATA[<b>M<br/>G<br/>R</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>THE GOAL</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b><font size="+2">Host attempts to access a web page or uses an optional client.</font><br/><font color="#0000FF">Network access is blocked until the wired or wireless host provides login information.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b><font size="+2">Host is redirected to a login page.</font><br/><font color="#0000FF">Cisco NAC Appliance validates username and password, also performs device and network scans to assess vulnerabilities on the device.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b><font size="+2">Device is noncompliant or login is incorrect.</font><br/><font color="#0000FF">Host is denied access and assigned to a quarantine role with access to online remediation resources.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b><font size="+2">Device is "clean".</font><br/><font color="#0000FF">Device is put on the "certified devices list" and is granted access to the network.</font></b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Authentication Server</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>Cisco NAM</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+  <text><![CDATA[<b>Cisco NAS</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<b>Intranet/Network</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<b>Quarantine</b>]]></text> 
+</component>
+
+
+<component id="ID_title">
+  <text><![CDATA[<b> </b>]]></text> 
+</component>
+
+</textcomponents>

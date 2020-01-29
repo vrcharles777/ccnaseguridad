@@ -1,0 +1,190 @@
+<textcomponents>
+<component id="ID_txtTitle">
+	<text><![CDATA[<b>Network Attacks</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Eavesdropping</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b><font size = '+15'>Data Modification</font></b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b>IP Address Spoofing</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+	<text><![CDATA[<b>MAC Address Spoofing</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+	<text><![CDATA[<b>ARP Spoofing</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+	<text><![CDATA[<b><font size = '+15'>Social Engineering</font></b>]]></text>
+</component>
+
+<component id="ID_txt07">
+	<text><![CDATA[<b>Virtual Probe</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+	<text><![CDATA[<b><font size = '+15'>Session Hijack</font></b>]]></text>
+</component>
+
+<component id="ID_txt09">
+	<text><![CDATA[<b>Man-in-the-Middle Attack</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+	<text><![CDATA[<b>Spam</b>]]></text>
+</component>
+
+
+<component id="ID_txt11">
+	<text><![CDATA[<b><font size = '+15'>Virus</font></b>]]></text>
+</component>
+
+<component id="ID_txt12">
+	<text><![CDATA[<b>DHCP Starvation</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+	<text><![CDATA[<b><font size = '+15'>VLAN Hopping Attack</font></b>]]></text>
+</component>
+
+<component id="ID_txt14">
+	<text><![CDATA[<b>Password Attack</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+	<text><![CDATA[<b><font size = '+15'>Denial-of-Service</font></b>]]></text>
+</component>
+
+<component id="ID_txt16">
+	<text><![CDATA[<b><font size = '+15'>Distributed Denial of Service</font></b>]]></text>
+</component>
+
+<component id="ID_txt17">
+	<text><![CDATA[<b>Compromised-Key Attack</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+	<text><![CDATA[<b>Sniffer Attack</b>]]></text>
+</component>
+
+<component id="ID_txt19">
+	<text><![CDATA[<b>Application Layer Attack</b>]]></text>
+</component>
+
+<component id="ID_txt20">
+	<text><![CDATA[<b>Trojan Horse</b>]]></text>
+</component>
+
+
+<component id="ID_txt21">
+	<text><![CDATA[<b>Availability Attack</b>]]></text>
+</component>
+
+<component id="ID_txt22">
+	<text><![CDATA[<b>Syn Flood</b>]]></text>
+</component>
+
+<component id="ID_txt23">
+	<text><![CDATA[<b>Smurf Attack</b>]]></text>
+</component>
+
+<component id="ID_txt24">
+	<text><![CDATA[<b><font size = '+15'>Confidentiality Attack</font></b>]]></text>
+</component>
+
+<component id="ID_txt25">
+	<text><![CDATA[<b>Integrity Attack</b>]]></text>
+</component>
+
+<component id="ID_txt26">
+	<text><![CDATA[<b>Worm</b>]]></text>
+</component>
+
+<component id="ID_txt27">
+	<text><![CDATA[<b><font size = '+15'>Access Attack</font></b>]]></text>
+</component>
+
+<component id="ID_txt28">
+	<text><![CDATA[<b>Reconnaissance Attack</b>]]></text>
+</component>
+
+<component id="ID_txt29">
+	<text><![CDATA[<b>STP Attack</b>]]></text>
+</component>
+
+
+<component id="ID_txt30">
+	<text><![CDATA[<b>How do I bring order to this?</b>]]></text>
+</component>
+
+<component id="ID_txtNEW">
+	<text><![CDATA[<b>Categorizing by network attack.</b>]]></text>
+</component>
+
+
+<component id="ID_txt31">
+	<text><![CDATA[<b>Reconnaissance</b>]]></text>
+</component>
+
+<component id="ID_txt32">
+	<text><![CDATA[<b>Access</b>]]></text>
+</component>
+
+<component id="ID_txt33">
+	<text><![CDATA[<b>Denial of Service</b>]]></text>
+</component>
+
+<component id="ID_minfo01">
+	<text><![CDATA[<b>More Information</b>]]></text>
+</component>
+<component id="ID_minfo02">
+	<text><![CDATA[<b>More Information</b>]]></text>
+</component>
+<component id="ID_minfo03">
+	<text><![CDATA[One of the categorization methods used is a 2-by-2 matrix, with the rows being structured and unstructured attacks and the columns being internal and external threats. In this manner, attacks are categorized as either structured internal, structured external, unstructured internal, or unstructured external.<BR/><BR/>In 2001, the National Infrastructure Protection Center at the FBI released a document summarizing the Ten Most Critical Internet Security Vulnerabilities. Since that time, thousands of organizations relied on this list to prioritize their efforts so they can close the most dangerous holes first. According to representatives from the NIPC, the threat landscape is very dynamic, which in turn makes it necessary to adopt newer security measures. Over the last few years, the kinds of vulnerabilities that are being exploited are very different from the ones that were being exploited in the past.<BR/><BR/>In one alternative categorization schema for attacks, the types of attacks are classified as a function of the type of threat:<ul><li>Impersonation</li><li>Eavesdropping</li><li>Denial of Service</li><li>Packet replay</li><li>Man-in-the-middle</li><li>Packet modification</li></ul><BR/>There are several examples of these types of threats:<ul><li>ARP Attack</li><li>Brute Force Attack</li><li>Worms</li><li>Flooding</li><li>Sniffers</li><li>Spoofing</li><li>Redirected Attacks</li><li>Tunneling Attack</li><li>Covert Channels</li></ul><BR/>]]></text>
+</component>
+
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Click Play to view the animation.</b>]]></text>
+</component>
+	
+	<component id="play">
+		<text><![CDATA[Play]]></text>
+	</component>
+    <component id="pause">
+		<text><![CDATA[Pause]]></text>
+	</component>
+    <component id="rewind">
+		<text><![CDATA[Rewind]]></text>
+	</component>
+	<component id="forward">
+		<text><![CDATA[Fast Forward]]></text>
+	</component>
+    <component id="mute">
+		<text><![CDATA[Mute]]></text>
+	</component>
+    <component id="unmute">
+		<text><![CDATA[UnMute]]></text>
+	</component>
+    <component id="previous">
+		<text><![CDATA[Restart]]></text>
+	</component>
+    <component id="next">
+		<text><![CDATA[End]]></text>
+	</component>
+	<component id="transcript">
+		<text><![CDATA[Transcript]]></text>
+	</component>
+
+
+</textcomponents>

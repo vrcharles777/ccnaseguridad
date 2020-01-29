@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  	<tr><td colspan = '8'><b><font color = '#FFFFFF' size='+2'> </font></b></td></tr>
+    <tr><td><b>Cisco NAS</b><ul><li>Serves as an in-band or out-of-band device for network access control</li></ul><b>Cisco NAM</b><ul><li>Centralizes management for administrators, support personnel, and operators</li></ul><b>Cisco NAA</b><ul><li>Optional lightweight client for device-based registry scans in unmanaged environments</li></ul><b>Rule-set updates</b><ul><li>Scheduled automatic updates for anti-virus, critical hotfixes, and other applications</li></ul></td></tr>
+</table>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>M<br/>G<br/>R</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>NAS</b>]]></text> 
+</component>
+
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>NAM</b>]]></text> 
+</component>
+
+<component id="ID_title">
+  <text><![CDATA[<b> </b>]]></text> 
+</component>
+
+</textcomponents>

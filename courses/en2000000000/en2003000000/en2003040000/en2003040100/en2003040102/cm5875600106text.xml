@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[Group Method List]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Sample Config]]></text>
+</component>
+
+<!-- slide1 -->
+
+<!-- slide2 -->
+
+<component id="ID_txt01">
+<text><![CDATA[TACACS+ or RADIUS protocols are used to communicate between the clients and AAA security servers.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Cisco Secure ACS for Windows using RADIUS]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Cisco Secure ACS Solution Engine using TACACS+]]></text>
+</component>
+
+</textcomponents>

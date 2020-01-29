@@ -1,0 +1,6 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Throughout history, there have been many instances of cryptanalysis:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>The Vigenère cipher had been absolutely secure until it was broken in the middle of the 19th century by English cryptographer Charles Babbage.</li><li>Mary, Queen of Scots, was plotting to overthrow Queen Elizabeth I from the throne and sent encrypted messages to her co-conspirators. The cracking of the code used in this plot led to the beheading of Mary in 1587.</li><li>The Enigma-encrypted communications were used by the Germans to navigate and direct their U-boats in the Atlantic. The Polish and British cryptanalysts broke the German Enigma code. Winston Churchill was of the opinion that it was a turning point in WWII.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

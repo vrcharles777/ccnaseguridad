@@ -1,0 +1,62 @@
+<textcomponents>
+
+<component id="ID_header">
+	<text><![CDATA[<b><font size='+2'>Information Security Certifications Offered by (ISC)²</font></b>]]></text>
+</component>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Click each certification for more information.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+	<text><![CDATA[<b>Systems Security Certified Practitioner (SSCP)</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+  	<text><![CDATA[<b>Certification and Accreditation Professional (CAP)</b>]]></text> 
+</component>
+
+<component id="ID_btn3">
+  	<text><![CDATA[<b>Certified Secure Software Lifecycle Professional (CSSLP)</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  	<text><![CDATA[<b>Certified Information Systems Security Professional (CISSP)</b>]]></text> 
+</component>
+
+<component id="ID_pop1">
+	<text><![CDATA[<b>Systems Security Certified Practitioner (SSCP)</b>]]></text>
+</component>
+
+<component id="ID_pop2">
+  	<text><![CDATA[<b>Certification and Accreditation Professional (CAP)</b>]]></text> 
+</component>
+
+<component id="ID_pop3">
+  	<text><![CDATA[<b>Certified Secure Software Lifecycle Professional (CSSLP)</b>]]></text> 
+</component>
+
+<component id="ID_pop4">
+  	<text><![CDATA[<b>Certified Information Systems Security Professional (CISSP)</b>]]></text> 
+</component>
+
+<component id="ID_poptext1">
+	<text><![CDATA[<b>Only available to qualified candidates who subscribe to the (ISC)² code of ethics and pass the SSCP Certification examination based on the relevant SSCP Common Body of Knowledge (CBK). Candidates must also be able to prove at least one-year experience in one of the seven domains that comprise the SSCP Certification:<ul><li>Access Controls </li><li>Administration </li><li>Audit and Monitoring </li><li>Risk, Response and Recovery </li><li>Cryptography </li><li>Data Communications </li><li>Malicious Code/Malware </li></ul>
+</b>]]></text>
+</component>
+
+<component id="ID_poptext2">
+  	<text><![CDATA[<b>Co-developed by the U.S. Department of State's Office of Information Assurance and (ISC)², the CAP credential is used as a measure of the knowledge, skills and abilities of personnel involved in assessing risk and establishing security requirements, as well as ensuring that information systems possess appropriate security measures.</b>]]></text> 
+</component>
+
+<component id="ID_poptext3">
+  	<text><![CDATA[<b>The newest certification from (ISC)², this is the only certification in the industry that ensures security is considered throughout the entire software lifecycle. It centers around seven domains:<ul><li>Secure Software Concepts</li><li>Secure Software Requirements</li><li>Secure Software Design</li><li>Secure Software Implementation/Coding</li><li>Secure Software Testing</li><li>Software Acceptance </li><li>Software Deployment, Operations, Maintenance and Disposal</li></ul>
+</b>]]></text> 
+</component>
+
+<component id="ID_poptext4">
+  	<text><![CDATA[<b>The CISSP was the first credential in the field of information security, accredited by the ANSI to ISO Standard 17024:2003. For CISSP credential, in addition to five years of experience, professional experience must be in two or more of 10 defined (ISC)² CISSP domains: <ul><li>Access Control</li><li>Application Security</li><li>Business Continuity and Disaster Recovery Planning</li><li>Cryptography</li><li>Information Security and Risk Management</li><li>Legal, Regulations, Compliance and Investigations </li><li>Operations Security</li><li>Physical (Environmental) Security</li><li>Security Architecture and Design</li><li>Telecommunications and Network Security</li></ul>
+</b>]]></text> 
+</component>
+
+</textcomponents>

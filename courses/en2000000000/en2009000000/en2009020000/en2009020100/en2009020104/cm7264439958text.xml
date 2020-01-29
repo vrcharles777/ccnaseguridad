@@ -1,0 +1,48 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text><![CDATA[<b>Collaborative Systems Enabling Unparalleled Security</b>]]></text>
+</component>
+
+<component id="ID_box01_title">
+	<text><![CDATA[<b> </b>]]></text>
+</component>
+
+<component id="ID_box01_txt">
+	<text><![CDATA[<b>360º visibility and protection:<br/><textformat blockindent='20'>Delivering comprehensive and proactive network defense</textformat><br/><br/>Simplified control:<br/><textformat blockindent='20'>Streamlining policy and threat management across the network</textformat><br/><br/>Business resiliency:<br/><textformat blockindent='20'>Ensuring the enterprise operations</textformat></b>]]></text>
+</component>
+
+<component id="ID_chart01">
+	<text><![CDATA[<b>Policy Management</b>]]></text>
+</component>
+
+<component id="ID_chart01txt">
+	<text><![CDATA[<b><font size="-2">Cisco Security Manager</font></b>]]></text>
+</component>
+
+<component id="ID_chart02">
+	<text><![CDATA[<b>Threat Management</b>]]></text> 
+</component>
+
+<component id="ID_chart02txt">
+	<text><![CDATA[<b><font size="-2">Cisco Security MARS</font></b>]]></text> 
+</component>
+
+<component id="ID_chart03">
+	<text><![CDATA[<b>Endpoint Security</b>]]></text> 
+</component>
+
+<component id="ID_chart03txt">
+	<text><![CDATA[<b><font size="-2">Cisco NAC Appliance and Cisco Security Agent</font></b>]]></text> 
+</component>
+
+<component id="ID_chart04">
+	<text><![CDATA[<b>Network Infrastructure</b>]]></text> 
+</component>
+
+<component id="ID_chart04txt">
+	<text><![CDATA[<b><font size="-2">Cisco IPS Sensor Software, Cisco IOS Software, and Cisco ASA Adaptive Security Appliances</font></b>]]></text> 
+</component>
+
+
+</textcomponents>

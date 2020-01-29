@@ -1,0 +1,50 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>MARS</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>IronPort</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Web Server</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Email Server</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>DNS</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_new">
+<text><![CDATA[<b>Management Center for Cisco Security Agents</b>]]></text>
+</component>
+</textcomponents>

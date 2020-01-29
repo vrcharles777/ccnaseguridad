@@ -1,0 +1,32 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>User using SSL client</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>SSL VPN enabled ISR router</b>]]></text> 
+</component>
+
+<component id="ID_box01">
+	<text><![CDATA[<b>User makes a connection to TCP port 443</b>]]></text>
+</component>
+
+<component id="ID_box02">
+	<text><![CDATA[<b>Router replies with a digitally signed public key</b>]]></text> 
+</component>
+
+<component id="ID_box03">
+	<text><![CDATA[<b>User software creates a shared-secret key</b>]]></text>
+</component>
+
+<component id="ID_box04">
+	<text><![CDATA[<b>Shared-secret key, encrypted with public key of the router, is sent to the router</b>]]></text> 
+</component>
+
+<component id="ID_box05">
+	<text><![CDATA[<b>Bulk encryption occurs using the shared-secret key with a symmetric encryption algorithm</b>]]></text>
+</component>
+
+
+</textcomponents>

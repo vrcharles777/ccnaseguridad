@@ -1,0 +1,102 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[Symmetric Encryption]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Asymmetric Encryption]]></text>
+</component>
+
+<!-- Slide 1 -->
+<component id="ID_s1_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Symmetric encryption algorithms are best known as shared-secret key algorithms.</li><li>The usual key length is 80 - 256 bits.</li><li>A sender and receiver must share a secret key.</li><li>They are usually quite fast (wire speed) because these algorithms are based on simple mathematical operations.</li><li>Examples of symmetric encryption algorithms are DES, 3DES, AES, IDEA, RC2/4/5/6, and Blowfish.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[Key]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Pre-shared key]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Key]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[$!@#IQ]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<!-- Slide 2 -->
+<component id="ID_s2_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Asymmetric encryption algorithms are best known as public key algorithms.</li><li>The usual key length is 512–4096 bits.</li><li>A sender and receiver do not share a secret key.</li><li>These algorithms are relatively slow because they are based on difficult computational algorithms.</li><li>Examples of asymmetric encryption algorithms are RSA, ElGamal, elliptic curves, and DH.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+<text><![CDATA[Encryption Key]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Two separate keys which are not shared]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Decryption Key]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[%3f7&4]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+<text><![CDATA[$1000]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Policy Compliance</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Infection Containment</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Threat Protection</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Secure Host</b>]]></text>
+</component>
+
+</textcomponents>

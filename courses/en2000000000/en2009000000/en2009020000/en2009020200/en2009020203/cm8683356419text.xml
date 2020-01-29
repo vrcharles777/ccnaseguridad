@@ -1,0 +1,26 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b></b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b></b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Configuration</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Provisioning</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Monitoring</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Analysis</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Mitigation</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Cisco Security Management Suite</b>]]></text> 
+  </component>
+</textcomponents>

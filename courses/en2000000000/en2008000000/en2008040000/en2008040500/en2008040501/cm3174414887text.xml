@@ -1,0 +1,46 @@
+﻿<textcomponents>
+
+<component id="ID_top01">
+  <text><![CDATA[<b>Host A</b>]]></text>
+</component>
+
+<component id="ID_top03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Outbound Traffic</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Encrypt</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Bypass (Plaintext)</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Permit</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>Bypass</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Inbound Traffic</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>Discard (Plaintext)</b>]]></text> 
+</component>
+
+
+<component id="ID_box01">
+  <text><![CDATA[<b><ul><li>Outbound indicates the data flow to be protected by IPsec.</li><li>Inbound filters out and discards traffic that should have been protected by IPsec.</li></ul></b>]]></text> 
+</component>
+
+
+</textcomponents>

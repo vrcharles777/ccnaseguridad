@@ -1,0 +1,13 @@
+﻿<textcomponents>
+<component id="ID_tip_text">
+<text><![CDATA[<b>Remember to save the work by clicking the Save button in the toolbar that is at the top of the window.</b>]]></text>
+</component>
+
+<component id="ID_tip">
+<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+<component id="ID_tip_title">
+<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+</textcomponents>

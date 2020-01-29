@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"> </font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Manage switches in secure a manner (SSH, out-of-band management, ACLs, etc.).</li><li>Set all user ports to non-trunking ports (unless you are using Cisco VoIP).</li><li>Use port security where possible for access ports.</li><li>Enable STP attack mitigation (BPDU guard, root guard).</li><li>Use Cisco Discovery Protocol only where necessary – with phones it is useful.</li><li>Configure PortFast on all non-trunking ports.</li><li>Configure root guard on STP root ports.</li><li>Configure BPDU guard on all non-trunking ports.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

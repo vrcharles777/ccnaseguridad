@@ -1,0 +1,61 @@
+<textcomponents>
+<!-- buttons_-->
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the associated content.]]></text>
+</component>
+<component id="ID_btn1">
+<text><![CDATA[Standard Named IP ACL]]></text>
+</component>
+<component id="ID_btn2">
+<text><![CDATA[Extended Named IP ACL]]></text>
+</component>
+
+<!-- slide 1 -->
+
+<component id="ID_sl1_top01">
+<text><![CDATA[<b>Administrator</b><br/>192.168.1.10]]></text>
+</component>
+
+<component id="ID_sl1_top02">
+<text><![CDATA[<b>User</b><br/>192.168.1.100]]></text>
+</component>
+
+<component id="ID_sl1_top03">
+<text><![CDATA[<b>Workgroup Server</b><br/>192.168.1.6]]></text>
+</component>
+
+<component id="ID_sl1_top04">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+
+<component id="ID_sl2_top01">
+<text><![CDATA[<b>Administrator</b><br/>192.168.1.10]]></text>
+</component>
+
+<component id="ID_sl2_top02">
+<text><![CDATA[<b>User</b><br/>192.168.1.100]]></text>
+</component>
+
+<component id="ID_sl2_top03">
+<text><![CDATA[<b>Workgroup Server</b><br/>192.168.1.6]]></text>
+</component>
+
+<component id="ID_sl2_top04">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_sl2_top05">
+<text><![CDATA[<b>Email Server</b><br/>192.168.2.5]]></text>
+</component>
+
+<component id="ID_sl2_top06">
+<text><![CDATA[<b>Web Server</b><br/>192.168.2.6]]></text>
+</component>
+
+<component id="ID_sl2_top07">
+<text><![CDATA[<b>DMZ</b>]]></text>
+</component>
+
+</textcomponents>

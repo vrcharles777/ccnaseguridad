@@ -1,0 +1,152 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Quantitative Risk Analysis]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Qualitative Risk Analysis]]></text>
+</component>
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><b><ul><li>Mitigating network attacks requires a comprehensive, end-to-end approach.</li><br/><li>Threat identification and risk analysis are the first steps in creating the  protection strategy.</li><br/><li>Risk management and risk avoidance are two distinct approaches to addressing risks.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="ID_chart01">
+	<text><![CDATA[<b>Policy Management</b>]]></text>
+</component>
+
+<component id="ID_chart01txt">
+	<text><![CDATA[<b><font size="-2">Cisco Security Manager</font></b>]]></text>
+</component>
+
+<component id="ID_chart02">
+	<text><![CDATA[<b>Threat Management</b>]]></text> 
+</component>
+
+<component id="ID_chart02txt">
+	<text><![CDATA[<b><font size="-2">Cisco Security MARS</font></b>]]></text> 
+</component>
+
+<component id="ID_chart03">
+	<text><![CDATA[<b>Endpoint Security</b>]]></text> 
+</component>
+
+<component id="ID_chart03txt">
+	<text><![CDATA[<b><font size="-2">Cisco NAC Appliance and Cisco Security Agent</font></b>]]></text> 
+</component>
+
+<component id="ID_chart04">
+	<text><![CDATA[<b>Network Infrastructure</b>]]></text> 
+</component>
+
+<component id="ID_chart04txt">
+	<text><![CDATA[<b><font size="-2">Cisco IPS Sensor Software, Cisco IOS Software, and Cisco ASA Adaptive Security Appliances</font></b>]]></text> 
+</component>
+
+<component id="slide02">
+<text><![CDATA[<font size="14"><b><ul><li>Cisco Self-Defending Network provides a comprehensive, end-to-end solution for network security.</li><br/><li>CSDN solutions include threat control and containment, secure communications, and operational control and policy management. </li><br/><li>Cisco Security Manager and Cisco MARS provide management solutions for CSDN.</li><br/><li>The Cisco Integrated Security Portfolio of security products is designed to meet the requirements and diverse deployment models of any network environment.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_s3">
+<text><![CDATA[<b>Data Center Support</b>]]></text>
+</component>
+<component id="ID_txt02_s3">
+<text><![CDATA[<b>Technical Support</b>]]></text>
+</component>
+<component id="ID_txt03_s3">
+<text><![CDATA[<b>Data Entry</b>]]></text>
+</component>
+<component id="ID_txt04_s3">
+<text><![CDATA[<b>Week 1</b>]]></text>
+</component>
+<component id="ID_txt05_s3">
+<text><![CDATA[<b>Week 2</b>]]></text>
+</component>
+<component id="ID_txt06_s3">
+<text><![CDATA[<b>Week 3</b>]]></text>
+</component>
+
+<component id="slide03">
+<text><![CDATA[<font size="14"><b><ul><li>Operations security is an important part of managing a secure network.</li><br/><li>Separation of duties states that no single individual has control over two or more phases of a transaction or operation.</li><br/><li>Rotation of duties is a security measure in which individuals are given a specific assignment for a certain amount of time before moving to a new assignment.</li><br/><li>Trusted recovery is an important principle of operations security. </li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_s4">
+	<text><![CDATA[<b>Nmap</b>]]></text>
+</component>
+
+<component id="slide04">
+<text><![CDATA[<font size="14"><b><ul><li>Network security testing is a critical process in maintaining a secure network.</li><br/><li>Nmap and SuperScan are two useful tools for network security testing.</li><br/><li>Tests include network scanning, vulnerability scanning, password cracking, log review, integrity checking, virus detection, war driving, and penetration testing.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+<component id="slide05">
+<text><![CDATA[<font size="14"><b><ul><li>Business continuity planning addresses the continuing operations of an organization in the event of a disaster, disruption, or prolonged service interruption that affects the mission of the organization. </li><br/><li>The possible types of disruptions should first be identified. The magnitude of the disruption determines the response.</li><br/><li>Redundancy ensures continuity of business operations. SLAs should include information regarding redundancy.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="ID_title_s6">
+	<text><![CDATA[<b>System Development Life Cycle</b>]]></text>
+</component>
+
+<component id="ID_txt01_s6">
+	<text><![CDATA[<b>Initiation</b>]]></text>
+</component>
+
+<component id="ID_txt02_s6">
+	<text><![CDATA[<b>Acquisition and development</b>]]></text>
+</component>
+
+<component id="ID_txt03_s6">
+	<text><![CDATA[<b>Implementation</b>]]></text>
+</component>
+
+<component id="ID_txt04_s6">
+	<text><![CDATA[<b>Operations and maintenance</b>]]></text>
+</component>
+
+<component id="ID_txt05_s6">
+	<text><![CDATA[<b>Disposition</b>]]></text>
+</component>
+
+<component id="slide06">
+<text><![CDATA[<font size="14"><b><ul><li>A system development life cycle (SDLC) encompasses evaluating system changes and adjusting plans accordingly.</li><br/><li>The SDLC consists of 5 phases.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_s7">
+<text><![CDATA[Standards]]></text>
+</component>
+
+<component id="ID_txt02_s7">
+<text><![CDATA[Guidelines]]></text>
+</component>
+
+<component id="ID_txt03_s7">
+<text><![CDATA[Procedures]]></text>
+</component>
+
+<component id="slide07">
+<text><![CDATA[<font size="14"><b><ul><li>The security policy is an integral component of an organization’s network security design and implementation. It answers questions about what assets are to be protected and how to protect them.</li><br/><li>A security policy typically consists of a governing policy, a technical policy, and an end-user policy.</li><br/><li>Standards, guidelines, and procedures contain the details defined in the policies.</li><br/><li>The policy should set out the various roles and responsibilities among the IT professionals.</li><br/><li>A security awareness program is necessary to ensure all employees within an organization are aware of and adhere to the security policies.</li><br/><li>Network security professionals must be aware of all laws and ethics pertaining to network security.</li><br/><li>Procedures for responding to security breaches are outlined in a security policy.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+</textcomponents>

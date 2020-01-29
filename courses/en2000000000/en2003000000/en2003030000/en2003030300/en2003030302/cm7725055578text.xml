@@ -1,0 +1,26 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Small Remote Office]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Small Remote Office]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Regional Office]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Corporate Region]]></text>
+</component>
+<component id="ID_ACS">
+<text><![CDATA[ACS]]></text>
+</component>
+
+</textcomponents>

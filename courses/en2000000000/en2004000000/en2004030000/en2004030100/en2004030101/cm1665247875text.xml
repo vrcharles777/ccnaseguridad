@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[User1]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[1. <textformat blockindent='14'>User1 initiates a telnet session.</textformat>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[2. <textformat blockindent='14'>Return traffic of User1 telnet session is permitted.</textformat>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[3. <textformat blockindent='20'>Other telnet traffic is blocked.</textformat>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Firewall]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Protected Internal Network]]></text>
+</component>
+
+</textcomponents>

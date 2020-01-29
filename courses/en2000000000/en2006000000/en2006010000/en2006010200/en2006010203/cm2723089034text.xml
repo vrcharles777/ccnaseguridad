@@ -1,0 +1,63 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Before IronPort]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Firewall]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Web Proxy]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Anti-spyware]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Anti-virus]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Anti-phishing]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[URL Filtering]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Policy Management]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Users]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[After IronPort]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Firewall]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[IronPort S-Series]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Users]]></text>
+</component>
+
+</textcomponents>

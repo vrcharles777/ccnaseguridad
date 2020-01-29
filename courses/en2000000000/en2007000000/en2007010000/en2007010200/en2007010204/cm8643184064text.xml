@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Teletype Cipher</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#f2f2f2'><ul><li>Invented by the Norwegian Army Signal Corps in 1950, the ETCRRM machine uses the Vernam stream cipher method.</li><li>It was used by the US and Russian governments to exchange information.</li><li>Plaintext message is exclusively ORed with a key tape containing a random stream of data of the same length to generate the cipher text.</li><li>After a message was encrypted, the key tape was destroyed.</li><li>At the receiving end, the process was reversed using an identical key tape to decode the message.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

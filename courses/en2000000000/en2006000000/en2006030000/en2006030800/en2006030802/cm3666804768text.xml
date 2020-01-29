@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"> </font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Always use a dedicated, unused native VLAN ID for trunk ports.</li><li>Do not use VLAN 1 for anything.</li><li>Disable all unused ports and put them in an unused VLAN.</li><li>Manually configure all trunk ports and disable DTP on trunk ports.</li><li>Configure all non-trunking ports with <font face='_typewriter'><b>switchport mode access</b></font>.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

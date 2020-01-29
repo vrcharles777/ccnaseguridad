@@ -1,0 +1,78 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>Packet-Filtering Firewall</b>]]></text>
+</component>
+
+<!-- buttons -->
+<component id="ID_btn1">
+<text><![CDATA[<b>OSI Layers</b>]]></text>
+</component>
+<component id="ID_btn2">
+<text><![CDATA[<b>Advantages/Disadvantages</b>]]></text>
+</component>
+
+<!-- slide1 -->
+<component id="ID_s1_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s1_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s1_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s1_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s1_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s1_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s1_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s1_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s1_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s1_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s1_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s1_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s1_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s1_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+
+<!-- slide2 -->
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr>
+  <td width="95" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'>&nbsp;</td>
+  <td valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font color="#ffffff"><b> </b></font></td>
+</tr><tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Advantages</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Simple permit or deny rule sets can be used to implement a packet filter.</li><li>Packet filters have a low impact on network performance.</li><li>Packet filters are easy to implement, and are supported by most routers.</li><li>An initial degree of security at a low network layer can be provided by a packet filter.</li><li>A packet filter can perform almost all tasks of a high end firewall at a much lower cost.</li></ul></td></tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Disadvantages</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Packet filtering is susceptible to IP spoofing. Hackers send arbitrary packets that fit ACL criteria and pass through the filter.</li><li>Packet filters do not filter fragmented packets well. Because fragmented IP packets carry the TCP header in the first fragment and packet filters filter on TCP header information, all fragments after the first fragment are passed unconditionally. Decisions to use packet filters assume that the filter of the first fragment accurately enforces the policy.</li><li>Complex ACLs are difficult to implement and maintain correctly.</li><li>Packet filters cannot dynamically filter certain services. For example, sessions that use dynamic port negotiations are difficult to filter without opening access to a whole range of ports.</li><li>Packet filters are stateless. They examine each packet individually rather than in the context of the state of a connection.</li></ul></td>
+  </tr>
+</table>]]></text> 
+  </component>
+
+</textcomponents>

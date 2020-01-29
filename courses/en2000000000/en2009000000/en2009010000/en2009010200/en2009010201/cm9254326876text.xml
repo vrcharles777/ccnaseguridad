@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Identified Threats</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Internal system compromise</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Stolen customer data </b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Phony transactions </b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Insider attack on the system </b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Data center destruction</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Data input errors</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Banking</b>]]></text>
+</component>
+
+</textcomponents>

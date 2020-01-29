@@ -1,0 +1,103 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  	<tr><td colspan = '12'><b><font color = '#FFFFFF' size='+2'>TCP Segment</font></b></td></tr>
+	<tr>
+	  <td width="68" bgcolor='#B4DAFE'>Bit offset</td>
+      <td width="75" bgcolor='#B4DAFE'>Bits 0-3</td>
+      <td width="75" bgcolor='#B4DAFE'>4-7</td>
+      <td colspan="8" bgcolor='#B4DAFE'>8-15</td>
+      <td bgcolor='#B4DAFE'>16-31</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>0</td>
+  <td colspan="10">Source Port</td>
+  <td>Destination Port</td>
+    </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>32</td>
+      <td colspan="11">Sequence Number</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>64</td>
+      <td colspan="11">Acknowledgement Number</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>96</td>
+      <td>Checksum</td>
+  	  <td>Reserved</td>
+      <td width="44">CWR</td>
+      <td width="40">ECE</td>
+      <td width="40">URG</td>
+      <td width="40">ACK</td>
+      <td width="40">PSH</td>
+      <td width="40">RST</td>
+      <td width="40">SYN</td>
+      <td width="40">FIN</td>
+      <td>Window Size</td>
+    </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>128</td>
+      <td colspan="2">Checksum</td>
+      <td colspan="9">Urgent Pointer</td>
+    </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>160</td>
+      <td bgcolor='#F7F3F7' colspan="11">Options (optional)</td>
+    </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>160/192+</td>
+      <td colspan="11">Data</td>
+    </tr></table>]]></text> 
+</component>
+
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  	<tr><td colspan = '8'><b><font color = '#FFFFFF' size='+2'>IP Packet</font></b></td></tr>
+	<tr>
+	  <td width="68" bgcolor='#B4DAFE'>+</td>
+  <td width="75" bgcolor='#B4DAFE'>0-3</td>
+  <td width="75" bgcolor='#B4DAFE'>4-7</td>
+  <td width="150" bgcolor='#B4DAFE'>8-15</td>
+  <td width="150" bgcolor='#B4DAFE'>16-18</td>
+  <td bgcolor='#B4DAFE'>19-31</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>0</td>
+  <td>Version</td>
+  <td>Header Length</td>
+  <td>Type of Service<br/>(now <font color="#0000FF">DiffServ</font> and <font color="#0000FF">ECN</font>)</td>
+  <td colspan="2">Total Length</td>
+  </tr>
+    <tr>
+    <td bgcolor='#B4DAFE'>32</td>
+    <td colspan="3">Identification</td>
+    <td>Flags</td>
+    <td>Fragment Offset</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>64</td>
+      <td colspan="2">Time to Live</td>
+  <td>Protocol</td>
+  <td colspan="2">Header Checksum</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>96</td>
+      <td colspan="5">Source Address</td>
+  </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>128</td>
+      <td colspan="5">Destination Address</td>
+    </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>160</td>
+      <td bgcolor='#F7F3F7' colspan="5">Options</td>
+    </tr>
+    <tr>
+      <td bgcolor='#B4DAFE'>160 or 192+</td>
+      <td colspan="5">Data</td>
+  </tr></table>]]></text> 
+</component>
+
+</textcomponents>

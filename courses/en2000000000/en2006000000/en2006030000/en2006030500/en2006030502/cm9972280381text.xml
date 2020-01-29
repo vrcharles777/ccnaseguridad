@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Specifies an interface as a trunk link.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Prevents the generation of DTP frames.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_table03">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Set the native VLAN on the trunk to an unused VLAN </li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>
+
+Specifies an interface as a trunk link

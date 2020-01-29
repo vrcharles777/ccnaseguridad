@@ -1,0 +1,23 @@
+<textcomponents>
+<component id="ID_top01">
+	<text><![CDATA[PC with Terminal Emulation Software]]></text>
+</component>
+<component id="ID_top02">
+	<text><![CDATA[vty]]></text> 
+</component>
+<component id="ID_top03">
+	<text><![CDATA[aux]]></text> 
+</component>
+<component id="ID_top04">
+	<text><![CDATA[con]]></text> 
+</component>
+<component id="ID_top05">
+	<text><![CDATA[Modem]]></text> 
+</component>
+<component id="ID_top06">
+	<text><![CDATA[PSTN]]></text> 
+</component>
+<component id="ID_top07">
+	<text><![CDATA[PC with Terminal Emulation Software]]></text> 
+</component>
+</textcomponents>

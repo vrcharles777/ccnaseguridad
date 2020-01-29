@@ -1,0 +1,42 @@
+<textcomponents>
+<component id="hosta">
+<text><![CDATA[Host A]]></text>
+</component>
+<component id="hostb">
+<text><![CDATA[Host B]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[1. <textformat blockindent='14'>Host A sends interesting traffic to Host B.</textformat><br/><br/>2. <textformat blockindent='14'>R1 and R2 negotiate an IKE Phase 1 session.</textformat>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[IKE SA]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[IKE Phase 1]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[IKE SA]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[3. <textformat blockindent='14'>R1 and R2 negotiate an IKE Phase 2 session.</textformat>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[IKE SA]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[IKE Phase 2]]></text>
+</component>
+<component id="ID_txt08">
+<text><![CDATA[IKE SA]]></text>
+</component>
+<component id="ID_txt09">
+<text><![CDATA[4. <textformat blockindent='14'>Information is exchanged via IPsec tunnel.</textformat>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[IPsec Tunnel]]></text>
+</component>
+<component id="ID_txt11">
+<text><![CDATA[5. <textformat blockindent='14'>The IPsec tunnel is terminated.</textformat>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,71 @@
+<textcomponents>
+<!-- buttons -->
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Accounting Steps</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>AAA Accounting Functions</b>]]></text>
+</component>
+
+<!-- slide1 -->
+<!-- topology -->
+<component id="ID_top01">
+<text><![CDATA[Remote Client]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[Perimeter Router]]></text>
+</component>
+
+<!-- bullets -->
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>1. <textformat blockindent='15'>When a user has been authenticated, the AAA accounting process generates a start message to begin the accounting process.</textformat><br/>2. <textformat blockindent='15'>When the user finishes, a stop message is recorded and the accounting process ends.</textformat></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td colspan='2'><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD' width='150'>Network accounting</td>
+		<td bgcolor='#DDDDDD'>Network accounting captures information for all Point-to-Point Protocol (PPP), Serial Line Internet Protocol (SLIP), or Apple Remote Access Protocol (ARAP) sessions, including packet and byte counts.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Connection accounting</td>
+		<td bgcolor='#F2F2F2'>Connection accounting captures information about all outbound connections made from the AAA client, such as Telnet, local-area transport (LAT), TN3270, packet assembler/disassembler (PAD), and rlogin.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>EXEC accounting</td>
+		<td bgcolor='#DDDDDD'>EXEC accounting captures information about user EXEC terminal sessions (user shells) on the network access server, including username, date, start and stop times, the access server IP address, and (for dial-in users) the telephone number the call originated from.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>System accounting</td>
+		<td bgcolor='#F2F2F2'>System accounting captures information about all system-level events (for example, when the system reboots or when accounting is turned on or off).</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Command accounting</td>
+		<td bgcolor='#DDDDDD'>Command accounting captures information about the EXEC shell commands for a specified privilege level that are being executed on a network access server. Each command accounting record includes a list of the commands executed for that privilege level, as well as the date and time each command was executed, and the user who executed it.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Resource accounting</td>
+		<td bgcolor='#F2F2F2'>The Cisco implementation of AAA accounting captures "start" and "stop" record support for calls that have passed user authentication. The additional feature of generating "stop" records for calls that fail to authenticate as part of user authentication is also supported. Such records are necessary for users employing accounting records to manage and monitor their networks.</td>
+	</tr>
+</table> ]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,52 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+
+<component id="ID_btn01">
+	<text><![CDATA[<b>Microscopic Images of Human Viruses</b>]]></text>
+</component>
+
+<component id="ID_btn02">
+	<text><![CDATA[<b>Computer Virus Spreading Similar to Human Virus</b>]]></text>
+</component>
+
+<component id="ID_title">
+	<text><![CDATA[<b>Microscopic Images of Human Viruses</b>]]></text>
+</component>
+
+<component id="ID_title02">
+	<text><![CDATA[<b>Computer Virus</b>]]></text>
+</component>
+
+<component id="ID_title01">
+	<text><![CDATA[<b>Human Virus</b>]]></text>
+</component>
+
+<component id="ID_virus01">
+	<text><![CDATA[<b>Influenza Virus</b>]]></text>
+</component>
+
+<component id="ID_virus02">
+	<text><![CDATA[<b>HIV Virus</b>]]></text>
+</component>
+
+<component id="ID_virus03">
+	<text><![CDATA[<b>SARS Virus</b>]]></text>
+</component>
+
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+
+<component id="ID_minfo02">
+<text><![CDATA[<B>More Information</B>]]></text>
+</component>
+
+<component id="ID_minfo03">
+<text><![CDATA[Viruses that have created problems across the Internet:<br/><ul><li>Creeper Virus on ARPAnet - early 1970's</li><li>Rabbit Virus - 1974</li><li>ANIMAL Virus - 1975</li><li>Elk Cloner Virus - 1982</li><li>Term "Computer Virus" Coined - 1983</li><li>Brain Boot Sector Virus - 1986</li><li>Ghostball Virus - 1989</li><li>Michelangelo Virus - 1991</li><li>Concept Macro Virus - 1995</li><li>Melissa Virus - 1999</li><li>Simile Multi-OS Virus - 2001</li></ul>]]></text>
+</component>
+
+</textcomponents>

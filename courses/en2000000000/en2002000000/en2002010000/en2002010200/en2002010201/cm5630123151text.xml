@@ -1,0 +1,61 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Brute Force Attack</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Weak and Strong Passwords</b>]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200'><font color='#FFFFFF'><b>Weak Password</b></font></td>
+		<td><font color='#FFFFFF'><b>Why it is weak</b></font></td>
+	</tr>
+	<tr>
+		<td>secret</td>
+		<td>Simple dictionary password.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>smith</td>
+		<td bgcolor='#F2F2F2'>Mother’s maiden name.</td>
+	</tr>
+	<tr>
+		<td>toyota</td>
+		<td>Make of car.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>bob1967</td>
+		<td bgcolor='#F2F2F2'>Name and birthday of user.</td>
+	</tr>
+	<tr>
+		<td>Blueleaf23</td>
+		<td>Simple words and numbers.</td>
+	</tr>
+</table>]]></text> 
+</component>
+
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200'><font color='#FFFFFF'><b>Strong Password</b></font></td>
+		<td><font color='#FFFFFF'><b>Why it is strong</b></font></td>
+	</tr>
+	<tr>
+		<td>b67n42d39c</td>
+		<td>Combines alphanumeric characters.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>12^h u4@1p7</td>
+		<td bgcolor='#F2F2F2'>Combines alphanumeric characters, symbols and also includes a space.</td>
+	</tr>
+</table>]]></text> 
+</component>
+
+</textcomponents>

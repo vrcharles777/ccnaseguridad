@@ -1,0 +1,32 @@
+﻿<textcomponents>
+
+<component id="ID_top01">
+  <text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+</component>
+
+<component id="ID_top03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_box01">
+  <text><![CDATA[<b>Crypto maps define the following:<ul><li>ACL to be used</li><li>Remote VPN peers</li><li>Transform set to be used</li><li>Key management method</li><li>SA lifetimes</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Crypto Map</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Encrypted Traffic</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Router Interface or Subinterface</b>]]></text> 
+</component>
+
+
+</textcomponents>

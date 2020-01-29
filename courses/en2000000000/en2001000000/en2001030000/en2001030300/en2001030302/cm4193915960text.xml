@@ -1,0 +1,133 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click the DoS and DDoS buttons to view an example of that type of attack.</b>]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[<b>DoS</b>]]></text>
+</component>
+
+<component id="ID_button5">
+<text><![CDATA[<b>DDoS</b>]]></text>
+</component>
+
+
+   <component id="ID_txt01">
+<text><![CDATA[<b>Internet</b>]]></text>
+   </component>
+   <component id="ID_txt02">
+<text><![CDATA[<b>WWW.XXYZCORP.COM<br>Web Server</b>]]></text>
+   </component>
+   <component id="ID_txt03">
+<text><![CDATA[<b>DoS Attacker</b>]]></text>
+   </component>
+      <component id="ID_txt04">
+<text><![CDATA[<b>This website is very slow today!</b>]]></text>
+   </component>
+      <component id="ID_txt05">
+<text><![CDATA[<b>I'll send so many pings that the server can't respond to anyone else.</b>]]></text>
+   </component>
+      <component id="ID_txt06">
+<text><![CDATA[<b>This website is very slow today!</b>]]></text>
+   </component>
+        <component id="ID_txt07">
+<text><![CDATA[<b>Help, I can't accomplish any work!</b>]]></text>
+   </component>
+	
+	<component id="ID_inst02">
+<text><![CDATA[<b>Click Play to see a DoS attack.</b>]]></text>
+   </component>
+   
+   
+   <component id="play_s1">
+      <text>Play</text>
+   </component>
+   <component id="pause_s1">
+      <text>Pause</text>
+   </component>
+   <component id="rewind_s1">
+      <text>Rewind</text>
+   </component>
+   <component id="forward_s1">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute_s1">
+      <text>Mute</text>
+   </component>
+   <component id="unmute_s1">
+      <text>UnMute</text>
+   </component>
+   <component id="previous_s1">
+      <text>Restart</text>
+   </component>
+   <component id="next_s1">
+      <text>End</text>
+   </component>
+   <component id="transcript_s1">
+      <text>Transcript</text>
+   </component>
+
+   <component id="play">
+      <text>Play</text>
+   </component>
+   <component id="pause">
+      <text>Pause</text>
+   </component>
+   <component id="rewind">
+      <text>Rewind</text>
+   </component>
+   <component id="forward">
+      <text>Fast Forward</text>
+   </component>
+   <component id="mute">
+      <text>Mute</text>
+   </component>
+   <component id="unmute">
+      <text>UnMute</text>
+   </component>
+   <component id="previous">
+      <text>Restart</text>
+   </component>
+   <component id="next">
+      <text>End</text>
+   </component>
+   <component id="transcript">
+      <text>Transcript</text>
+   </component>
+
+
+
+
+
+   <component id="ID_txt01_s2">
+     <text><![CDATA[<b>Denial of Service and Brute Force attacks</b>]]></text> 
+  </component>
+  <component id="ID_inst02_s2">
+       <text><![CDATA[<b>Click Play to view how a DDoS attack occurs.</b>]]></text> 
+  </component>
+  <component id="ID_txt02_s2">
+       <text><![CDATA[DDoS code activated.]]></text> 
+  </component>
+  <component id="ID_txt03_s2">
+       <text><![CDATA[<b>WWW.QZXBANK.COM<br>Web Server</b></b>]]></text> 
+  </component>
+  <component id="ID_txt04_s2">
+       <text><![CDATA[<b>DDoS Attacker</b>]]></text> 
+  </component>
+  <component id="ID_txt05_s2">
+       <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+  <component id="ID_txt06_s2">
+       <text><![CDATA[I have infected computers across the Internet with the DDoS code. I will activate them all now.]]></text>
+  </component>
+  <component id="ID_txt07_s2">
+       <text><![CDATA[I am overloaded with too much traffic.]]></text> 
+  </component>
+  <component id="ID_txt08_s2">
+       <text><![CDATA[DDoS code activated.]]></text> 
+  </component>
+
+
+
+</textcomponents>

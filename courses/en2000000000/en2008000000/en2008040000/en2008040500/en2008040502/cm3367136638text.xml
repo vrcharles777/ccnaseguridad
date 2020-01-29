@@ -1,0 +1,44 @@
+﻿<textcomponents>
+
+<component id="ID_top01">
+  <text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+</component>
+
+<component id="ID_top03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<font face='_typewriter'><b> </b>]]></text>
+</component>
+
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+	<td width='200' valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color='#FFFFFF'><b>Command</b></font></td>
+<td valign='top' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' type='dynamic'><font  color='#FFFFFF'><b>Description</b></font></td></tr>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>permit</b></font></td>
+	    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>This option causes all IP traffic that matches the specified conditions to be protected by cryptography, using the policy described by the corresponding crypto map entry.</td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><b>deny</b></font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>This option instructs the router to route traffic in plaintext.</td>	
+  </tr>
+	<tr>
+		<td height="26" valign='top' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' type='dynamic'><font face='_typewriter'><i>protocol</i></font></td>
+	  <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>This option specifies which traffic to protect by cryptography based on the protocol, such as TCP, UDP, or ICMP. If the protocol is IP, then all IP traffic matching that permit statement is encrypted.</td>	
+  </tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face="_typewriter"><i>source</i></font><b> and </b><font face="_typewriter"><i>destination</i></font></td>
+	  <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>If the ACL statement is a permit statement, these are the networks, subnets, or hosts between which traffic should be protected. If the ACL statement is a deny statement, then the traffic between the specified source and destination is sent in plaintext.</td>
+  </tr>
+</table>]]></text> 
+</component>
+
+
+</textcomponents>

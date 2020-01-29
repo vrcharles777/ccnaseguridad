@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Certicom PDA IPsec<br/>VPN Client</b>]]></text> 
+  </component>
+  
+<component id="ID_txt02">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>Router with Firewall<br/>and VPN Client</b>]]></text> 
+  </component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Small Office</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Cisco VPN<br/> Client</b>]]></text> 
+  </component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[<b>Cisco AnyConnect<br/>VPN Client</b>]]></text> 
+  </component>
+  
+<component id="ID_txt07">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+  
+</textcomponents>

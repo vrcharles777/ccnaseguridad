@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_bub01">
+	<text><![CDATA[<b>Check VPN status.</b>]]></text>
+</component>
+
+<component id="ID_bub02">
+	<text><![CDATA[<b>Test the VPN configuration.</b>]]></text>
+</component>
+
+<component id="ID_bub03">
+	<text><![CDATA[<b>Create a mirroring configuration if no Cisco SDM is available on the peer.</b>]]></text>
+</component>
+
+</textcomponents>

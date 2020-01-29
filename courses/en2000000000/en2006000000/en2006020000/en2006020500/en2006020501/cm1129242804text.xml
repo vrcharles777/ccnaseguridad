@@ -1,0 +1,41 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<ul><li>Broadcast, multicast, or unicast packets are flooded on all ports in the same VLAN.</li><li>These storms can increase the CPU utilization on a switch to 100%, reducing the performance of the network.</li></ul>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt12">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+<component id="ID_txt13">
+  <text><![CDATA[Broadcast]]></text> 
+  </component>
+</textcomponents>

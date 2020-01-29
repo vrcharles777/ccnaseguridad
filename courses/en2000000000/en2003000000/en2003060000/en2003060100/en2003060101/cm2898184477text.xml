@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+<component id="ID_txt_01_s1">
+   <text><![CDATA[<b>Authentication</b><br/><font size="12">Who are you?</font>]]></text> 
+</component>
+
+<component id="ID_txt_02_s1">
+   <text><![CDATA[<b>Authorization</b><br/><font size="12">How much can you spend?</font>]]></text> 
+</component>
+
+<component id="ID_txt_03_s1">
+   <text><![CDATA[<b>Accounting</b><br/><font size="12">What did you spend it on?</font>]]></text> 
+</component>
+
+<component id="slide01">
+<text><![CDATA[<b><font size="14"><li>The Authentication, Authorization, and Accounting (AAA) protocol provides a scalable framework for enabling access security.</li><br/><li>AAA controls who is allowed to connect to the network, what they are allowed to do, and keeps records of what was done.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="slide02">
+<text><![CDATA[<b><font size="14"><li>In small or simple networks, AAA authentication can be implemented using a local database.</li><br/><li>Local AAA can be configured using CLI and SDM.</li></ul></b></font>]]></text>
+</component>
+
+
+<component id="ID_comment01_s3">
+  <text><![CDATA[<b>TACACS+ or RADIUS protocols are used to communicate between the clients and AAA security servers.</b>]]></text>
+</component>
+  
+<component id="ID_txt_01_s3">
+   <text><![CDATA[<b>Remote User</b>]]></text> 
+</component>
+
+<component id="ID_txt_02_s3">
+   <text><![CDATA[<b>Edge Router</b>]]></text> 
+</component>
+
+<component id="ID_txt_03_s3">
+   <text><![CDATA[<b>Cisco Secure ACS for Windows Server</font>]]></text> 
+</component>
+
+<component id="ID_txt_04_s3">
+   <text><![CDATA[<b>Cisco Secure ACS Solution Engine</font>]]></text> 
+</component>
+
+<component id="ID_txt_05_s3">
+   <text><![CDATA[<b>Cisco Secure ACS Express</font>]]></text> 
+</component>
+
+<component id="slide03">
+<text><![CDATA[<b><font size="14"><li>In large or complex networks, AAA authentication can be implemented using server-based AAA.</li><br/><li>AAA servers can use RADIUS or TACACS+ protocols to communicate with client routers.</li><br/><li>The Cisco Access Control Server (ACS) can be used to provide AAA server services.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="slide04">
+<text><![CDATA[<b><font size="14"><li>Server-based AAA authentication can be configured using CLI or SDM.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="slide05">
+<text><![CDATA[<b><font size="14"><li>Server-based AAA authorization and accounting can be configured using CLI or SDM.</li></ul></b></font>]]></text>
+</component>
+
+
+</textcomponents>

@@ -1,0 +1,39 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Roll over the numbers to see details.]]></text>
+</component>
+
+<component id="ID_top01">
+<text><![CDATA[Source Port 2447]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[Inside]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[Outside]]></text>
+</component>
+
+<component id="ID_top04">
+<text><![CDATA[Destination Port 23]]></text>
+</component>
+
+<component id="ID_pop01">
+<text><![CDATA[TCP traffic is inspected by FWRULE.]]></text>
+</component>
+
+<component id="ID_pop02">
+<text><![CDATA[Firewall creates a dynamic ACL allowing return traffic back through the firewall.]]></text>
+</component>
+
+<component id="ID_pop03">
+<text><![CDATA[Firewall continues to inspect control traffic and dynamically creates and removes ACLs as required by the application. It also monitors and protects against application-specific attacks.]]></text>
+</component>
+
+<component id="ID_pop04">
+<text><![CDATA[Firewall detects when an application terminates or times out and removes all dynamic ACLs for that session.]]></text>
+</component>
+
+</textcomponents>

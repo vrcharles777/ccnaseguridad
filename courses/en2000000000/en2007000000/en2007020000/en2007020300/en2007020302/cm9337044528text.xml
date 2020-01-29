@@ -1,0 +1,46 @@
+﻿<textcomponents>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Secret Key</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Secret Key</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>HMAC (Authenticated Fingerprint)</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+  <text><![CDATA[<b>HMAC (Authenticated Fingerprint)</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Received Data</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<b>Data</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[If the generated HMAC matches the sent HMAC, then integrity and authenticity have been verified.<BR/>If they don’t match, discard the message.]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Hash<br/>Function</b>]]></text> 
+</component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Hash<br/>Function</b>]]></text> 
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[Pay to Terry Smith             $100.00<br/>One Hundred and xx/100    Dollars]]></text> 
+</component>
+<component id="ID_txt09">
+  <text><![CDATA[Pay to Terry Smith             $100.00<br/>One Hundred and xx/100    Dollars]]></text> 
+</component>
+<component id="ID_txt10">
+  <text><![CDATA[Pay to Terry Smith             $100.00<br/>One Hundred and xx/100    Dollars]]></text> 
+</component>
+
+</textcomponents>

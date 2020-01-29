@@ -1,0 +1,17 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>If SPIT grows like spam, it could result in regular DoS problems for network administrators.</li><li>Antispam methods do not block SPIT.</li><li>Authenticated TLS stops most SPIT attacks because TLS endpoints accept packets only from trusted devices.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[You’ve just won an all expenses paid vacation to the U.S. Virgin Islands!!!]]></text>
+</component>
+</textcomponents>

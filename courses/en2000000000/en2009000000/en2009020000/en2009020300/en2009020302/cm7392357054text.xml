@@ -1,0 +1,84 @@
+<textcomponents>
+
+<!---slide 1---->
+<component id="ID_s1_txt01">
+<text><![CDATA[<b>Remote Worker</b>]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[<b>Remote Branch</b>]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[<b>Iron Port</b>]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[<b>Web Server</b>]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[<b>Email Server</b>]]></text>
+</component>
+
+<component id="ID_s1_txt14">
+<text><![CDATA[<b>DNS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt15">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_s1_txt16">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt17">
+<text><![CDATA[<b>MARS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt18">
+<text><![CDATA[<b>ACS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt19">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_s1_txt20">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+</textcomponents>

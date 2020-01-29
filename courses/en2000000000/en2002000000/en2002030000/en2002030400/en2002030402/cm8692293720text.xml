@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Community Strings Facts:</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><li>Used to authenticate messages between a management station and an SNMPv1 or SNMPv2 engine</li><li>Read-write community strings can get and set information in an agent.</li><li>Set access is equivalent to having the enable password for a device.</li></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

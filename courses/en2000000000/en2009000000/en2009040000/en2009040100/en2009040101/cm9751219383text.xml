@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Objectives of ST&E:</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Uncover design, implementation, and operational flaws that could lead to the violation of the security policy.</li><li>Determine the adequacy of security mechanisms, assurances, and device properties to enforce the security policy.</li><li>Assess the degree of consistency between the system documentation and its implementation.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

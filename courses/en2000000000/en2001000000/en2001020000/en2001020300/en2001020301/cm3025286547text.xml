@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+
+<component id="ID_minfo02">
+<text><![CDATA[<B>More Information</B>]]></text>
+</component>
+
+<component id="ID_minfo03">
+<text><![CDATA[Trojan Horses that have created problems across the Internet:<br/><li>NetBus – March 1998</li><li>Back Orifice – August 1998</li><li>Sub7 – 1999</li><li>ProRat – 2003</li><li>Vundo – 2004</li><li>SpySheriff – 2005</li><li>Zlob –  2005</li><li>Storm – 2007</li>]]></text>
+</component>
+
+</textcomponents>

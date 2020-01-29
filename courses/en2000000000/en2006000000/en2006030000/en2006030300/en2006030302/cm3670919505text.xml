@@ -1,0 +1,54 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[MAC A]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[MAC D]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[SNMP traps are sent to the NMS when new addresses appear or when old ones timeout.]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[NMS]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Switch CAM Table]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[MAC B]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>In the example, the laptop with MAC C has disconnected from the network. The switch will eventually timeout port Fa0/3 and send an SNMP trap notification to the NMS server.</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[MAC C]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>MAC Address Table</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Fa0/1 = MAC A</td>	
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Fa0/2 = MAC B</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Fa0/3 = MAC C (address eventually timeouts)</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Fa0/4 = MAC D</td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

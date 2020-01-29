@@ -1,0 +1,304 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Business Partner<br/>with a Cisco Router</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>SOHO with a<br/>Cisco DSL Router</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Site-to-Site VPNs</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>WAN</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>VPN</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>VPN</b>]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>Regional Branch with a VPN-enabled Cisco ISR Router</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Remote-Access VPNs</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Mobile Worker with a Cisco VPN Client</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>IPS</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>MARS</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>IronPort</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Web Server</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Email Server</b>]]></text> 
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>DNS</b>]]></text> 
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><b><ul><li>A VPN is a private network that is created via tunneling over a public network, usually the Internet.</li><br/><li>There are site-to-site VPNs and remote access VPNs.</li><br/><li>VPNs require the use of modern encryption techniques to ensure secure transport of information.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt01_s2">
+<text><![CDATA[GRE Tunnel]]></text>
+</component>
+
+<component id="ID_txt02_s2">
+<text><![CDATA[IP Transport Network]]></text>
+</component>
+
+<component id="ID_bullets_s2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>GRE Tunneling Protocol</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Encapsulates a wide variety of protocol packet types inside IP tunnels.</li><li>Creates a virtual point-to-point link to Cisco routers at remote points over an IP internetwork.</li><li>Uses IP for transport.</li><li>Uses an additional header to support IP multicasting and any other OSI Layer 3 protocol as payload.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="slide02">
+<text><![CDATA[<font size="14"><b><ul><li>Generic routing encapsulation (GRE) is a tunneling protocol that is used to create a point-to-point link to Cisco routers.</li><br/><li>GRE supports multiprotocol tunneling, including IP.</li><br/><li>GRE can be used in combination with IPsec.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>IPsec Framework</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>IPsec Protocol</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>Confidentiality</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>Integrity</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>Authentication</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>Diffie-Hellman</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>Choices</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>AH</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>ESP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>ESP <br/>+ AH</b>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>DES</b>]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[<b>3<br />DES</b>]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[<b>AES</b>]]></text>
+</component>
+
+<component id="ID_S2_txt14">
+<text><![CDATA[<b>SEAL</b>]]></text>
+</component>
+
+<component id="ID_S2_txt15">
+<text><![CDATA[<b>MD5</b>]]></text>
+</component>
+
+<component id="ID_S2_txt16">
+<text><![CDATA[<b>SHA</b>]]></text>
+</component>
+
+<component id="ID_S2_txt17">
+<text><![CDATA[<b>PSK</b>]]></text>
+</component>
+
+<component id="ID_S2_txt18">
+<text><![CDATA[<b>RSA</b>]]></text>
+</component>
+
+<component id="ID_S2_txt19">
+<text><![CDATA[<b>DH1</b>]]></text>
+</component>
+
+<component id="ID_S2_txt20">
+<text><![CDATA[<b>DH2</b>]]></text>
+</component>
+
+<component id="ID_S2_txt21">
+<text><![CDATA[<b>DH5</b>]]></text>
+</component>
+
+<component id="ID_S2_txt22">
+<text><![CDATA[<b>DH7</b>]]></text>
+</component>
+
+<component id="slide03">
+<text><![CDATA[<font size="14"><b><ul><li>IPsec is a framework of open standards that establishes the rules for secure communications.</li><br/><li>IPsec relies on existing algorithms to achieve  encryption, authentication, and key exchange.</li><br/><li>IPsec can encapsulate a packet using either Authentication Header (AH) or the more secure Encapsulation Security Protocol (ESP).</li><br/><li>IPsec uses the Internet Key Exchange (IKE) protocol to establish the key exchange process.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+
+<component id="ID_top01_s4">
+  <text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+
+<component id="ID_top02_s4">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+</component>
+
+<component id="ID_top03_s4">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_box01_s4">
+  <text><![CDATA[<b>Crypto maps define the following:<ul><li>ACL to be used</li><li>Remote VPN peers</li><li>Transform set to be used</li><li>Key management method</li><li>SA lifetimes</li></ul></b>]]></text>
+</component>
+
+<component id="ID_txt01_s4">
+  <text><![CDATA[<b>Crypto Map</b>]]></text> 
+</component>
+
+<component id="ID_txt02_s4">
+  <text><![CDATA[<b>Encrypted Traffic</b>]]></text> 
+</component>
+
+<component id="ID_txt03_s4">
+  <text><![CDATA[<b>Router Interface or Subinterface</b>]]></text> 
+</component>
+
+<component id="slide04">
+<text><![CDATA[<font size="14"><b><ul><li>The first task in creating a site-to-site VPN is to ensure that the existing ACLs on perimeter routers, firewalls, or other routers do not block IPsec traffic.</li><br/><li>The second task is to define the parameters within the IKE policy, which are used during negotiation to establish ISAKMP peering.</li><br/><li>The third task is to define the IPsec transform set, which consists of a combination of an AH transform, an ESP transform, and the IPsec mode.</li><br/><li>The fourth task is to configure the crypto ACL to define which traffic is protected through the IPsec tunnel.</li><br/><li>The final task is to create and apply a crypto map that specifies the parameters of the IPsec SAs.</li></ul></b></font>]]></text>
+</component>
+
+
+
+<component id="slide05">
+<text><![CDATA[<font size="14"><b><ul><li>Use the SDM Quick setup VPN wizard or the Step by step wizard to quickly and easily create an IPsec VPN.</li><br/><li>Verify, monitor, and troubleshoot VPNs using SDM.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt01_s6">
+  <text><![CDATA[<b>SSL-based remote access</b>]]></text>
+</component>
+<component id="ID_txt02_s6">
+  <text><![CDATA[<b>IPsec-based Remote Access</b>]]></text> 
+  </component>
+<component id="ID_txt03_s6">
+  <text><![CDATA[<b>Network Resources</b>]]></text> 
+  </component>
+<component id="ID_txt04_s6">
+  <text><![CDATA[<b>ASA 5500</b>]]></text> 
+  </component>
+<component id="ID_txt05_s6">
+  <text><![CDATA[<b>IPsec Remote Access VPN</b>]]></text> 
+  </component>
+<component id="ID_txt06_s6">
+  <text><![CDATA[<b>Any Application</b>]]></text> 
+  </component>
+<component id="ID_txt07_s6">
+  <text><![CDATA[<b>Anywhere Access</b>]]></text> 
+  </component>
+<component id="ID_txt08_s6">
+  <text><![CDATA[<b>SSL-Based VPN</b>]]></text> 
+  </component>
+
+<component id="slide06">
+<text><![CDATA[<font size="14"><b><ul><li>More organizations are offering telecommuting options to their employees.</li><br/><li>Remote access connections can be provided using a remote access IPsec VPN solution or an SSL VPN.</li><br/><li>Use SDM to configure a Cisco Easy VPN Server and connect a VPN client using the Cisco VPN Client software.</li></ul></b></font>]]></text>
+</component>
+
+
+
+</textcomponents>

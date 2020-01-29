@@ -1,0 +1,208 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text>
+</component>
+
+<!-- buttons -->
+<component id="ID_btn1">
+<text><![CDATA[<b>Packet-Filtering Firewall</b>]]></text>
+</component>
+<component id="ID_btn2">
+<text><![CDATA[<b>Stateful Firewall</b>]]></text>
+</component>
+<component id="ID_btn3">
+<text><![CDATA[<b>Application Gateway Firewall</b>]]></text>
+</component>
+<component id="ID_btn4">
+<text><![CDATA[<b>Address Translation Firewall</b>]]></text>
+</component>
+
+<!-- slide1 -->
+<component id="ID_s1_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s1_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s1_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s1_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s1_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s1_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s1_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s1_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s1_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s1_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s1_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s1_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s1_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s1_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+<component id="ID_s1_callout">
+<text><![CDATA[<b>Packet Filtering</b>]]></text>
+</component>
+
+<!-- slide2 -->
+<component id="ID_s2_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s2_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s2_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s2_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s2_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s2_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s2_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s2_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s2_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s2_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s2_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s2_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s2_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s2_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+<component id="ID_s2_callout">
+<text><![CDATA[<b>Stateful Firewall</b>]]></text>
+</component>
+
+<!-- slide3 -->
+<component id="ID_s3_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s3_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s3_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s3_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s3_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s3_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s3_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s3_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s3_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s3_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s3_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s3_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s3_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s3_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+<component id="ID_s3_callout">
+<text><![CDATA[<b>Application Gateway</b>]]></text>
+</component>
+
+<!-- slide4 -->
+<component id="ID_s4_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s4_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s4_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s4_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s4_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s4_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s4_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s4_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s4_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s4_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s4_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s4_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s4_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s4_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+<component id="ID_s4_callout">
+<text><![CDATA[<b>Address Translation Firewall</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_label01">
+  	<text><![CDATA[<b>THINK</b>]]></text> 
+</component>
+
+<component id="ID_label02">
+  	<text><![CDATA[<b>Using a password based on a dictionary word may result in someone abusing your account and misusing our server.</b>]]></text> 
+</component>
+
+  
+<component id="ID_table">
+  	<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Techniques Available for Access Attack Mitigation Include:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Strong password security</li><li>Principle of minimum trust</li><li>Cryptography</li><li>Applying operating system and application patches</li></ul></td></tr></table>]]></text> 
+</component>
+</textcomponents>

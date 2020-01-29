@@ -1,0 +1,5 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Steps to configure an AAA Server:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='17'>Enable AAA.</textformat><br/>2. <textformat blockindent='17'>Specify the IP address of the ACS server.</textformat><br/>3. <textformat blockindent='17'>Configure the secret key.</textformat><br/>4. <textformat blockindent='17'>Configure authentication to use either the RADIUS or TACACS+ server.</textformat><br/></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,25 @@
+﻿<textcomponents>
+<component id="tableHTML">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  <tr>
+    <td rowspan='2' width='150' bgcolor='#FFFF99'><font  color='#FFFFFF'><b>Signature Trigger</b></font></td>
+    <td colspan='2' bgcolor='#FFFF99'><font  color='#FFFFFF'><p align='center'><b>Signature Type</b></p></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>Atomic Signature</b></td>
+    <td bgcolor='#FFFF99'><b>Composite Signature</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'><b>Pattern-based Detection</b></td>
+    <td bgcolor='#F2F2F2'>No state required to examine pattern to determine if signature action should be applied</td>
+    <td bgcolor='#F2F2F2'>Must maintain state or examine multiple items to determine if signature action should be applied</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD'><b>Example</b></td>
+    <td bgcolor='#DDDDDD'>Detecting for an Address Resolution Protocol (ARP) request that has a source Ethernet address of FF:FF:FF:FF:FF:FF</td>
+    <td bgcolor='#DDDDDD'>Searching for the string "confidential" across multiple packets in a TCP session</td>
+  </tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

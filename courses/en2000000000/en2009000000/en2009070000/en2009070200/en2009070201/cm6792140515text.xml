@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Governing Policy</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Technical Policies</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>End-User Policies</b>]]></text>
+</component>
+
+</textcomponents>

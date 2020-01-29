@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[IDS<br/>RMON Probe<br/>Protocol Analyzer]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<font color='#FF0000'>“Intruder Alert!”</font>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Attacker]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>A SPAN port mirrors traffic to another port where a monitoring device is connected.</li><li>Without this, it can be difficult to track hackers after they have entered the network.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,77 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+<component id="ID_title01_s1">
+<text><![CDATA[<b>Threats to Networks</b>]]></text>
+</component>
+
+<component id="ID_txt01_s1">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt04_s1">
+<text><![CDATA[<b>Internal<br/>Threat</b>]]></text>
+</component>
+
+<component id="ID_txt05_s1">
+<text><![CDATA[<b>Compromised<br/>Host</b>]]></text>
+</component>
+
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><b><li>Network security has evolved over 40 years from crude measures that were originally implemented on ARPAnet.</li><br/><li>The malicious work of hackers and the need to maintain business operations drive network security.</li><br/><li>Network security organizations provide a forum for professionals to collaborate and improve their skills.</li><br/><li>Network security consists of various domains which allow professionals to specialize and provide structure to the world of network security.</li><br/><li>Network security policies provide a practical framework with which to relate all network security actions within an organization.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+<component id="ID_Screen_s2">
+<text><![CDATA[<b><font size='+8' face="_typewriter">Launch Downloaded Script to Attack</font></b>]]></text>
+</component>
+
+<component id="slide02">
+<text><![CDATA[<b><font size="14"><li>A virus is malicious software attached to another program to execute unwanted actions on an end system.</li><br/><li>A worm executes arbitrary code and installs copies of itself in the memory of an infected computer, which then infects other hosts.</li><br/><li>A Trojan Horse is an application that was written to look like something else. When a Trojan Horse is downloaded and opened, it attacks the end-user computer from within.</li><br/><li>Specific tools are available to mitigate the effects of viruses, worms, and Trojan Horses.</li></b></ul></font>]]></text>
+</component>
+
+
+
+<component id="ID_txt01_s3">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_txt02_s3">
+<text><![CDATA[<b>Control Physical Access</b>]]></text>
+</component>
+
+<component id="ID_txt03_s3">
+<text><![CDATA[<b>Patches and Updates</b>]]></text>
+</component>
+
+<component id="ID_txt04_s3">
+<text><![CDATA[<b>Develop a Security Policy</b>]]></text>
+</component>
+
+<component id="ID_txt05_s3">
+<text><![CDATA[<b>Password Protect Sensitive Data</b>]]></text>
+</component>
+
+<component id="ID_txt06_s3">
+<text><![CDATA[<b>Anti-Virus</b>]]></text>
+</component>
+
+<component id="ID_page01_s3">
+<text><![CDATA[<b>Security Policy</b>]]></text>
+</component>
+
+<component id="slide03">
+<text><![CDATA[<b><font size="14"><li>Reconnaissance attacks involve the unauthorized discovery and mapping of systems, services, and vulnerabilities.</li><br/><li>Access attacks exploit known vulnerabilities in authentication services, FTP services, and web services to gain entry to web accounts, confidential databases, and other sensitive information.</li><br/><li>DoS attacks send extremely large numbers of requests over a network or the Internet. These excessive requests overload the target device causing performance to degrade.</li><br/><li>Reconnaissance, access, and DoS attacks are mitigated with specific techniques, devices, and technologies.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+</textcomponents>

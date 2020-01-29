@@ -1,0 +1,14 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Reconnaissance</li><li>Directed attacks such as spam over IP telephony (SPIT) and spoofing</li><li>Eavesdropping and man-in-the-middle attacks</li><li>DoS attacks such as DHCP starvation, flooding, and fuzzing</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>iSCSI leverages many of the security features inherent in Ethernet and IP:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>ACLs are like Fibre Channel zones</li><li>VLANs are like Fibre Channel VSANs</li><li>802.1X port security is like Fibre Channel port security</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>FCIP security leverages many IP security features in Cisco IOS-based routers:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>IPsec VPN connections through public carriers</li><li>High-speed encryption services in specialized hardware</li><li>Can be run through a firewall</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+</textcomponents>

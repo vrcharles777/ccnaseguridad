@@ -1,0 +1,22 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[GRE Tunnel]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[IP Transport Network]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>GRE Tunneling Protocol</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Encapsulates a wide variety of protocol packet types inside IP tunnels.</li><li>Creates a virtual point-to-point link to Cisco routers at remote points over an IP internetwork.</li><li>Uses IP for transport.</li><li>Uses an additional header to support IP multicasting and any other OSI Layer 3 protocol as payload.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

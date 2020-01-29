@@ -1,0 +1,35 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01a">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Appending the keyword <font face="_typewriter"><b>superview</b></font> to the <font face="_typewriter"><b>parser view</b></font> command creates a superview and enters view configuration mode.</li></ul></td></tr></table>]]></text> 
+  </component>
+<component id="ID_table01b">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Sets a password to protect access to the Superview.</li><li>Password must be created immediately after creating a view otherwise an error message will appear.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Adds a CLI view to a superview.</li><li>Multiple views may be added.</li><li>Views may be shared between Superviews.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+  <component id="ID_output">
+  <text><![CDATA[<font face="_typewriter">&lt;output omitted&gt;</font>]]></text> 
+  </component>
+  
+    
+  <component id="ID_btn1">
+  <text><![CDATA[Steps 1 and 2]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[Step 3]]></text> 
+  </component>
+  <component id="ID_btn3">
+  <text><![CDATA[Sample Config]]></text> 
+  </component>
+  <component id="ID_btn4">
+  <text><![CDATA[Running Config]]></text> 
+  </component>
+</textcomponents>

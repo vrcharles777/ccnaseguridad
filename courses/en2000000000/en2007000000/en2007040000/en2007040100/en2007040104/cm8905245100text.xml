@@ -1,0 +1,117 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Two Phases of Encryption</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Asymmetric Key Algorithms</b>]]></text> 
+</component>
+
+
+<component id="ID_header1">
+<text><![CDATA[<font  color="#FFFFFF"><b>Asymmetric Encryption Algorithm</b></font>]]></text>
+</component>
+<component id="ID_header2">
+<text><![CDATA[<font  color="#FFFFFF"><b>Key length</b><BR/>(in bits)</font>]]></text>
+</component>
+<component id="ID_header3">
+<text><![CDATA[<font  color="#FFFFFF"><b>Description</b></font>]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  <tr>
+    <td width='130' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>DH</b></td>
+    <td width='120' bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>512, 1024, 2048</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The Diffie-Hellman algorithm is a public key algorithm invented in 1976 by Whitfield Diffie and Martin Hellman. It allows two parties to agree on a key that they can use to encrypt messages they want to send to each other. The security of this algorithm depends on the assumption that it is easy to raise a number to a certain power, but difficult to compute which power was used given the number and the outcome.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Digital Signature Standard (DSS) and Digital Signature Algorithm (DSA)</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>512 - 1024</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>DSS was created by NIST and specifies DSA as the algorithm for digital signatures. DSA is a public key algorithm based on the ElGamal signature scheme. Signature creation speed is similar with RSA, but is 10 to 40 times as slow for verification.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>RSA encryption algorithms</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>512 to 2048</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Developed by Ron Rivest, Adi Shamir, and Leonard Adleman at MIT in 1977. It is an algorithm for public-key cryptography that is based on the current difficulty of factoring very large numbers. It is the first algorithm known to be suitable for signing as well as encryption, and one of the first great advances in public key cryptography. Widely used in electronic commerce protocols, and is believed to be secure given sufficiently long keys and the use of up-to-date implementations.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>EIGamal</b></td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>512 - 1024</td>
+    <td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>An asymmetric key encryption algorithm for public-key cryptography which is based on the Diffie-Hellman key agreement. Described by Taher ElGamal in 1984 and is used in GNU Privacy Guard software, PGP, and other cryptosystems. A disadvantage of the ElGamal system is that the encrypted message becomes very big, about twice the size of the original message and for this reason it is only used for small messages such as secret keys.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><b>Elliptical curve techniques</b></td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>160</td>
+    <td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Elliptic curve cryptography was invented by Neil Koblitz and by Victor Miller in the mid 1980s. Can be used to adapt many cryptographic algorithms, such as Diffie-Hellman or ElGamal. The main advantage of elliptic curve cryptography is that the keys can be much smaller.</td>
+  </tr>
+</table>]]></text>
+</component>
+
+
+
+<component id="ID_title">
+<text><![CDATA[<b>Confidentiality, Integrity and Authentication</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Text</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>Encrypted Text</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Hash</b>]]></text>
+</component>
+
+<component id="ID_txt02b">
+<text><![CDATA[<b>Encrypted Hash</b>]]></text>
+</component>
+
+<component id="ID_Alice">
+<text><![CDATA[<b>Alice</b>]]></text> 
+</component>
+
+<component id="ID_Alice2">
+<text><![CDATA[<b>Alice's Private Key</b>]]></text> 
+</component>
+
+<component id="ID_Alice3">
+<text><![CDATA[<b>Alice's Public Key</b>]]></text> 
+</component>
+
+<component id="ID_Bob">
+<text><![CDATA[<b>Bob</b>]]></text> 
+</component>
+
+<component id="ID_Bob2">
+<text><![CDATA[<b>Bob's Private Key</b>]]></text> 
+</component>
+
+<component id="ID_Bob3">
+<text><![CDATA[<b>Bob's Public Key</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>Encryption Algorithm</b>]]></text> 
+</component>
+  
+<component id="ID_txt06">
+  <text><![CDATA[1.  Alice encrypts a message using Bob’s public key.<BR/>2.  Alice encrypts a hash of the message using her private key.<BR/>3.  Bob uses Alice’s public key to decrypt and reveal the hash.<BR/>4.  Bob uses his private key to decrypt and reveal the message.]]></text> 
+  </component>
+
+
+
+
+</textcomponents>

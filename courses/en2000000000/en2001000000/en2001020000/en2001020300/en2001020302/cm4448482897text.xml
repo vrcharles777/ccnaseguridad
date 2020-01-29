@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_bubb01">
+	<text><![CDATA[<b>Destroy</b>]]></text>
+</component>
+
+<component id="ID_bubb02">
+	<text><![CDATA[<b>Enable Remote Administration</b>]]></text>
+</component>
+
+<component id="ID_bubb03">
+	<text><![CDATA[<b>Transmit Password</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[An attacker is on VLAN 10, but adds a VLAN 20 tag to the frame.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[The first switch strips off the first tag and does not retag it (native traffic is not retagged). It then forwards the frame to the next switch.]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[The second switch receives the frame on the native VLAN.]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[The second switch examines the frame, sees the VLAN 20 tag and forwards it accordingly.]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[20, 10<br/>802.1Q, 802.1Q]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[20<br/>802.1Q, Frame]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Trunk<br/>(Native VLAN = 10)]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Frame]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Target<br/>(VLAN 20)]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Note: This attack works only if the trunk has the same native VLAN as the attacker.]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,26 @@
+<textcomponents>
+
+<component id="ID_comment01">
+  <text><![CDATA[<b>TACACS+ or RADIUS protocols are used to communicate between the clients and AAA security servers.</b>]]></text>
+</component>
+  
+<component id="ID_txt_01">
+   <text><![CDATA[<b>Remote User</b>]]></text> 
+</component>
+
+<component id="ID_txt_02">
+   <text><![CDATA[<b>Router</b>]]></text> 
+</component>
+
+<component id="ID_txt_03">
+   <text><![CDATA[<b>Cisco Secure ACS for Windows Server</font>]]></text> 
+</component>
+
+<component id="ID_txt_04">
+   <text><![CDATA[<b>Cisco Secure ACS Solution Engine</font>]]></text> 
+</component>
+
+<component id="ID_txt_05">
+   <text><![CDATA[<b>Cisco Secure ACS Express</font>]]></text> 
+</component>
+</textcomponents>

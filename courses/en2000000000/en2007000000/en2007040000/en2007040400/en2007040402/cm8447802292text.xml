@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>PKI</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>PKI is a service framework (hardware, software, people, policies and procedures) needed to support large-scale public key-based technologies.<ul><li><b>Certificate</b> - A document, which binds together the name of the entity and its public key and has been signed by the CA</li><li><b>Certificate authority (CA)</b> - The trusted third party that signs the public keys of entities in a PKI-based system</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

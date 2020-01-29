@@ -1,0 +1,8 @@
+﻿<textcomponents>
+<component id="ID_button1">
+<text><![CDATA[<b>Group Authorization Lookup</b>]]></text>
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Add Group Policy</b>]]></text> 
+  </component>
+</textcomponents>

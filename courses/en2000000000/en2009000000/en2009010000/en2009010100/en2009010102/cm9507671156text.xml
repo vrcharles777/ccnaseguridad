@@ -1,0 +1,12 @@
+﻿<textcomponents>
+<component id="ID_minfo03">
+<text><![CDATA[The encryption of DVD movies, which uses a weak algorithm called Content Scrambling System (CSS), is an example of bad assumptions made about the scope of system use. The original assumption was that DVD discs would be played only on hardware players, where the decryption keys could be stored in a tamper-resistant chip inside the player, making it extremely hard for even skilled attackers to compromise the DVD discs. However, when software DVD players appeared, the DVD discs were quickly reverse engineered, because making software tamper resistant is next to impossible against a determined attacker. The keys were recovered from one of the well-known players, and an algorithm was published on the Internet, together with the keys.
+The response strategy of the DVD industry was to try to ban the publishing of the CSS algorithm and keys, but the decision of the court that the CSS algorithm source code was essentially free speech stopped much of their efforts.<BR/><br/>Another example of a wrong or poor assumption was the lack of encryption of US cellular traffic. When cellular phones were first introduced, the assumption was that scanners, which could intercept cellular traffic, were too expensive to mount any large-scale attacks against call confidentiality in cellular networks. In a couple of years, the price of these scanners dropped to the point that the scanners were available to virtually anyone. Thus, bad assumptions compromised the protection policy of the cellular network.<BR/><br/>The next-generation U.S. cellular service uses digital transmission, but the same assumption was made, that digital scanners used to intercept traffic are too expensive. As technology advances, the same story has unfolded for the digital transmissions.]]></text>
+</component>
+<component id="ID_minfo02">
+  <text><![CDATA[More Information]]></text> 
+  </component>
+<component id="ID_minfo01">
+  <text><![CDATA[More Information]]></text> 
+  </component>
+</textcomponents>

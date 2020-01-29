@@ -1,0 +1,35 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Server Protected by:<BR/>Cisco Security Agent</b>]]></text>
+</component>
+<component id="tableHTML1">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>File system interceptor</li><li>Network interceptor</li><li>Configuration interceptor</li><li>Execution space interceptor</li></ul></td></tr></table>]]></text>
+</component>
+
+<component id="tableHTML2"><text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Probe phase</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ping scans<BR/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Port scans<li>Penetrate phase</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Transfer exploit code to target<li>Persist phase</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Install new code<BR/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Modify configuration<li>Propagate phase</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Attack other targets<li>Paralyze phase</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Erase files<BR/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Crash system<BR/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Steal data</ul></td></tr></table>]]></text> 
+  </component>
+  
+
+<component id="ID_box01">
+<text><![CDATA[<b><font size='+4'>•  Probe phase</font><textformat blockindent='20'><BR/>•  Ping scans<BR/>•  Port scans</textformat></b>]]></text>
+</component>
+
+<component id="ID_box02">
+<text><![CDATA[<b><font size='+4'>•  Penetrate phase</font><BR/><textformat blockindent='20'>•  Transfer exploit code to target</textformat></b>]]></text>
+</component>
+
+<component id="ID_box03">
+<text><![CDATA[<b><font size='+4'>•  Persist phase</font><textformat blockindent='20'><BR/>•  Install new code<BR/>•  Modify configuration</textformat></b>]]></text>
+</component>
+
+<component id="ID_box04">
+<text><![CDATA[<b><font size='+4'>•  Propagate phase</font><textformat blockindent='20'><BR/>•  Attack other targets</textformat></b>]]></text>
+</component>
+ 
+<component id="ID_box05">
+<text><![CDATA[<b><font size='+4'>•  Paralyze phase</font><textformat blockindent='20'><BR/>•  Erase files<BR/>•  Crash system<BR/>•  Steal data</textformat></b>]]></text>
+</component> 
+  
+  
+
+</textcomponents>

@@ -1,0 +1,7 @@
+﻿<textcomponents>
+
+<component id="ID_sign">
+<text><![CDATA[<b><font size='+12'>Threat Alert</font><br/>Proceed with Caution </b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Frequency of Letters in the English Language</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>The graph outlines the frequency of letters in the English language.<br/><br/>For example, the letters E, T and A are the most popular.</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Ciphered text</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>In this ciphered message, there are 6 occurrences of the cipher letter D and 4 occurrences of the cipher letter W.<br/><br/>An attacker would only have to replace the cipher letter D first with popular plaintext letters including E, T, and finally A.<br/><br/>Trying A would reveal the shift pattern of 3, and the attacker could then decipher the entire message.</b>]]></text> 
+</component>
+
+</textcomponents>

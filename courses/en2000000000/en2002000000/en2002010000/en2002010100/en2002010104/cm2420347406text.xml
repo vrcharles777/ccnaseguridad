@@ -1,0 +1,6 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Things to do to secure administrative access to routers:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Restrict device accessibility</li><li>Log and account for all access</li><textformat blockindent='20'><li>Authenticate access</li><li>Authorize actions</li></textformat><li>Present legal notification</li><li>Ensure the confidentiality of data</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

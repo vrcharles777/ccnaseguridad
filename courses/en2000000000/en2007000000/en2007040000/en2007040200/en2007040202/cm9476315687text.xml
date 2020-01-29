@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Digital Signature</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Memo</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Signature</b>]]></text> 
+</component>
+
+</textcomponents>

@@ -1,0 +1,139 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Transport vs. Tunnel Mode</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Tunnel mode</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_s1_txt01">
+<text><![CDATA[Original data prior to selection of IPsec protocol mode]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[Transport Mode]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Encrypted]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[ESP HDR]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[ESP Trailer]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[ESP Authentication]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[Authenticated]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[Tunnel Mode]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[Encrypted]]></text>
+</component>
+
+<component id="ID_s1_txt14">
+<text><![CDATA[New IP HDR]]></text>
+</component>
+
+<component id="ID_s1_txt15">
+<text><![CDATA[ESP HDR]]></text>
+</component>
+
+<component id="ID_s1_txt16">
+<text><![CDATA[IP HDR]]></text>
+</component>
+
+<component id="ID_s1_txt17">
+<text><![CDATA[Data]]></text>
+</component>
+
+<component id="ID_s1_txt18">
+<text><![CDATA[ESP Trailer]]></text>
+</component>
+
+<component id="ID_s1_txt19">
+<text><![CDATA[ESP Authentication]]></text>
+</component>
+
+<component id="ID_s1_txt20">
+<text><![CDATA[Authenticated]]></text>
+</component>
+
+
+<!-- slide 2 -->
+
+<component id="ID_s2_txt01">
+<text><![CDATA[Remote Office]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Corporate Office]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[HR Servers]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[Tunnel Mode]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[Home Office]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+<text><![CDATA[Corporate Office]]></text>
+</component>
+
+<component id="ID_s2_txt09">
+<text><![CDATA[HR Servers]]></text>
+</component>
+
+<component id="ID_s2_txt10">
+<text><![CDATA[Tunnel Mode]]></text>
+</component>
+
+</textcomponents>

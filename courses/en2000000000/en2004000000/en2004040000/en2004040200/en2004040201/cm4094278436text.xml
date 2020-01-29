@@ -1,0 +1,15 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Inspect</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Drop</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Pass</b>]]></text> 
+  </component>
+<component id="ID_title">
+  <text><![CDATA[<b>ZPF Actions</b>]]></text> 
+  </component>
+
+</textcomponents>

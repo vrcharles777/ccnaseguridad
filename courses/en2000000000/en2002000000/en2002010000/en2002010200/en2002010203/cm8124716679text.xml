@@ -1,0 +1,66 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click each button to view the associated content.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>EXEC Session Timeout</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Breaking Encryption</b>]]></text>
+</component>
+
+<!-- slide1 -->
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='150'><font color='#FFFFFF'><b>Parameter</b></font></td>
+		<td><font color='#FFFFFF'><b>Description</b></font></td>
+	</tr>
+	<tr>
+		<td><i><font face='_typewriter'>minutes</font></i></td>
+		<td>This integer specifies the number of idle minutes before the session is timed out.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face='_typewriter'><i>seconds</i></font></td>
+		<td bgcolor='#F2F2F2'>(Optional) This integer specifies the additional time interval in seconds.</td>
+	</tr>
+</table>]]></text> 
+</component>
+
+<!-- slide2 -->
+<component id="ID_top01">
+	<text><![CDATA[PC with Terminal Emulation Software]]></text>
+</component>
+<component id="ID_top02">
+	<text><![CDATA[Vty]]></text> 
+</component>
+<component id="ID_top03">
+	<text><![CDATA[Aux]]></text> 
+</component>
+<component id="ID_top04">
+	<text><![CDATA[Con]]></text> 
+</component>
+<component id="ID_top05">
+	<text><![CDATA[Modem]]></text> 
+</component>
+<component id="ID_top06">
+	<text><![CDATA[PSTN]]></text> 
+</component>
+<component id="ID_top07">
+	<text><![CDATA[PC with Terminal Emulation Software]]></text> 
+</component>
+<component id="ID_top08">
+	<text><![CDATA[Serial Connection]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Crack it]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Password = Cisco]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,39 @@
+﻿<textcomponents>
+
+<component id="ID_step01">
+<text><![CDATA[<b>Step 1</b>]]></text>
+</component>
+<component id="ID_step02">
+  <text><![CDATA[<b>Step 2</b>]]></text> 
+  </component>
+<component id="ID_step03">
+  <text><![CDATA[<b>Step 3</b>]]></text> 
+  </component>
+  
+<component id="ID_textTitle01">
+<text><![CDATA[<b>Step 1</b>]]></text>
+</component>
+
+<component id="ID_textTitle02">
+<text><![CDATA[<b>Step 2</b>]]></text>
+</component>
+
+<component id="ID_textTitle03">
+<text><![CDATA[<b>Step 3</b>]]></text>
+</component>
+
+
+<component id="ID_textBody01">
+  <text><![CDATA[First, define the time range to implement the ACL and give it a name; EVERYOTHERDAY in this case.]]></text> 
+  </component>
+<component id="ID_textBody02">
+  <text><![CDATA[Apply the time range to the ACL.]]></text> 
+  </component>
+<component id="ID_textBody03">
+  <text><![CDATA[Apply the ACL to the interface.]]></text> 
+  </component>
+<component id="ID_inst">
+  <text><![CDATA[Roll over each step for more information.]]></text> 
+  </component>
+
+</textcomponents>

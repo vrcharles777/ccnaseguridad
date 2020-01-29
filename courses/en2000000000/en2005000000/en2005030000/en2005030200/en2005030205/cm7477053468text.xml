@@ -1,0 +1,20 @@
+﻿<textcomponents>
+<component id="ID_btn1">
+  <text><![CDATA[<b>Specify Config Location</b>]]></text> 
+  </component>
+<component id="ID_btn2">
+  <text><![CDATA[<b>SDM IPS Wizard Summary</b>]]></text> 
+  </component>
+<component id="ID_btn3">
+<text><![CDATA[<b>Generated CLI Commands</b>]]></text>
+</component>
+<component id="ID_outputomitted1">
+<text><![CDATA[&lt;Output omitted&gt;</b>]]></text>
+</component>
+<component id="ID_outputomitted2">
+<text><![CDATA[&lt;Output omitted&gt;]]></text>
+</component>
+<component id="ID_inst">
+   <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+ </component>
+</textcomponents>

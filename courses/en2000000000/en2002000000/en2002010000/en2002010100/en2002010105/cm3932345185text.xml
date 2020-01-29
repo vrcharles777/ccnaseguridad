@@ -1,0 +1,133 @@
+<textcomponents>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Click each button to view the associated content.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+	<text><![CDATA[<b>Router Access Methods</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Local and Remote Access</b>]]></text> 
+</component>
+
+<component id="ID_s1_txt01">
+	<text><![CDATA[<b>Telnet Connection</b>]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+	<text><![CDATA[<b>Serial Connection</b>]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+	<text><![CDATA[<b>PC with Terminal Emulation Software</b>]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+	<text><![CDATA[<b>vty</b>]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+	<text><![CDATA[<b>Router</b>]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+	<text><![CDATA[<b>aux</b>]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+	<text><![CDATA[<b>con</b>]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+	<text><![CDATA[<b>Modem</b>]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+	<text><![CDATA[<b>PSTN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+	<text><![CDATA[<b>Serial Connection</b>]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+	<text><![CDATA[<b>PC with Terminal Emulation Software</b>]]></text>
+</component>
+
+
+
+<component id="ID_s2_txt01">
+	<text><![CDATA[<b>Local Access</b>]]></text>
+</component>
+
+<component id="ID_s2_txt01a">
+	<text><![CDATA[<b>Remote Access</b>]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+	<text><![CDATA[<b>LAN 1</b>]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+	<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+	<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+	<text><![CDATA[<b>Administrator</b>]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+	<text><![CDATA[<b>Console Port</b>]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+	<text><![CDATA[<b>Remote Access</b>]]></text>
+</component>
+
+<component id="ID_s2_txt09">
+	<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_s2_txt10">
+	<text><![CDATA[<b>R1</b>]]></text>
+</component>
+
+<component id="ID_s2_txt11">
+	<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_s2_txt12">
+	<text><![CDATA[<b>R2</b>]]></text>
+</component>
+
+<component id="ID_s2_txt13">
+	<text><![CDATA[<b>LAN 2</b>]]></text>
+</component>
+
+<component id="ID_s2_txt14">
+	<text><![CDATA[<b>LAN 3</b>]]></text>
+</component>
+
+<component id="ID_s2_txt15">
+	<text><![CDATA[<b>Management LAN</b>]]></text>
+</component>
+
+<component id="ID_s2_txt16">
+	<text><![CDATA[<b>Administration Host</b>]]></text>
+</component>
+
+<component id="ID_s2_txt17">
+	<text><![CDATA[<b>Logging Host</b>]]></text>
+</component>
+
+<component id="ID_s2_txt18">
+	<text><![CDATA[<b>If remote administrative access is required, use a dedicated management network or encrypt all management traffic.</b>]]></text>
+</component>
+
+</textcomponents>

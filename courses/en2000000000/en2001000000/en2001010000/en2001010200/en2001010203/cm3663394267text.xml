@@ -1,0 +1,117 @@
+<textcomponents>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Click the circled image to view information about the first virus, worm, spam, and DoS attack.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+  	<text><![CDATA[<b>First Virus</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>First Worm</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+  	<text><![CDATA[<b>First Spam</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  	<text><![CDATA[<b>First DoS Attack</b>]]></text> 
+</component>
+
+<component id="ID_pop1">
+  	<text><![CDATA[<b>Melissa Email Virus – March, 1999 (Below is the actual email as distributed.)</b>]]></text> 
+</component>
+
+<component id="ID_pop2">
+	<text><![CDATA[<b>The Morris Internet Worm</b>]]></text>
+</component>
+
+<component id="ID_pop3">
+  	<text><![CDATA[<b>First Spam on ARPAnet – 1978 (Below is the actual spam message as distributed on ARPAnet.)</b>]]></text> 
+</component>
+
+<component id="ID_pop4">
+  	<text><![CDATA[<b>Mafiaboy DoS Attack – February, 2000 (Below is an article describing the sentencing of mafiaboy shortly after conviction of the DoS attack.)</b>]]></text> 
+</component>
+
+<component id="ID_poptext1">
+  	<text><![CDATA[<b>From: ******	
+Subject: Important Message From ******
+To: (50 names from alias list) 
+
+Here is that document you asked for ... don't show anyone else ;-) 
+
+Attachment: LIST.DOC 
+</b>]]></text> 
+</component>
+
+<component id="ID_poptext2">
+	<text><![CDATA[<b>All the following events occurred on the evening of Nov. 2, 1988. 
+6:00 PM - At about this time the Worm is launched. 
+8:49 PM - The Worm infects a VAX 8600 at the University of Utah (cs.utah.edu). 
+9:09 PM - The Worm initiates the first of its attacks to infect other computers from the infected VAX. 
+9:21 PM - The load average on the system reaches 5. (Load average is a measure of how hard the computer system is working. At 9:30 at night, the load average of the VAX was usually 1. Any load average higher than 5 causes delays in data processing.) 
+9:41 PM - The load average reaches 7. 
+10:01 PM - The load average reaches 16. 
+10:06 PM - At this point there are so many worms infecting the system that no new processes can be started. No users can use the system anymore. 
+10:20 PM - The system administrator kills off the worms.
+10:41 PM - The system is reinfected and the load average reaches 27. 
+10:49 PM - The system administrator shuts down the system. The system is subsequently restarted.
+11:21 PM - Reinfestation causes the load average to reach 37. </b>]]></text>
+</component>
+
+<component id="ID_poptext3">
+  	<text><![CDATA[<b>To: Everyone
+From: 
+Subject: Presentation Today
+
+DIGITAL WILL BE GIVING A PRODUCT PRESENTATION OF THE NEWEST MEMBERS OF THE DECSYSTEM-20 FAMILY; THE DECSYSTEM-2020, 2020T, 2060, AND 2060T. THE DECSYSTEM-20 FAMILY OF COMPUTERS HAS EVOLVED FROM THE TENEX OPERATING SYSTEM AND THE DECSYSTEM-10 <PDP-10> COMPUTER ARCHITECTURE. BOTH THE DECSYSTEM-2060T AND 2020T OFFER FULL ARPANET SUPPORT UNDER THE TOPS-20 OPERATING SYSTEM. THE DECSYSTEM-2060 IS AN UPWARD EXTENSION OF THE CURRENT DECSYSTEM 2040 AND 2050 FAMILY. THE DECSYSTEM-2020 IS A NEW LOW END MEMBER OF THE DECSYSTEM-20 FAMILY AND FULLY SOFTWARE COMPATIBLE WITH ALL OF THE OTHER DECSYSTEM-20 MODELS.
+
+WE INVITE YOU TO COME SEE THE 2020 AND HEAR ABOUT THE DECSYSTEM-20 FAMILY AT THE TWO PRODUCT PRESENTATIONS WE WILL BE GIVING IN CALIFORNIA THIS MONTH. THE LOCATIONS WILL BE:
+
+	TUESDAY, MAY 9, 1978 - 2 PM 								
+	HYATT HOUSE (NEAR THE L.A. AIRPORT) 						
+	LOS ANGELES, CA THURSDAY, 
+	
+	MAY 11, 1978 - 2 PM 									
+	DUNFEY'S ROYAL COACH 							
+	SAN MATEO, CA (4 MILES SOUTH OF S.F. AIRPORT AT BAYSHORE, RT 101 AND RT 92) 
+	
+A 2020 WILL BE THERE FOR YOU TO VIEW. ALSO TERMINALS ON-LINE TO OTHER DECSYSTEM-20 SYSTEMS THROUGH THE ARPANET. IF YOU ARE UNABLE TO ATTEND, PLEASE FEEL FREE TO CONTACT THE NEAREST DEC OFFICE FOR MORE INFORMATION ABOUT THE EXCITING DECSYSTEM-20 FAMILY. 
+</b>]]></text> 
+</component>
+
+<component id="ID_poptext4">
+  	<text><![CDATA[<b>'Mafiaboy' Sentenced to 8 Months
+Wired News Report   09.13.01 
+
+"Mafiaboy," the Canadian teenager who launched a denial of service attack that paralyzed many of the Internet's major sites for one week in February 2000, will be spending the next eight months in a youth detention center. 
+
+Judge Gilles Ouellet, who presided over the trial in Quebec's Youth Court, handed down the ruling on Wednesday. 
+
+Ouellet said that the 17-year-old had committed a criminal act when he attacked Yahoo, eBay and Amazon and other major Internet sites. 
+
+"This is a grave matter. This attack weakened the entire electronic communication system," Ouellet told the court. "And the motivation was undeniable, this adolescent had a criminal intent." 
+
+Prosecutor Louis Miville-Deschenes said that he hoped the sentence would send "a strong message to the hacker world." 
+
+Mafiaboy will also serve one year of probation after his release from the detention center. During his probation he will be allowed to attend school and have a part-time job. 
+
+He was also ordered by Ouellet to donate $250 to charity. 
+
+Mafiaboy's real name has not been released by the court, due to the Canadian law that protects the identity of offenders under 18 years of age. 
+
+Defense lawyer Yan Romanowski said that his client was shocked and saddened by his sentence and is considering an appeal. 
+
+"He hoped the judge had understood that he had had his lesson and that detention was not a proper remedy in these circumstances," Romanowski said. 
+
+"Detention is too much as far as I am concerned," Romanowski added. 
+
+The maximum sentence Mafiaboy could have received was two years in detention. Prosecutor Louis Miville-Deschenes had asked the court to sentence Mafiaboy to one year of detention. 
+
+"We think it is a reasonable ruling. It sends a strong message to hackers that they will get caught if they do things like that," Miville-Deschenes told reporters after court was dismissed.</b>]]></text> 
+</component>
+
+</textcomponents>

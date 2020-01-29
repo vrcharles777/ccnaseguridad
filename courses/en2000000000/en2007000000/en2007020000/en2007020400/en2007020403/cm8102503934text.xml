@@ -1,0 +1,53 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table cellpadding='4' bordercolor='#CCCCCC' header='top' headerstyle='blue' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080'><tr>
+  <td width="200">&nbsp;</td>
+  <td width="120"><b>Symmetric Key</b></td>
+  <td width="120"><b>Asymmetric Key</b></td>
+  <td width="120"><b>Digital Signature</b></td>
+  <td><b>Hash</b></td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Protection up to 3 years</b></td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>80</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1248</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>160</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>160</td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Protection up to 10 years</b></td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>96</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1776</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>192</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>192</td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Protection up to 20 years</b></td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>112</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>2432</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>224</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>224</td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Protection up to 30 years</b></td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>128</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>3248</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>256</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>256</td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Protection against quantum computers</b></td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>256</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>15424</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>512</td>
+	<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>512</td>
+</tr>
+</table>]]></text> 
+  </component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<ul><li>The figure illustrates ongoing expectations for valid key lengths.</li><li>Calculations are based on the fact that computing power will continue to grow at its present rate and the ability to perform brute-force attacks will grow at the same rate. If a method other than brute-force is discovered against a particular algorithm, the key lengths in the figure become obsolete.</li><li>Note the comparatively short symmetric key lengths illustrating that symmetric algorithms are the strongest type of algorithm.</li></ul>]]></text> 
+  </component>
+
+</textcomponents>

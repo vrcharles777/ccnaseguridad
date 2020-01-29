@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[VPN]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Remote Worker]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[VPN]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Remote Branch]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Zero-day exploit attacking the network]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[VPN]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Firewall]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Web Server]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Email Server]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[DNS]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[MARS]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[ACS]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[CSA]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[LAN]]></text>
+</component>
+
+</textcomponents>

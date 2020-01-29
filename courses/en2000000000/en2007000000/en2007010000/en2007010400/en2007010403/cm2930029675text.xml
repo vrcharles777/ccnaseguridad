@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table cellpadding='4' bordercolor='#CCCCCC' header='top' headerstyle='blue' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080'><tr>
+  <td width="200">&nbsp;</td>
+  <td width="140"><b>Integrity </b></td>
+  <td width="140"><b>Authentication</b></td>
+  <td><b>Confidentiality</b></td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Cryptographic hashes, protocols, and algorithms</b></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>MD5<br/>SHA</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>HMAC-MD5<br/>HMAC-SHA-1<br/>RSA and DSA</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>DES<br/>3DES<br/>AES</td>
+</tr>
+</table>]]></text> 
+  </component>
+
+</textcomponents>

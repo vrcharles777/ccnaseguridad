@@ -1,0 +1,26 @@
+<textcomponents>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#bbbbbb' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200'><font color='#FFFFFF'>&nbsp;</font></td>
+		<td><font color='#FFFFFF'>DES</font></td>
+		<td><font color='#FFFFFF'>3DES</font></td>
+		<td><font color='#FFFFFF'>AES</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#B4DAFE'>The algorithm is trusted by the cryptographic community.</td>
+		<td bgcolor='#DDDDDD'>Replaced by 3DES</td>
+		<td bgcolor='#DDDDDD'>Yes</td>
+		<td bgcolor='#DDDDDD'>Ongoing Evaluation</td>
+	</tr>
+	<tr>
+		<td bgcolor='#B4DAFE'>The algorithm adequately protects against brute-force attacks.</td>
+		<td bgcolor='#F2F2F2'>No</td>
+		<td bgcolor='#F2F2F2'>Yes</td>
+		<td bgcolor='#F2F2F2'>Yes</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

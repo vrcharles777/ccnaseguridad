@@ -1,0 +1,97 @@
+<textcomponents>
+<!-- buttons -->
+<component id="ID_btn1">
+<text><![CDATA[<b>Two-Interface</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Three-Interface</b>]]></text>
+</component>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text>
+</component>
+
+
+<!-- slide1 -->
+
+<component id="ID_txt01">
+<text><![CDATA[Internal Network]]></text> 
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[External Network]]></text> 
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[S0/0/0]]></text> 
+</component>
+
+<component id="ID_txt03a">
+<text><![CDATA[Fa0/0]]></text> 
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Internet]]></text> 
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Traffic exiting]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Traffic entering]]></text> 
+</component>
+
+
+<!-- slide2 -->
+
+<component id="ID_txt07">
+<text><![CDATA[Internal Network]]></text> 
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[External Network]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Fa0/0]]></text> 
+</component>
+
+<component id="ID_txt09a">
+<text><![CDATA[S0/0/0]]></text> 
+</component>
+
+<component id="ID_txt09b">
+<text><![CDATA[Fa0/1]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Internet]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Access allowed]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[Traffic exiting]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Traffic entering]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[DMZ]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Web Server]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[DNS Server]]></text> 
+</component>
+
+</textcomponents>

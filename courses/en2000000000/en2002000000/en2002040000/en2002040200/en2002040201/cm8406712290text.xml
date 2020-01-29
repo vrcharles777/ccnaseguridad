@@ -1,0 +1,7 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<textformat blockindent='4'><font face='_typewriter'>R1# <b>auto secure</b><br/>   	--- AutoSecure Configuration ---<br/><br/>*** AutoSecure configuration enhances the security of the router but it will not make router absolutely secure from all security attacks ***<br/><br/>All the configuration done as part of AutoSecure will be shown here. For more details of why and how this configuration is useful, and any possible side effects, please refer to Cisco documentation of AutoSecure.<br/><br/>At any prompt you may enter '?' for help.<br/><br/>Use ctrl-c to abort this session at any prompt.<br/><br/>Gathering information about the router for AutoSecure<br/><br/>Is this router connected to internet? [no]:<b>yes</b></font></textformat>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,77 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click Play to view how the three Role-based CLI views interoperate.</b>]]></text>
+</component>
+
+<component id="ID_txt01">		
+<text><![CDATA[<b>Root View</b>]]></text>
+</component>
+<component id="ID_comment01">
+<text><![CDATA[<b>Root View is required to define Views and Superviews.</b>]]></text>
+</component>
+
+<component id="ID_txt02">		
+<text><![CDATA[<b>Root View</b>]]></text>
+</component>
+<component id="ID_view1">		
+<text><![CDATA[<b>View #1</b>]]></text>
+</component>
+<component id="ID_view2">		
+<text><![CDATA[<b>View #2</b>]]></text>
+</component>
+<component id="ID_view3">		
+<text><![CDATA[<b>View #3</b>]]></text>
+</component>
+<component id="ID_view4">		
+<text><![CDATA[<b>View #4</b>]]></text>
+</component>
+<component id="ID_view5">		
+<text><![CDATA[<b>View #5</b>]]></text>
+</component>
+<component id="ID_view6">		
+<text><![CDATA[<b>View #6</b>]]></text>
+</component>
+<component id="ID_comment02">
+<text><![CDATA[<b>Views contain commands. One command can appear in more than one view.</b>]]></text>
+</component>
+
+<component id="ID_txt03">		
+<text><![CDATA[<b>CLI Views</b>]]></text>
+</component>
+<component id="ID_txt03a">		
+<text><![CDATA[<b>Superview #1</b>]]></text>
+</component>
+<component id="ID_txt03b">		
+<text><![CDATA[<b>Superview #2</b>]]></text>
+</component>
+<component id="ID_comment03">
+<text><![CDATA[<b>Superviews contain Views but not commands. Two Superviews can use the same View. For example, both superview 1 and superview 2 can have CLI view 4 placed inside.</b>]]></text>
+</component>
+
+<component id="play"><text><![CDATA[Play]]></text>
+</component>
+<component id="pause">
+<text><![CDATA[Pause]]></text>
+</component>
+<component id="rewind">
+<text><![CDATA[Rewind]]></text>
+</component>
+<component id="forward">
+<text><![CDATA[Fast Forward]]></text>
+</component>
+<component id="mute"><text><![CDATA[Mute]]></text>
+</component>
+<component id="unmute">
+<text><![CDATA[UnMute]]></text>
+</component>
+<component id="previous">
+<text><![CDATA[Restart]]></text>
+</component>
+<component id="next">
+<text><![CDATA[End]]></text>
+</component>
+<component id="transcript">
+<text><![CDATA[Transcript]]></text>
+</component>
+</textcomponents>

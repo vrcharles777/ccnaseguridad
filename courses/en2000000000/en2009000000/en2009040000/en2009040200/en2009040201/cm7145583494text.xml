@@ -1,0 +1,90 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Roll over each testing tool for more information.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+  	<text><![CDATA[<b>Nmap</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>GFI LANguard</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+  	<text><![CDATA[<b>Tripwire</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  	<text><![CDATA[<b>Nessus</b>]]></text> 
+</component>
+
+<component id="ID_btn5">
+  	<text><![CDATA[<b>L0phtcrack</b>]]></text> 
+</component>
+
+<component id="ID_btn6">
+	<text><![CDATA[<b>Metasploit</b>]]></text>
+</component>
+
+<component id="ID_btn7">
+  	<text><![CDATA[<b>SuperScan</b>]]></text> 
+</component>
+
+<component id="ID_pop1">
+  	<text><![CDATA[<b>Nmap</b>]]></text> 
+</component>
+
+<component id="ID_pop2">
+	<text><![CDATA[<b>GFI LANguard</b>]]></text>
+</component>
+
+<component id="ID_pop3">
+  	<text><![CDATA[<b>Tripwire</b>]]></text> 
+</component>
+
+<component id="ID_pop4">
+  	<text><![CDATA[<b>Nessus</b>]]></text> 
+</component>
+
+<component id="ID_pop5">
+  	<text><![CDATA[<b>L0phtcrack</b>]]></text> 
+</component>
+
+<component id="ID_pop6">
+	<text><![CDATA[<b>Metasploit</b>]]></text>
+</component>
+
+<component id="ID_pop7">
+  	<text><![CDATA[<b>SuperScan</b>]]></text> 
+</component>
+
+<component id="ID_poptext1">
+  	<text><![CDATA[<b>Discovers computers and services on a computer network, thus creating a map of the network.</b>]]></text> 
+</component>
+
+<component id="ID_poptext2">
+	<text><![CDATA[<b>Network and security scanner which detects vulnerabilities.</b>]]></text>
+</component>
+
+<component id="ID_poptext3">
+  	<text><![CDATA[<b>Assesses and validates IT configurations against internal policies, compliance standards, and security best practices.</b>]]></text> 
+</component>
+
+<component id="ID_poptext4">
+  	<text><![CDATA[<b>Vulnerability scanning software, focusing on remote access, misconfigured passwords, and DoS against the TCP/IP stack.</b>]]></text> 
+</component>
+
+<component id="ID_poptext5">
+  	<text><![CDATA[<b>Password auditing and recovery application.</b>]]></text> 
+</component>
+
+<component id="ID_poptext6">
+	<text><![CDATA[<b>Provides information about vulnerabilities and aids in penetration testing and IDS signature development.</b>]]></text>
+</component>
+
+<component id="ID_poptext7">
+  	<text><![CDATA[<b>Port scanning software designed to detect open TCP and UDP ports, what services are running on those ports, and run queries such as whois, ping, traceroute, and hostname lookups.</b>]]></text> 
+</component>
+</textcomponents>

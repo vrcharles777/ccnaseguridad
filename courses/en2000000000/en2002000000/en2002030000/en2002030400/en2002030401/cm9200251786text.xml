@@ -1,0 +1,51 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[In SNMPv1, asynchronous event reports are called <b>traps</b> while in later versions they are called <b>notifications</b>.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[The actions <b>GET</b> and <b>SET</b> are the vulnerabilities that open SNMP to an attack.]]></text>
+</component>
+
+<component id="ID_top01">
+<text><![CDATA[NMS]]></text>
+</component>
+
+<component id="ID_top02">
+<text><![CDATA[trap]]></text>
+</component>
+
+<component id="ID_top03">
+<text><![CDATA[get]]></text>
+</component>
+
+<component id="ID_top04">
+<text><![CDATA[set]]></text>
+</component>
+
+<component id="ID_top05">
+<text><![CDATA[SNMP Agent]]></text>
+</component>
+
+<component id="ID_top06">
+<text><![CDATA[SNMP Agent]]></text>
+</component>
+
+<component id="ID_top07">
+<text><![CDATA[SNMP Agent]]></text>
+</component>
+
+<component id="ID_top08">
+<text><![CDATA[Managed Node]]></text>
+</component>
+
+<component id="ID_top09">
+<text><![CDATA[Managed Node]]></text>
+</component>
+
+<component id="ID_top10">
+<text><![CDATA[Managed Node]]></text>
+</component>
+
+</textcomponents>

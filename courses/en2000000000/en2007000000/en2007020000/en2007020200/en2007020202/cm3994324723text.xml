@@ -1,0 +1,25 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Clear<br/>Message</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>SHA</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Hash<br/>Function</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Hashed<br/>Message</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  <tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>SHA Features</b></font></td></tr>
+  <tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Takes an input message of less than 2^64 bits and produces a 160-bit message digest.</li><li>The algorithm is slightly slower than MD5.</li><li>SHA-1 is a revision that corrected an unpublished flaw in the original SHA.</li><li>SHA-224, SHA-256, SHA-384, and SHA-512 are newer and more secure versions of SHA and are collectively known as SHA-2.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+</textcomponents>

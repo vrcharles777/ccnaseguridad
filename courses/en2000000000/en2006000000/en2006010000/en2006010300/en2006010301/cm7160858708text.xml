@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  	<tr><td colspan = '8'><b><font color = '#FFFFFF' size='+2'>Cisco NAC</font></b></td></tr>
+    <tr><td bgcolor='#B4DAFE'>NAC Framework</td>
+  <td bgcolor='#B4DAFE'>Cisco NAC Appliance</td></tr>
+    <tr><td><ul><li>Software module embedded within NAC-enabled products</li><li>Integrated framework leveraging multiple Cisco and NAC-aware vendor products</li></ul></td>
+<td><ul><li>In-band Cisco NAC Appliance solution can be used on any switch or router platform</li><li>Self-contained, turnkey solution</li></ul></td>
+  </tr>
+</table>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b><ul><li>Offers customers a deployment timeframe choice</li><li>Adapts to customer investment protection requirements</li></ul></b>]]></text> 
+</component>
+
+</textcomponents>

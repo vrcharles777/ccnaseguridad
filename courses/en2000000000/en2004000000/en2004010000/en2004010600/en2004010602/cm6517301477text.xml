@@ -1,0 +1,38 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Telnet to Router]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Authenticate User]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[Add User's ACL Entry]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Access Internal Resources]]></text>
+</component>
+<component id="ID_router">
+<text><![CDATA[<b>Router</b>]]></text>
+</component>
+<component id="ID_or">
+<text><![CDATA[<b>OR</b>]]></text>
+</component>
+<component id="ID_remoteuser">
+  <text><![CDATA[<b>Remote User</b>]]></text> 
+  </component>
+<component id="ID_aaaserver">
+  <text><![CDATA[<b>AAA Server</b>]]></text> 
+  </component>
+<component id="ID_internet">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+<component id="box1">
+  <text><![CDATA[Local<BR/>Username<BR/>Database]]></text> 
+  </component>
+  <component id="box2">
+  <text><![CDATA[Allow Telnet to Router;<BR/>Deny Everything Else]]></text> 
+  </component>
+  <component id="box3">
+  <text><![CDATA[Allow Telnet to Router;<BR/>Dynamic Entry: Allow Authenticated User;<BR/>Deny Everything Else]]></text> 
+  </component>
+</textcomponents>

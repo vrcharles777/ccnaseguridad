@@ -1,0 +1,26 @@
+﻿<textcomponents>
+
+<component id="ID_bullets">
+<text><![CDATA[1. <textformat blockindent='14'>An attack is launched on a network that has a sensor deployed in IPS mode (inline mode).</textformat><br/><br/>2. <textformat blockindent='14'>The IPS sensor analyzes the packets as they enter the IPS sensor interface. The IPS sensor matches the malicious traffic to a signature and the attack is stopped immediately.</textformat><br/><br/>3. <textformat blockindent='14'>The IPS sensor can send an alarm to a management console for logging and other management purposes.</textformat><br/><br/>4. <textformat blockindent='14'>Traffic in violation of policy can be dropped by an IPS sensor.</textformat>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Sensor]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Management Console]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Target]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Bit Bucket]]></text>
+</component>
+
+<component id="ID_title">
+<text><![CDATA[Intrusion Prevention System]]></text>
+</component>
+</textcomponents>

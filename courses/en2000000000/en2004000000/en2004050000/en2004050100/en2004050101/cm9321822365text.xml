@@ -1,0 +1,146 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+<component id="ID_txt01_s1">
+<text><![CDATA[<b>FTP Server 200.1.1.11</b>]]></text>
+</component>
+<component id="ID_txt02_s1">
+  <text><![CDATA[<b>Email Server 200.1.1.12</b>]]></text> 
+  </component>
+<component id="ID_txt03_s1">
+  <text><![CDATA[<b>DNS Server 200.1.1.13</b>]]></text> 
+  </component>
+<component id="ID_txt04_s1">
+  <text><![CDATA[<b>Web Server 200.1.1.14</b>]]></text> 
+  </component>
+<component id="ID_txt05_s1">
+  <text><![CDATA[<b>Internal Segment 200.1.2.0/24</b>]]></text> 
+  </component>
+<component id="ID_txt06_s1">
+  <text><![CDATA[<b>Internal Router</b>]]></text> 
+  </component>
+<component id="ID_txt07_s1">
+  <text><![CDATA[<b>Edge Router</b>]]></text> 
+  </component>
+<component id="ID_txt08_s1">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><ul><li>Standard and extended IP ACLs are the fundamental tools for basic network traffic filtering.</li><br/><li>How standard and extended IP ACLs are created and applied depends on the type of traffic and where the source and destination of the traffic lies.</li><br/><li>ACLs are linked to the flow of network traffic. The network topology determines how ACLs are created and applied.</li><br/><li>ACLs can be created and applied with SDM.</li><br/><li>The TCP established option and reflexive ACLs extend the function of ACLs to take into account the two-way nature of network traffic.</li><br/><li>Dynamic ACLs provide a niche solution, temporarily opening holes in a firewall.</li><br/><li>Time-based ACLs allow administrators to select the time of day and the days of the week for ACLs to be applied.</li><br/><li>Both CLI and SDM provide the ability to validate proper ACL implementation.</li><br/><li>Created and applied appropriately, ACLs mitigate a wide range of network attacks.</li></ul></font>]]></text>
+</component>
+
+
+
+<!-- slide2 -->
+<component id="ID_s2_layer01">
+<text><![CDATA[Layer 1]]></text>
+</component>
+<component id="ID_s2_layer02">
+<text><![CDATA[Layer 2]]></text>
+</component>
+<component id="ID_s2_layer03">
+<text><![CDATA[Layer 3]]></text>
+</component>
+<component id="ID_s2_layer04">
+<text><![CDATA[Layer 4]]></text>
+</component>
+<component id="ID_s2_layer05">
+<text><![CDATA[Layer 5]]></text>
+</component>
+<component id="ID_s2_layer06">
+<text><![CDATA[Layer 6]]></text>
+</component>
+<component id="ID_s2_layer07">
+<text><![CDATA[Layer 7]]></text>
+</component>
+<component id="ID_s2_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_s2_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_s2_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_s2_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_s2_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_s2_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_s2_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+<component id="ID_s2_callout">
+<text><![CDATA[<b>Stateful Firewall</b>]]></text>
+</component>
+
+<component id="slide02">
+<text><![CDATA[<font size="14"><ul><li>Firewalls provide perimeter security, defining the inside and outside of a network.</li><br/><li>There are many different types of firewalls, with stateful firewalls providing the greatest security.</li><br/><li>Today, network design must take into account the selection of the type of firewall and its proper placement.</li></ul></font]]></text>
+</component>
+
+
+<component id="ID_s1_bullets">
+<text><![CDATA[Stateful Inspection algorithm:<ul><li>Source IP</li><li>Source Port</li><li>Destination IP</li><li>Destination Port</li><li>Sequence Number</li></ul>]]></text>
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[Source Address]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Destination Address]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Source Port]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[Destination Port]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Initial Sequence Number]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[Ack]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[Flag]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[No Data]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[IP Header]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[TCP Header]]></text>
+</component>
+
+<component id="slide03">
+<text><![CDATA[<font size="14"><ul><li>CBAC enables sophisticated stateful filtering of most forms of modern application traffic.</li><br/><li>The operation of CBAC is quite complex, building and tearing down state entries for traffic flows.</li><br/><li>CBAC configuration is very complex, relying on ACLs and inspection rules applied on appropriate interfaces.</li><br/><li>CLI and SDM can be used to verify and troubleshoot CBAC.</li></ul></font]]></text>
+</component>
+
+
+
+
+<component id="slide04">
+<text><![CDATA[<font size="14"><ul><li>Zone-Based Policy Firewall (ZPF), introduced in 2006, is the state of the art in modern firewalling.</li><br/><li>ZPF operation centers around the creation of zones associated with various security levels.</li><br/><li>Implementing ZPF with CLI is much more structured and easier to understand than CBAC. ZPF utilizes class maps and policy maps enabled by C3PL.</li><br/><li>An SDM wizard for ZPF is available.</li></li><br/><li>Either CLI or SDM can be used to verify and troubleshoot ZPF.</li></ul></font]]></text>
+</component>
+
+
+</textcomponents>

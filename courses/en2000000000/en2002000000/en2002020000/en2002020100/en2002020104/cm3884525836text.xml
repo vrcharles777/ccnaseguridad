@@ -1,0 +1,27 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The administrator now verifies the Level 10 access.<ul><li>Again, the <font face='_typewriter'><b>enable </b><i>level</i></font> command is used to switch from Level 5 to Level 10.</li><li>Notice the <font face='_typewriter'><b>ping</b></font> and <font face='_typewriter'><b>reload</b></font> commands are now available but the <font face='_typewriter'><b>show running-config</b></font> command is not.</li></ul></td></tr></table>]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Finally, the administrator verifies the privileged EXEC Level 15 access<ul><li>Again, the <font face='_typewriter'><b>enable </b><i>level</i></font> command is used to switch from Level 10 to Level 15.</li><li>Now all commands are available.</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_button1">
+  <text><![CDATA[<b>Level 10</b>]]></text> 
+</component>
+
+<component id="ID_button2">
+  <text><![CDATA[<b>Level 15</b>]]></text> 
+</component>
+
+<component id="ID_omitted">
+  <text><![CDATA[<font face='_typewriter'>&lt;Output omitted&gt;</font>]]></text> 
+</component>
+
+</textcomponents>

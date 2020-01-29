@@ -1,0 +1,62 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Welcome Screen</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Interface Identification</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<b>Identified Vulnerabilities</b>]]></text>
+</component>
+
+<component id="ID_btn4">
+<text><![CDATA[<b>Fix Problems</b>]]></text>
+</component>
+
+<component id="ID_btn5">
+<text><![CDATA[<b>Summary</b>]]></text>
+</component>
+
+<!-- slide 1-->
+<component id="ID_comment01">
+<text><![CDATA[From Cisco SDM choose <b>Configure &gt; Security Audit</b>.]]></text>
+</component> 
+
+<!-- slide 2-->
+<component id="ID_comment02">
+<text><![CDATA[For each interface that is listed, check either the Inside or Outside check box to indicate where the interface connects. Click <b>Next</b>.]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+<text><![CDATA[Outside]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Inside]]></text>
+</component>
+
+<!-- slide 3-->
+<component id="ID_comment03">
+<text><![CDATA[A window showing the progress of the security audit appears, listing all configuration options tested and whether the current router configuration passes those tests. When the security audit is finished, the administrator can save the report by clicking <b>Save Report</b>. Click <b>Close</b> to continue fixing the identified security problems or to undo the configured security configurations in the router.]]></text>
+</component>
+
+
+<!-- slide 2-->
+<component id="ID_comment04">
+<text><![CDATA[Next, the Security Audit Report Card screen contains a list of possible security problems with an option to fix the problem. Check the <b>Fix It</b> check boxes for any problems that Cisco SDM should fix. For a description of the problem and a list of the Cisco IOS commands that will be added to the configuration, click the problem description link.]]></text>
+</component>
+
+<!-- slide 2-->
+<component id="ID_comment05">
+<text><![CDATA[Depending on the problems fixed, the Security Audit wizard may display one or more screens requiring user input to proceed with the fix. Once completed, the Summary page of the wizard shows a list of all the configuration changes that Security Audit will make. Click <b>Finish</b> to deliver those changes to the router.]]></text>
+</component>
+
+
+</textcomponents>

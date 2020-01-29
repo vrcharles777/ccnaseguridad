@@ -1,0 +1,11 @@
+<textcomponents>
+
+<component id="ID_txt01"> 
+<text><![CDATA[The next item on the security policy that we need to discuss is the rules for network access.]]></text> 
+</component>
+
+<component id="ID_txt02"> 
+<text><![CDATA[We must keep in mind that we have remote workers. They will have different access rules than our onsite employees.]]></text> 
+</component>
+
+</textcomponents>

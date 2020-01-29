@@ -1,0 +1,139 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[First Exchange]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[Second Exchange]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[Third Exchange]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_S1_title">
+<text><![CDATA[<b>Negotiate IKE Policy</b>]]></text>
+</component>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Host A</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Host B</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>Negotiate IKE Proposals</b>]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>Policy 10<br/>DES<br/>MD5<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>IKE Policy Sets</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Policy 15<br/>DES<br/>MD5<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>Policy 20<br/>3DES<br/>SHA<br/>pre-share<br/>DH1<br/>lifetime</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>Negotiates matching IKE policies to protect IKE exchange</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+
+<component id="ID_S2_title">
+<text><![CDATA[<b>Establish DH Key</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Alice</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Bob</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>Private value,</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>Public value,</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>mod p</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>Private value,</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>Public value,</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>mod p</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>mod p = K</b>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>mod p = K</b>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>A DH exchange is performed to establish keying material.</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+
+<component id="ID_S3_title">
+<text><![CDATA[<b>Authenticate Peer</b>]]></text>
+</component>
+
+<component id="ID_S3_txt01">
+<text><![CDATA[<b>Remote Office</b>]]></text>
+</component>
+
+<component id="ID_S3_txt02">
+<text><![CDATA[<b>Corporate Office</b>]]></text>
+</component>
+
+<component id="ID_S3_txt03">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S3_txt04">
+<text><![CDATA[<b>HR Servers</b>]]></text>
+</component>
+
+<component id="ID_S3_txt05">
+<text><![CDATA[<b>Peer Authentication</b>]]></text>
+</component>
+
+<component id="ID_S3_txt06">
+<text><![CDATA[<b>Peer authentication methods<ul><li>PSKs</li><li>RSA signatures</li><li>RSA encrypted nonces</li></b>]]></text>
+</component>
+
+<component id="ID_S3_txt07">
+<text><![CDATA[<b>A bidirectional IKE SA is now established.</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,6 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[The draft and additional PKI information is available at <a href="javascript:openExternal('http://www.ietf.org');"><font color='#0000FF'>http://www.ietf.org</font></a>.]]></text>
+</component>
+
+</textcomponents>

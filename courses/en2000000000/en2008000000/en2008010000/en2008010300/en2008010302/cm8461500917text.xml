@@ -1,0 +1,23 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Remote Office<br/>Cisco Router</b>]]></text> 
+  </component>
+  
+<component id="ID_txt02">
+  <text><![CDATA[<b>Regional Office<br/>Cisco Router</b>]]></text> 
+  </component>
+  
+<component id="ID_txt03">
+  <text><![CDATA[<b>SOHO<br/>Cisco Router</b>]]></text> 
+  </component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Main Office<br/>Cisco Router</b>]]></text> 
+  </component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+
+</textcomponents>

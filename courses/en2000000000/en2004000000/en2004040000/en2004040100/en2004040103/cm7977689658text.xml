@@ -1,0 +1,185 @@
+﻿<textcomponents>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>LAN-to-Internet</b>]]></text> 
+  </component>
+  
+<component id="ID_btn2">
+  <text><![CDATA[<b>Public Servers</b>]]></text> 
+  </component>
+  
+<component id="ID_btn3">
+  <text><![CDATA[<b>Redundant Firewalls</b>]]></text> 
+  </component>
+
+<component id="ID_btn4">
+  <text><![CDATA[<b>Complex Firewall</b>]]></text> 
+  </component>
+
+<component id="ID_btn5">
+  <text><![CDATA[<b>Zones Simplify Complex Firewall</b>]]></text> 
+  </component>
+  
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<!---slide 1---->
+<component id="ID_txt01">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+
+<!---slide 2---->
+<component id="ID_txt04">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+  
+<component id="ID_txt05">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt07">
+  <text><![CDATA[<b>Web/Mail Server</b>]]></text> 
+</component>
+  
+<component id="ID_txt08">
+  <text><![CDATA[<b>Perimeter</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+  <text><![CDATA[<b>Perimeter</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+  <text><![CDATA[<b>Web/Mail Server</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<!---slide 3---->
+<component id="ID_txt14">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+  <text><![CDATA[<b>Perimeter</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+  <text><![CDATA[<b>Web/Mail Server</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt18">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<!---slide 4---->
+<component id="ID_txt19">
+  <text><![CDATA[<b>Administrators</b>]]></text> 
+</component>
+
+<component id="ID_txt20">
+  <text><![CDATA[<b>E-commerce</b>]]></text> 
+</component>
+
+<component id="ID_txt21">
+  <text><![CDATA[<b>Web/Mail Server</b>]]></text> 
+</component>
+
+<component id="ID_txt22">
+  <text><![CDATA[<b>Perimeter</b>]]></text> 
+</component>
+
+<component id="ID_txt23">
+  <text><![CDATA[<b>VPN Offices</b>]]></text> 
+</component>
+
+<component id="ID_txt24">
+  <text><![CDATA[<b>VPN Users</b>]]></text> 
+</component>
+
+<component id="ID_txt25">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+
+<component id="ID_txt26">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt27">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+  
+<!---slide 5---->
+<component id="ID_txt28">
+  <text><![CDATA[<b>Inside and Administrators</b>]]></text> 
+</component>
+
+<component id="ID_txt29">
+  <text><![CDATA[<b>VPN Users</b>]]></text> 
+</component>
+
+<component id="ID_txt30">
+  <text><![CDATA[<b>VPN Firewall</b>]]></text> 
+</component>
+
+<component id="ID_txt31">
+  <text><![CDATA[<b>VPN Offices</b>]]></text> 
+</component>
+
+<component id="ID_txt32">
+  <text><![CDATA[<b>E-commerce</b>]]></text> 
+</component>
+
+<component id="ID_txt33">
+  <text><![CDATA[<b>E-commerce Firewall</b>]]></text> 
+</component>
+
+<component id="ID_txt34">
+  <text><![CDATA[<b>Perimeter</b>]]></text> 
+</component>
+
+<component id="ID_txt35">
+  <text><![CDATA[<b>Perimeter Firewall</b>]]></text> 
+</component>
+
+<component id="ID_txt36">
+  <text><![CDATA[<b>Encrypted</b>]]></text> 
+</component>
+
+<component id="ID_txt37">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt38">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+  
+</textcomponents>

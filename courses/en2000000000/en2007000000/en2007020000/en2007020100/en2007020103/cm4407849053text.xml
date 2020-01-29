@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+
+<component id="ID_infoTitle">
+<text><![CDATA[<b>More Information</b>]]></text>
+</component>
+
+<component id="ID_info">
+<text><![CDATA[In 2005, security flaws were identified in MD5 and SHA-1 indicating that a stronger hash function would be desirable. SHA-2 is the recommended hash function. There is also a contest sponsored by the National Institute of Standards and Technology to design a hash function which will be given the name SHA-3 by 2012. For more details, refer to <a href="javascript:openExternal('http://www.itl.nist.gov/lab/bulletns/B-05-08.pdf');"><font color='#0000FF'>http://www.itl.nist.gov/lab/bulletns/B-05-08.pdf</font></a>.]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[I would like to cash this check.]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Pay to Terry Smith]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[One Hundred and xx/100]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[$100.00]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Dollars]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Pay to Alex Jones]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[One Thousand and xx/100]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[$1000.00]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Dollars]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Match = No changes<br/>No match = Alterations]]></text>
+</component>
+
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Hashing</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Vulnerable to man-in-the-middle attacks.<li>Does not provide security to transmission.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

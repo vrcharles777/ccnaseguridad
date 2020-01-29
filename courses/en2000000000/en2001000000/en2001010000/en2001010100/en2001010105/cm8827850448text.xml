@@ -1,0 +1,127 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_title">
+<text><![CDATA[<b>VPN Encryption</b>]]></text>
+</component>
+<component id="ID_txt01">
+<text><![CDATA[<b>Gail</b>]]></text> 
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Pay to <b>Jeremy</b>]]></text> 
+</component>
+<component id="ID_txt03">
+<text><![CDATA[$100.00]]></text> 
+</component>
+<component id="ID_txt04">
+<text><![CDATA[One Hundred and xx/100 Dollars]]></text> 
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Encryption<br/>Algorithm]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Decryption<br />Algorithm]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[<b>Jeremy</b>]]></text> 
+</component>
+<component id="ID_txt08">
+<text><![CDATA[Pay to <b>Jeremy</b>]]></text> 
+</component>
+<component id="ID_txt09">
+<text><![CDATA[$100.00]]></text> 
+</component>
+<component id="ID_txt10">
+<text><![CDATA[One Hundred and xx/100 Dollars]]></text> 
+</component>
+<component id="ID_txt11">
+<text><![CDATA[4ehlDx67NMop9eR<br/>U78IOPotVBn45TR]]></text> 
+</component>
+<component id="ID_txt12">
+<text><![CDATA[4ehlDx67NMop9eR<br />U78IOPotVBn45TR]]></text> 
+</component>
+<component id="ID_txt13">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt14">
+<text><![CDATA[<b>Hacker</b>]]></text> 
+</component>
+<component id="ID_bubble">
+<text><![CDATA[<b>Hmmm ... I cannot read a thing.</b>]]></text> 
+</component>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Encrypting Data</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Evolution of Data Protection Technologies</b>]]></text> 
+</component>
+
+<component id="yr1">
+<text><![CDATA[<b>1993</b>]]></text>
+</component>
+
+<component id="yr2">
+<text><![CDATA[<b>1996</b>]]></text>
+</component>
+
+<component id="yr3">
+<text><![CDATA[<b>1999</b>]]></text>
+</component>
+
+<component id="yr4">
+<text><![CDATA[<b>2000</b>]]></text>
+</component>
+
+<component id="yr5">
+<text><![CDATA[<b>2001</b>]]></text>
+</component>
+
+<component id="yr6">
+<text><![CDATA[<b>2002</b>]]></text>
+</component>
+
+<component id="yr7">
+<text><![CDATA[<b>2005</b>]]></text>
+</component>
+
+
+<component id="ID_year">
+<text><![CDATA[<b>Year</b>]]></text>
+</component>
+
+<component id="ID_standard">
+<text><![CDATA[<b>Security Technology</b>]]></text>
+</component>
+
+<component id="ID_C1R1">
+<text><![CDATA[<b>Cisco GRE Tunnels </b>]]></text>
+</component>
+
+<component id="ID_C1R2">
+<text><![CDATA[<b>Site-to-Site IPsec VPNs</b>]]></text>
+</component>
+
+<component id="ID_C1R3">
+<text><![CDATA[<b>SSH</b>]]></text>
+</component>
+
+<component id="ID_C1R4">
+<text><![CDATA[<b>MPLS VPNs</b>]]></text>
+</component>
+
+<component id="ID_C1R5">
+<text><![CDATA[<b>Remote-Access IPsec VPN</b>]]></text>
+</component>
+
+<component id="ID_C1R6">
+<text><![CDATA[<b>Dynamic Multipoint VPN</b>]]></text>
+</component>
+
+<component id="ID_C1R7">
+<text><![CDATA[<b>SSL VPN</b>]]></text>
+</component>
+</textcomponents>

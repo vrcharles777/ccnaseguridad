@@ -1,0 +1,46 @@
+<textcomponents>
+<component id="ID_txt00">
+<text><![CDATA[ ]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switch Port</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>AABBCC</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>AABBCC</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Attacker]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Spoofed MAC Address:<br/>AABBCC]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Port 2]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Port 1]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[MAC Address:<br/>AABBCC]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[I have changed the MAC address on my computer to match the server.]]></text>
+</component>
+
+<component id="ID_bubble02">
+<text><![CDATA[The device with MAC address AABBCC has moved to Port 2. I must adjust my MAC address table accordingly.]]></text>
+</component>
+
+</textcomponents>

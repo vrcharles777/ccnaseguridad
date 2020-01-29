@@ -1,0 +1,61 @@
+﻿<textcomponents>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Zone Topology</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Pre-ZPF Nmap with No Active Host</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Pre-ZPF Nmap with Active Host</b>]]></text> 
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button and any highlighted devices for configuration output.</b>]]></text> 
+</component>
+
+<!---slide 1---->
+<component id="ID_title01">
+  <text><![CDATA[<b>Step 1: Create Zones</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Inside</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Outside</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_pop1">
+  <text><![CDATA[<b> </b>]]></text> 
+</component>
+
+<component id="ID_poptext1">
+  <text><![CDATA[<font face="_typewriter"><b>hostname FW<br/>!<br/>service finger<br/>!<br/>ip dhcp pool LAN<br/>   network 10.0.0.0 255.255.255.0<br/>!<br/>interface Loopback1<br/> ip address 172.16.10.33 255.255.255.240<br/>!<br/>interface FastEthernet0/0<br/> ip address 10.0.0.1 255.255.255.0<br/> ip nat inside<br/>!<br/>interface Serial0/0/0<br/> no ip address<br/> encapsulation frame-relay<br/>!<br/>interface Serial0/0/0.100 point-to-point<br/> description Link to the Internet<br/> ip address 192.168.201.6 255.255.255.252<br/> ip nat outside<br/>frame-relay interface-dlci 100<br/>!<br/>ip route 0.0.0.0 0.0.0.0 Serial0/0/0.100<br/>!<br/>ip http server<br/>no ip http secure-server<br/>ip nat pool Internet 172.16.10.34 172.16.10.46 prefix-length 28<br/>ip nat source list InternalHosts pool Internet<br/>ip nat inside source list InternalHosts pool Internet<br/>!<br/>ip access-list standard InternalHosts<br/> permit 10.0.0.0 0.0.0.255<br/>!<br/>end</b></font>]]></text> 
+</component>
+
+<!---slide 2---->
+<component id="ID_title02">
+  <text><![CDATA[<b>External Port Scan with No Active Host</b>]]></text> 
+</component>
+
+<component id="ID_s2_info">
+  <text><![CDATA[<b>The firewall configuration provides some security because NAT hides inside hosts from potential intruders. An initial port scan done from the outside confirms this assumption, because the potential intruder can reach only one IP host (the router itself).</b>]]></text> 
+</component>
+
+<!---slide 3---->
+<component id="ID_title03">
+  <text><![CDATA[<b>External Port Scan with Active NAT Translations</b>]]></text> 
+</component>
+
+<component id="ID_s3_info">
+  <text><![CDATA[<b>After an inside client establishes a session across the firewall router, its IP address becomes available to the outside world. Because the router offers no additional protection beyond address translation, the intruders have free access to the inside hosts, as documented in the highlighted lines. (The non-highlighted lines are the publicly accessible router services.)</b>]]></text> 
+</component>
+<component id="ID_new">
+  <text><![CDATA[<b>NAT Pool<BR/>172.16.10.32/28</b>]]></text> 
+</component>
+</textcomponents>

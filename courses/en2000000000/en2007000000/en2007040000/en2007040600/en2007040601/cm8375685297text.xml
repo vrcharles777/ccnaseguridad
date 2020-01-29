@@ -1,0 +1,18 @@
+﻿<textcomponents>
+
+<component id="ID_title">
+  <text><![CDATA[<b>Single-root PKI Topology</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Root CA</b>]]></text> 
+</component>
+
+
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Certificates issued by one CA<li>Centralized trust decisions</li><li>Single point of failure</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>
+
+ 

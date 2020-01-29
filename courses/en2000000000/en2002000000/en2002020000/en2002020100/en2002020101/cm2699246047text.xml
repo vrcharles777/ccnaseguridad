@@ -1,0 +1,9 @@
+﻿<textcomponents>
+<component id="femaleText">
+<text><![CDATA[<b>Security Operator Privileges</b><br/><li>Configure AAA</li><li>Issue <font face="_typewriter"><b>show</b></font> Commands</li><li>Configure Firewall</li><li>Configure IDS/IPS</li><li>Configure NetFlow</li>]]></text>
+</component>
+<component id="maleText">
+  <text><![CDATA[<b>WAN Engineer Privileges</b><br/><li>Configure Routing</li><li>Configure Interfaces</li><li>Issue <font face="_typewriter"><b>show</b></font> Commands</li>]]></text> 
+  </component>
+
+</textcomponents>

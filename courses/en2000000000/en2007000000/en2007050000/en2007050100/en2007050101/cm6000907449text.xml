@@ -1,0 +1,200 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Cryptology</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cryptography</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cryptanalysis</b>]]></text>
+</component>
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><b><ul><li>Secure communications requires integrity, authentication, and confidentiality.</li><br/><li>Cryptography is related to the making and using of encryption methods.</li><br/><li>Cryptanalysis is related to the solving or breaking of a cryptographic encryption method.</li><br/><li>Cryptology is the combination of cryptography and cryptanalysis.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+<component id="ID_table01">
+  <text><![CDATA[<table cellpadding='4' bordercolor='#CCCCCC' header='top' headerstyle='blue' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080'><tr>
+  <td width="200">&nbsp;</td>
+  <td width="140"><b>Integrity </b></td>
+  <td width="140"><b>Authentication</b></td>
+  <td><b>Confidentiality</b></td>
+</tr>
+<tr>
+    <td bgcolor='#B4DAFE'><b>Cryptographic hashes, protocols, and algorithms</b></td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>MD5<br/>SHA</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>HMAC-MD5<br/>HMAC-SHA-1<br/>RSA and DSA</td>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>DES<br/>3DES<br/>AES</td>
+</tr>
+</table>]]></text> 
+  </component>
+
+<component id="slide02">
+<text><![CDATA[<font size="14"><b><ul><li>Cryptographic hashes play a vital role when securing network traffic.</li><br/><li>Integrity is provided by using the MD5 algorithm or the SHA-1 algorithm.</li><br/><li>Authenticity is provided using HMAC.</li><br/><li>Confidentiality is provided using various encryption algorithms.</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+
+<!-- Slide 1 -->
+<component id="ID_s1_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Symmetric encryption algorithms are best known as shared-secret key algorithms.</li><li>The usual key length is 80 - 256 bits.</li><li>A sender and receiver must share a secret key.</li><li>They are usually quite fast (wire speed) because these algorithms are based on simple mathematical operations.</li><li>Examples of symmetric encryption algorithms are DES, 3DES, AES, IDEA, RC2/4/5/6, and Blowfish.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_s1_txt01">
+<text><![CDATA[Key]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Pre-shared key]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Key]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[$!@#IQ]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<!-- Slide 2 -->
+<component id="ID_s2_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Asymmetric encryption algorithms are best known as public key algorithms.</li><li>The usual key length is 512–4096 bits.</li><li>A sender and receiver do not share a secret key.</li><li>These algorithms are relatively slow because they are based on difficult computational algorithms.</li><li>Examples of asymmetric encryption algorithms are RSA, ElGamal, elliptic curves, and DH.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+<text><![CDATA[Encryption Key]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Two separate keys which are not shared]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Decryption Key]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[Encrypt]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[%3f7&4]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[Decrypt]]></text>
+</component>
+
+<component id="ID_s2_txt08">
+<text><![CDATA[$1000]]></text>
+</component>
+
+<component id="slide03">
+<text><![CDATA[<font size="14"><b><ul><li>Encryption can be implemented using a symmetric or asymmetric algorithm.</li><br/><li>Various symmetric encryption algorithms can be used. Each option varies in regard to the degree of protection and the ease of implementation.</li><br/><li>Diffie-Hellman is a hashing algorithm that is used to support DES, 3DES, and AES.</li></ul></b></font>]]></text>
+</component>
+
+
+<component id="ID_btn1_s3">
+<text><![CDATA[Symmetric Encryption]]></text>
+</component>
+
+<component id="ID_btn2_s3">
+<text><![CDATA[Asymmetric Encryption]]></text>
+</component>
+
+<component id="ID_txt01_s4">
+<text><![CDATA[<b>Public Key (Encrypt) + Private Key (Decrypt) = Confidentiality</b>]]></text>
+</component>
+<component id="ID_txt02_s4">
+  <text><![CDATA[<b>Can I get your Public Key please?</b>]]></text> 
+  </component>
+<component id="ID_txt03_s4">
+  <text><![CDATA[<b>Here is my Public Key.</b>]]></text> 
+  </component>
+<component id="ID_txt04_s4">
+  <text><![CDATA[<b>Bob's Public Key</b>]]></text> 
+  </component>
+<component id="ID_txt05_s4">
+  <text><![CDATA[<b>Alice</b>]]></text> 
+  </component>
+<component id="ID_txt06_s4">
+  <text><![CDATA[<b>Bob's Public Key</b>]]></text> 
+  </component>
+<component id="ID_txt07_s4">
+  <text><![CDATA[<b>Encrypted Text</b>]]></text> 
+  </component>
+<component id="ID_txt08_s4">
+  <text><![CDATA[<b>Encrypted Text</b>]]></text> 
+  </component>
+<component id="ID_txt09_s4">
+  <text><![CDATA[<b>Bob's Private Key</b>]]></text> 
+  </component>
+<component id="ID_txt10_s4">
+  <text><![CDATA[<b>Bob</b>]]></text> 
+  </component>
+<component id="ID_txt11_s4">
+  <text><![CDATA[Encryption Algorithm]]></text> 
+  </component>
+<component id="ID_txt12_s4">
+  <text><![CDATA[Encryption Algorithm]]></text> 
+  </component>
+<component id="ID_txt13_s4">
+  <text><![CDATA[1. Alice acquires Bob's public key.<BR/>2. Alice uses Bob's public key to encrypt a message using an agreed-upon algorithm.<BR/>3. Alice transmits the encrypted message to Bob.<BR/>4. Bob uses his private key to decrypt and reveal the message.]]></text> 
+  </component>
+
+<component id="slide04">
+<text><![CDATA[<font size="14"><b><ul><li>Asymmetric encryption can use digital signatures, such as the RSA algorithm, to provide authentication and confidentiality.</li><br/><li>Asymmetric encryption is usually implemented using a public key infrastructure (PKI).</li></ul></b></font>]]></text>
+</component>
+
+
+
+
+</textcomponents>

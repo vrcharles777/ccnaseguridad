@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Alarm]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Alarm]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[SDEE Protocol]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Syslog]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Network<br/>Management Console]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Syslog Server]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,14 @@
+﻿<textcomponents>
+<component id="txt01">
+  <text><![CDATA[Endpoint security:<BR/>Provides identity and device security policy compliance]]></text></component>
+  <component id="txt02">
+  <text><![CDATA[Communications security:<BR/>Provides information assurance]]></text></component>
+  <component id="txt03">
+  <text><![CDATA[Perimeter security:<BR/>Secures boundaries between zones]]></text></component>
+  <component id="txt04">
+  <text><![CDATA[Core network security:<BR/>Protects against malicious software and traffic anomalies, enforces network policies, and ensures survivability]]></text></component>
+  <component id="txt05">
+  <text><![CDATA[Disaster recovery:<BR/>Offsite storage and redundant architecture]]></text></component>
+  <component id="txt06">
+  <text><![CDATA[Network Core]]></text></component>
+</textcomponents>

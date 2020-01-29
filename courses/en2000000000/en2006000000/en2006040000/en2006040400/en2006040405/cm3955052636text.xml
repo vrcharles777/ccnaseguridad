@@ -1,0 +1,67 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button for more information on types of fraud and SIP vulnerabilities.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Fraud</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>SIP Vulnerabilities</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Fraud takes several forms:<ul><li>Vishing - A voice version of phishing that is used to compromise confidentiality.</li><li>Theft and toll fraud - The stealing of telephone services.</li></ul><br/>Use features of Cisco Unified Communications Manager to protect against fraud.<ul><li>Partitions limit what parts of the dial plan certain phones can access.</li><li>Dial plans filter control access to exploitive phone numbers.</li><li>FACs prevent unauthorized calls and provide a mechanism for tracking.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_table02">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Registration hijacking – Allows a hacker to intercept incoming calls and reroute them.</li><li>Message tampering – Allows a hacker to modify data packets traveling between SIP addresses.</li><li>Session tear-down – Allows a hacker to terminate calls or carry out VoIP-targeted DoS attacks.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_s2_txt01">
+<text><![CDATA[SIP Servers/Services]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Registrar]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Registrar]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[Location<br/>Database]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[SIP Proxy]]></text>
+</component>
+
+<component id="ID_s2_txt06">
+<text><![CDATA[SIP User Agents]]></text>
+</component>
+
+<component id="ID_s2_txt07">
+<text><![CDATA[SIP User Agents]]></text>
+</component>
+
+</textcomponents>

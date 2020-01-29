@@ -1,0 +1,39 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Forwarded traffic</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Blocked traffic</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Total number of broadcast packets or bytes</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Threshold</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Time</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>0</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>T1</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>T2</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>T3</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>T4</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>T5</b>]]></text> 
+  </component>
+<component id="textbox">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>If storm control is enabled, when the amount of specified traffic exceeds the threshold within a specific time period, all traffic of that kind is dropped for the next time period. In this example, the broadcast traffic being forwarded exceeded the configured threshold between time intervals T1 and T2 and between T4 and T5. Therefore, broadcast traffic is blocked during the intervals following T2 and T5. At the next time interval (for example, T3), if broadcast traffic does not exceed the threshold, it is again forwarded.</td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

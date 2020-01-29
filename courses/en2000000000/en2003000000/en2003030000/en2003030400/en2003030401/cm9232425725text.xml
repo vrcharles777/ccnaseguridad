@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_tip">
+	<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+<component id="ID_tip_title">
+	<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+<component id="ID_tip_text">
+	<text><![CDATA[<b>When discussing ACS configuration, keep in mind that the router is the client, not the PC. The AAA server (such as ACS) is the server device.</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,285 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[Authentication]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[PSK]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[RSA]]></text>
+</component>
+
+<!-- slide 1 -->
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>IPsec Framework</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>IPsec Protocol</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>Confidentiality</b>]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>Integrity</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>Authentication</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Diffie-Hellman</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>Choices</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>AH</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>ESP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>ESP <br/>+ AH</b>]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[<b>DES</b>]]></text>
+</component>
+
+<component id="ID_S1_txt12">
+<text><![CDATA[<b>3<br />DES</b>]]></text>
+</component>
+
+<component id="ID_S1_txt13">
+<text><![CDATA[<b>AES</b>]]></text>
+</component>
+
+<component id="ID_S1_txt14">
+<text><![CDATA[<b>SEAL</b>]]></text>
+</component>
+
+<component id="ID_S1_txt15">
+<text><![CDATA[<b>MD5</b>]]></text>
+</component>
+
+<component id="ID_S1_txt16">
+<text><![CDATA[<b>SHA</b>]]></text>
+</component>
+
+<component id="ID_S1_txt17">
+<text><![CDATA[<b>PSK</b>]]></text>
+</component>
+
+<component id="ID_S1_txt18">
+<text><![CDATA[<b>RSA</b>]]></text>
+</component>
+
+<component id="ID_S1_txt19">
+<text><![CDATA[<b>DH1</b>]]></text>
+</component>
+
+<component id="ID_S1_txt20">
+<text><![CDATA[<b>DH2</b>]]></text>
+</component>
+
+<component id="ID_S1_txt21">
+<text><![CDATA[<b>DH5</b>]]></text>
+</component>
+
+<component id="ID_S1_txt22">
+<text><![CDATA[<b>DH7</b>]]></text>
+</component>
+
+<component id="ID_S1_txt23">
+<text><![CDATA[<b>Least secure</b>]]></text>
+</component>
+
+<component id="ID_S1_txt24">
+<text><![CDATA[<b>Most secure</b>]]></text>
+</component>
+
+<component id="ID_S1_txt25">
+<text><![CDATA[<b>Key length:<br/>- 128-bits</b>]]></text>
+</component>
+
+<component id="ID_S1_txt26">
+<text><![CDATA[<b>Key length:<br/>- 160-bits (3 times)</b>]]></text>
+</component>
+
+<!-- slide 2 -->
+
+<component id="ID_S2_title">
+<text><![CDATA[<b>PSK</b>]]></text>
+</component>
+
+<component id="ID_S2_main">
+<text><![CDATA[<b>At the local device, the authentication key and the identity information (device-specific information) are sent through a Hash algorithm to form Hash_L. One-way authentication is established by sending Hash_L to the remote device. If the remote device can independently create the same Hash, the local device is authenticated. The authentication process continues by repeating these steps in the reverse direction.</b>]]></text>
+</component>
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>Local</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>Auth. Key</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>+ ID</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>Information</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>Hash<br/>Algorithm</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>Authenticating Hash<br/>(Hash_L)</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>Remote</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>Auth. Key</b>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>+ ID</b>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>Information</b>]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[<b>Hash<br/>Algorithm<</b>]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[<b>Computed Hash<br/>=<br/>Received Hash (Hash_L)</b>]]></text>
+</component>
+
+
+<!-- slide 3 -->
+
+<component id="ID_S3_title">
+<text><![CDATA[<b>RSA</b>]]></text>
+</component>
+
+<component id="ID_S3_main">
+<text><![CDATA[<b>At the local device, the authentication key and identity information (device-specific information) are sent through the Hash algorithm forming Hash_L. Hash_L is encrypted using the local device's private encryption key creating a digital signature. The digital signature and a digital certificate are forwarded to the remote device. The public encryption key for decrypting the signature is included in the digital certificate. The remote device verifies the digital signature by decrypting it using the public encryption key. The result is Hash_L. Next, the remote device independently creates a hash from stored information. If the calculated hash equals the decrypted Hash_L, the local device is authenticated. After the remote device authenticates the local device, the authentication process begins in the opposite direction and all steps are repeated from the remote device to the local device.</b>]]></text>
+</component>
+
+<component id="ID_S3_txt01">
+<text><![CDATA[<b>Local</b>]]></text>
+</component>
+
+<component id="ID_S3_txt02">
+<text><![CDATA[<b>Auth. Key</b>]]></text>
+</component>
+
+<component id="ID_S3_txt03">
+<text><![CDATA[<b>+ ID</b>]]></text>
+</component>
+
+<component id="ID_S3_txt04">
+<text><![CDATA[<b>Information</b>]]></text>
+</component>
+
+<component id="ID_S3_txt05">
+<text><![CDATA[<b>Hash</b>]]></text>
+</component>
+
+<component id="ID_S3_txt06">
+<text><![CDATA[<b>Private Key</b>]]></text>
+</component>
+
+<component id="ID_S3_txt07">
+<text><![CDATA[<b>Hash_L</b>]]></text>
+</component>
+
+<component id="ID_S3_txt08">
+<text><![CDATA[<b>Encryption Algorithm</b>]]></text>
+</component>
+
+<component id="ID_S3_txt09">
+<text><![CDATA[<b>Digital Certificate</b>]]></text>
+</component>
+
+<component id="ID_S3_txt10">
+<text><![CDATA[<b>Digital Signature</b>]]></text>
+</component>
+
+<component id="ID_S3_txt11">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_S3_txt12">
+<text><![CDATA[<b>Remote</b>]]></text>
+</component>
+
+<component id="ID_S3_txt13">
+<text><![CDATA[<b>Auth. Key</b>]]></text>
+</component>
+
+<component id="ID_S3_txt14">
+<text><![CDATA[<b>+ ID</b>]]></text>
+</component>
+
+<component id="ID_S3_txt15">
+<text><![CDATA[<b>Information</b>]]></text>
+</component>
+
+<component id="ID_S3_txt16">
+<text><![CDATA[<b>Hash</b>]]></text>
+</component>
+
+<component id="ID_S3_txt17">
+<text><![CDATA[<b>Digital Signature</b>]]></text>
+</component>
+
+<component id="ID_S3_txt18">
+<text><![CDATA[<b>Hash</b>]]></text>
+</component>
+
+<component id="ID_S3_txt19">
+<text><![CDATA[<b>Decryption Algorithm</b>]]></text>
+</component>
+
+<component id="ID_S3_txt20">
+<text><![CDATA[<b>Hash_L</b>]]></text>
+</component>
+
+<component id="ID_S3_txt21">
+<text><![CDATA[<b>Public Key</b>]]></text>
+</component>
+
+<component id="ID_S3_txt22">
+<text><![CDATA[<b>Digital Certificate</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,35 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01a">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Makes the system an authoritative NTP server.</li><li>The stratum number is the number of hops away from an authoritative source such as an atomic clock.</li></ul></td></tr></table>]]></text>   
+</component>
+<component id="ID_table01b">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Allows the software clock to be synchronized by an NTP time server.</li></ul></td></tr></table>]]></text> 
+  </component>
+<component id="ID_table01c">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Configures device to receive NTP broadcast messages on the interface.</li></ul></td></tr></table>]]></text>   
+</component>
+
+
+  <component id="ID_txt01">
+  <text><![CDATA[<font size="12">I am the NTP master with IP address 10.10.10.1, and I will provide all other devices with a synchronized time source.</font>]]></text> 
+  </component>
+  <component id="ID_txt02">
+  <text><![CDATA[<b>DCE</b>]]></text> 
+  </component>
+  
+<component id="ID_table02">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>R1 is configured as the NTP master.</li><li>R2 is configured as an NTP client and has synchronized its clock with R1.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+  <component id="ID_btn1">
+  <text><![CDATA[NTP Commands]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[Sample NTP Config]]></text> 
+  </component>
+</textcomponents>

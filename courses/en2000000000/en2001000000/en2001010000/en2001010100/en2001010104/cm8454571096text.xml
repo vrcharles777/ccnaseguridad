@@ -1,0 +1,71 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_title01">
+<text><![CDATA[<b>Threats to Networks</b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>External<br/>Threat</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Unstructured<br/>Threat</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Internal<br/>Threat</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Compromised<br/>Host</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Structured<br/>Threat</b>]]></text>
+</component>
+<component id="ID_button1">
+  <text><![CDATA[<b>Threats to Network</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Evolution of LAN Security</b>]]></text> 
+</component>
+<component id="yr1">
+<text><![CDATA[<b>1998</b>]]></text>
+</component>
+
+<component id="yr2">
+<text><![CDATA[<b>2000</b>]]></text>
+</component>
+
+<component id="yr3">
+<text><![CDATA[<b>2003</b>]]></text>
+</component>
+
+<component id="ID_year">
+<text><![CDATA[<b>Year</b>]]></text>
+</component>
+
+<component id="ID_standard">
+<text><![CDATA[<b>Security Technology</b>]]></text>
+</component>
+
+<component id="ID_C1R1">
+<text><![CDATA[<b>Mitigating MAC Address Spoofing Attacks<BR/><BR/>Mitigating MAC Address Table Overflow Attacks<BR/><BR/>Mitigating LAN Storm</b>]]></text>
+</component>
+
+<component id="ID_C1R2">
+<text><![CDATA[<b>Mitigating Root Bridge Spoofing<BR/><BR/>Mitigating VLAN Attacks</b>]]></text>
+</component>
+
+<component id="ID_C1R3">
+<text><![CDATA[<b>Mitigating ARP Spoofing Attacks</b>]]></text>
+</component>
+</textcomponents>

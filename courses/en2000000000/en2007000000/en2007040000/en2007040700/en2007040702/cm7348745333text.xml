@@ -1,0 +1,30 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+  <text><![CDATA[<b>Out-of-Band Authentication of the CA Certificate</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>POTS</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>CA Admin</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>CA</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  <text><![CDATA[<b>Certificate</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Enterprise Network</b>]]></text> 
+</component>
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='14'>Both systems forward a certificate request which includes their public key along with some identifying information. All of this information is encrypted using the public key of the CA.</textformat><BR/>2. <textformat blockindent='14'>Upon receipt of the certificate requests, the CA administrator telephones Alice and Bob to confirm their submittal and the public key and issues the certificate by adding some additional data to the certificate request, and digitally signing it all.</textformat><BR/>3. <textformat blockindent='14'>Either the end user manually retrieves the certificate or SCEP automatically retrieves the certificate, and the certificate is installed onto the system.</textformat></td></tr></table>]]></text> 
+  </component>
+</textcomponents>
+
+ 

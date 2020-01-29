@@ -1,0 +1,24 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Data Integrity</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>Data Authenticity</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[Fixed-Length Hash Value]]></text> 
+</component>
+
+<component id="ID_txt04">
+  <text><![CDATA[<b>Entity Authentication</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+  <text><![CDATA[<b>Hash<br/>Function</b>]]></text> 
+</component>
+
+
+</textcomponents>

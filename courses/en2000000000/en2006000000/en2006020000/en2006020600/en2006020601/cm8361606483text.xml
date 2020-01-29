@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<ul><li>Segmentation</li><br/><li>Flexibility</li><br/><li>Security</li></ul>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[3rd Floor]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[2nd Floor]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[1st Floor]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Sales]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Human Resources]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Engineering]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[VLAN = Broadcast Domain = Logical Network (Subnet)]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,157 @@
+<textcomponents>
+
+<component id="ID_header">
+	<text><![CDATA[<b><font size='+2'>Domains of Network Security</font></b>]]></text>
+</component>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Roll over each Domain of Network Security for more information.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+  	<text><![CDATA[<b>Risk Assessment</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Security Policy</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+  	<text><![CDATA[<b>Organization of Information Security</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  	<text><![CDATA[<b>Asset Management</b>]]></text> 
+</component>
+
+<component id="ID_btn5">
+  	<text><![CDATA[<b>Human Resources Security</b>]]></text> 
+</component>
+
+<component id="ID_btn6">
+	<text><![CDATA[<b>Physical and Environmental Security</b>]]></text>
+</component>
+
+<component id="ID_btn7">
+  	<text><![CDATA[<b>Communications and Operations Management</b>]]></text> 
+</component>
+
+<component id="ID_btn8">
+  	<text><![CDATA[<b>Access Control</b>]]></text> 
+</component>
+
+<component id="ID_btn9">
+  	<text><![CDATA[<b>Information Systems Acquisition, Development and Maintenance</b>]]></text> 
+</component>
+
+<component id="ID_btn10">
+	<text><![CDATA[<b>Information Security Incident Management</b>]]></text>
+</component>
+
+<component id="ID_btn11">
+  	<text><![CDATA[<b>Business Continuity Management</b>]]></text> 
+</component>
+
+<component id="ID_btn12">
+  	<text><![CDATA[<b>Compliance</b>]]></text> 
+</component>
+
+
+<component id="ID_pop1">
+  	<text><![CDATA[<b>Risk Assessment</b>]]></text> 
+</component>
+
+<component id="ID_pop2">
+	<text><![CDATA[<b>Security Policy</b>]]></text>
+</component>
+
+<component id="ID_pop3">
+  	<text><![CDATA[<b>Organization of Information Security</b>]]></text> 
+</component>
+
+<component id="ID_pop4">
+  	<text><![CDATA[<b>Asset Management</b>]]></text> 
+</component>
+
+<component id="ID_pop5">
+  	<text><![CDATA[<b>Human Resources Security</b>]]></text> 
+</component>
+
+<component id="ID_pop6">
+	<text><![CDATA[<b>Physical and Environmental Security</b>]]></text>
+</component>
+
+<component id="ID_pop7">
+  	<text><![CDATA[<b>Communications and Operations Management</b>]]></text> 
+</component>
+
+<component id="ID_pop8">
+  	<text><![CDATA[<b>Access Control</b>]]></text> 
+</component>
+
+<component id="ID_pop9">
+  	<text><![CDATA[<b>Information Systems Acquisition, Development and Maintenance</b>]]></text> 
+</component>
+
+<component id="ID_pop10">
+	<text><![CDATA[<b>Information Security Incident Management</b>]]></text>
+</component>
+
+<component id="ID_pop11">
+  	<text><![CDATA[<b>Business Continuity Management</b>]]></text> 
+</component>
+
+<component id="ID_pop12">
+  	<text><![CDATA[<b>Compliance</b>]]></text> 
+</component>
+
+
+<component id="ID_poptext1">
+  	<text><![CDATA[<b>This is the first step in the risk management process. It determines the quantitative and qualitative value of risk related to a specific situation or recognized threat.</b>]]></text> 
+</component>
+
+<component id="ID_poptext2">
+	<text><![CDATA[<b>A document that addresses the constraints and behaviors of members of an organization and often specifies how data can be accessed and what data is accessible by whom.</b>]]></text>
+</component>
+
+<component id="ID_poptext3">
+  	<text><![CDATA[<b>This is the governance model set out by an organization for information security.</b>]]></text> 
+</component>
+
+<component id="ID_poptext4">
+  	<text><![CDATA[<b>This is an inventory of and classification scheme for information assets.</b>]]></text> 
+</component>
+
+<component id="ID_poptext5">
+  	<text><![CDATA[<b>This addresses security procedures relating to employees joining, moving within, and leaving an organization.</b>]]></text> 
+</component>
+
+<component id="ID_poptext6">
+	<text><![CDATA[<b>This describes the protection of the computer facilities within an organization.</b>]]></text>
+</component>
+
+<component id="ID_poptext7">
+  	<text><![CDATA[<b>This describes the management of technical security controls in systems and networks.</b>]]></text> 
+</component>
+
+<component id="ID_poptext8">
+  	<text><![CDATA[<b>This describes the restriction of access rights to networks, systems, applications, functions, and data.</b>]]></text> 
+</component>
+
+<component id="ID_poptext9">
+  	<text><![CDATA[<b>This describes the integration of security into applications.</b>]]></text> 
+</component>
+
+<component id="ID_poptext10">
+	<text><![CDATA[<b>This describes how to anticipate and respond to information security breaches.</b>]]></text>
+</component>
+
+<component id="ID_poptext11">
+  	<text><![CDATA[<b>This describes the protection, maintenance, and recovery of business-critical processes and systems.</b>]]></text> 
+</component>
+
+<component id="ID_poptext12">
+  	<text><![CDATA[<b>This describes the process of ensuring conformance with information security policies, standards, and regulations.</b>]]></text> 
+</component>
+
+</textcomponents>

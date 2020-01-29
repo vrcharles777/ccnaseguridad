@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Clear Message]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[blank blank 1100101]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[64 bits]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[64 bits]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[64 bits]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Encrypted Message]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Block Cipher – encryption is completed in 64 bit blocks]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Clear Message]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Stream Cipher – encryption is one bit at a time]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Encrypted Message]]></text>
+</component>
+
+</textcomponents>

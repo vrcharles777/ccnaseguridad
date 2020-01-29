@@ -1,0 +1,120 @@
+<textcomponents>
+<!-- buttons -->
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Welcome</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Identify Edge</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<b>Management Plane</b>]]></text>
+</component>
+
+<component id="ID_btn4">
+<text><![CDATA[<b>Banner</b>]]></text>
+</component>
+
+<component id="ID_btn5">
+<text><![CDATA[<b>Password</b>]]></text>
+</component>
+
+<component id="ID_btn6">
+<text><![CDATA[<b>Secure Interfaces</b>]]></text>
+</component>
+
+<component id="ID_btn7">
+<text><![CDATA[<b>Forwarding Plane</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_table1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li><font face='_typewriter'><b>auto secure</b></font> with no keyword defaults to interactive mode.</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_table2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>The outside interface is identified to establish the edge of the network.</li><li>Interface names must be entered exactly as displayed in the prompting output.</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_table3">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>AutoSecure automatically disables unnecessary services.</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+<!-- slide 4 -->
+<component id="ID_table4">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>AutoSecure prompts for a banner and provides a sample.</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+<!-- slide 5 -->
+<component id="ID_table5">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Password security and <font face='_typewriter'><b>login block-for</b></font> command parameters are gathered.</li><li>SSH is configured.</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+<!-- slide 6 -->
+<component id="ID_table6">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Common security commands are applied to all interfaces.</li><li>Some features are interface specific (e.g. FastEthernet versus Serial).</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+<!-- slide 6 -->
+<component id="ID_table7">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Forwarding plane is secured.</li><li>Includes enabling CEF, enabling unicast reverse path forwarding and configuring extensive firewall features for common protocols.</li></ul></td>
+	</tr>
+</table>.]]></text>
+</component>
+
+</textcomponents>

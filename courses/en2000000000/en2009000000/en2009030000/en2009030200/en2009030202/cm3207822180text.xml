@@ -1,0 +1,20 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Data Center Support</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Technical Support</b>]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[<b>Data Entry</b>]]></text>
+</component>
+\<component id="ID_txt04">
+<text><![CDATA[<b>Week 1</b>]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[<b>Week 2</b>]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[<b>Week 3</b>]]></text>
+</component>
+</textcomponents>

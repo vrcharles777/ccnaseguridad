@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>SLE = AV * EF</b>]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Quantitative Risk Analysis Formula</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>AV is the cost of an individual asset.</li><li>EF is the loss, represented as a percentage, that a realized threat could have on an asset.</li><li>SLE is the result of AV * EF, or the cost of a single instance of a threat.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

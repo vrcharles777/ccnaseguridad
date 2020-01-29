@@ -1,0 +1,79 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Remote Branch</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<b>MARS</b>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<b>IronPort</b>]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>Web Server</b>]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Email Server</b>]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>DNS</b>]]></text>
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>CSA Management Server</b>]]></text>
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Traffic between sites must be secure.</li><li>Measures must be taken to ensure that traffic cannot be altered, forged, or deciphered if intercepted.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>

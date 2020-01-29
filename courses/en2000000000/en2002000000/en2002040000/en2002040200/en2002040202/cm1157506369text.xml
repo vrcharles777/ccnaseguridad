@@ -1,0 +1,63 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Cisco AutoSecure</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Parameters]]></text>
+</component>
+
+<!-- slide 1 - no external text -->
+
+<!-- slide 2 -->
+<component id="ID_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='150'><font color='#FFFFFF'>Parameter</font></td>
+		<td><font color='#FFFFFF'>Description</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>no-interact</td>
+		<td bgcolor='#DDDDDD'>(Optional) The user will not be prompted for any interactive configurations. No interactive dialogue parameters will be configured, including usernames or passwords.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>full</td>
+		<td bgcolor='#F2F2F2'>(Optional) The user will be prompted for all interactive questions. This is the default setting.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>forwarding</td>
+		<td bgcolor='#DDDDDD'>(Optional) Only the forwarding plane will be secured.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>management</td>
+		<td bgcolor='#F2F2F2'>(Optional) Only the management plane will be secured.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>ntp</td>
+		<td bgcolor='#DDDDDD'>(Optional) Specifies the configuration of the Network Time Protocol (NTP) feature in the AutoSecure command-line interface (CLI).</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>login</td>
+		<td bgcolor='#F2F2F2'>(Optional) Specifies the configuration of the Login feature in the AutoSecure CLI.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>ssh</td>
+		<td bgcolor='#DDDDDD'>(Optional) Specifies the configuration of the SSH feature in the AutoSecure CLI.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>firewall</td>
+		<td bgcolor='#F2F2F2'>(Optional) Specifies the configuration of the Firewall feature in the AutoSecure CLI.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>tcp-intercept</td>
+		<td bgcolor='#DDDDDD'>(Optional) Specifies the configuration of the TCP-Intercept feature in the AutoSecure CLI.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

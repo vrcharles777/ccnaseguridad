@@ -1,0 +1,89 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+	<text><![CDATA[<b>Transform Sets</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Sample Config</b>]]></text>
+</component>
+
+
+<component id="ID_top01_s1">
+  <text><![CDATA[<b>Host A</b>]]></text>
+</component>
+
+<component id="ID_top02_s1">
+  <text><![CDATA[<b>Host B</b>]]></text> 
+</component>
+
+<component id="ID_top01">
+  <text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+
+<component id="ID_top02">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+</component>
+
+<component id="ID_top03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_box01">
+  <text><![CDATA[<b><ul><li>Transform sets are negotiated during IKE Phase 2.</li><li>The 9th attempt found matching transform sets (CHARLIE - YELLOW).</li></ul></b>]]></text>
+</component>
+
+<component id="ID_box02">
+  <text><![CDATA[<b>Note:<br/><ul><li>Peers must share the same transform set settings.</li><li>Names are only locally significant.</li></ul></b>]]></text>
+</component>
+
+
+
+<component id="ID_box03">
+  <text><![CDATA[<b>Match</b>]]></text>
+</component>
+
+<component id="ID_dia01">
+	<text><![CDATA[<b>transform-set ALPHA<br/>   esp-3des<br/>   tunnel</b>]]></text>
+</component>
+
+<component id="ID_dia02">
+	<text><![CDATA[<b>transform-set BETA<br/>   esp-des, esp-md5-hmac<br/>   tunnel</b>]]></text>
+</component>
+
+<component id="ID_dia03">
+	<text><![CDATA[<b>transform-set CHARLIE<br/>   esp-3des, esp-sha-hmac<br/>   tunnel</b>]]></text>
+</component>
+
+<component id="ID_dia04">
+	<text><![CDATA[<b>transform-set RED<br/>   esp-des<br/>   tunnel</b>]]></text>
+</component>
+
+<component id="ID_dia05">
+	<text><![CDATA[<b>transform-set BLUE<br/>   esp-des, ah-sha-hmac<br/>   tunnel</b>]]></text>
+</component>
+
+<component id="ID_dia06">
+	<text><![CDATA[<b>transform-set YELLOW<br/>   esp-3des, esp-sha-hmac<br/>   tunnel</b>]]></text>
+</component>
+
+
+
+
+<component id="ID_txt01">
+	<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b></b>]]></text>
+</component>
+
+</textcomponents>

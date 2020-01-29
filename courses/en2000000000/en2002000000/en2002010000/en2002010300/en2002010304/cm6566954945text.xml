@@ -1,0 +1,77 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[<b>Click each button and roll over the highlighted text for more information.</b>]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<font face='_typewriter'><b>log</b></font><br/><b>Commands</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<font face='_typewriter'><b>show login</b></font><br/><b>(Normal-Mode)</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<b>Sample<br/>Attack</b>]]></text>
+</component>
+
+<component id="ID_btn4">
+<text><![CDATA[<font face='_typewriter'><b>show login</b></font><br/>(Quiet-Mode)]]></text>
+</component>
+
+<component id="ID_btn5">
+<text><![CDATA[<font face='_typewriter'><b>show login</b></font>&nbsp;<br/><font face='_typewriter'><b>failures</b></font>]]></text>
+</component>
+
+<!-- slide1-->
+<component id="ID_sl1_pop01">
+<text><![CDATA[Generates logging messages for successful login attempts]]></text>
+</component>
+
+<component id="ID_sl1_pop02">
+<text><![CDATA[Generates logging messages for failed login attempts]]></text>
+</component>
+
+<!-- slide 2-->
+<component id="ID_sl2_txt01">
+<text><![CDATA[In this example, the l<font face='_typewriter'><b>ogin block-for</b></font> command was configured to block login hosts for 120 seconds if more than 5 login requests fail within 60 seconds.]]></text>
+</component>
+
+<component id="ID_sl2_pop01">
+<text><![CDATA[The router is still in Normal mode and login attempts have not been restricted.]]></text>
+</component>
+
+<component id="ID_sl2_pop02">
+<text><![CDATA[The router has received 4 failed login attempts.]]></text>
+</component>
+
+<!-- slide 3 -->
+<component id="ID_sl3_txt01">
+<text><![CDATA[An attacker has attempted to login 5 times.]]></text>
+</component>
+
+<component id="ID_sl3_txt02">
+<text><![CDATA[On his 6th attempt, the following message is displayed and he is locked out for 2 minutes.]]></text>
+</component>
+
+<!-- slide 4 -->
+
+<component id="ID_sl4_pop01">
+<text><![CDATA[The router is in Quiet mode and login attempts have been restricted.]]></text>
+</component>
+
+<component id="ID_sl4_pop02">
+<text><![CDATA[The amount of time remaining, in seconds, that login restriction will be in place.]]></text>
+</component>
+
+<component id="ID_sl4_pop03">
+<text><![CDATA[All devices will be restricted for login with the exception of IP addresses specified in the PERMIT-ADMIN ACL.]]></text>
+</component>
+
+<!-- slide 5 -->
+<component id="ID_sl5_txt01">
+<text><![CDATA[This command identifies the amount of failures, usernames tried, and offending IP addresses with a timestamp added to each unlucky attempt.]]></text>
+</component>
+
+</textcomponents>

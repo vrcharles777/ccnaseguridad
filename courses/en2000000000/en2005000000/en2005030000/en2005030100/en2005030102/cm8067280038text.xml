@@ -1,0 +1,19 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Download Signature File</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Create Directory</b>]]></text> 
+</component>
+  
+<component id="ID_txt01">
+  <text><![CDATA[<b>Create Directory</b>]]></text> 
+</component>
+
+</textcomponents>

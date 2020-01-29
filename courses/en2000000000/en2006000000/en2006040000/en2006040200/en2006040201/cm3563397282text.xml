@@ -1,0 +1,31 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Remote Office]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Cisco 1030<br/>Lightweight  Access Point]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[WAN Link]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Main Office]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Cisco Wireless<br/>LAN Controller]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Ethernet Switch]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Cisco 1000 Series<br/>Lightweight Access Point]]></text>
+</component>
+
+</textcomponents>

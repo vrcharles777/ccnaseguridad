@@ -1,0 +1,28 @@
+<textcomponents>
+
+<component id="ID_box01">
+	<text><![CDATA[<b>• <textformat blockindent='14'>Integrated security and routing</textformat>
+• <textformat blockindent='14'>Browser-based full network SSL VPN access</textformat></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>SSL VPN</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b>Headquarters</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+	<text><![CDATA[<b>SSL VPN Tunnel</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+	<text><![CDATA[<b>Workplace Resources</b>]]></text>
+</component>
+
+</textcomponents>

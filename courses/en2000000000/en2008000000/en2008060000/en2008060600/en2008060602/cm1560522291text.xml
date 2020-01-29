@@ -1,0 +1,5 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[If authentication is successful, the status changes to Connected.]]></text>
+</component>
+</textcomponents>

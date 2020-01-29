@@ -1,0 +1,70 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[VLAN 10]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[VLAN 10]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[1]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[2]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[3]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[4]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Bogus addresses are added to the MAC address table. The table is full.]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Intruder runs macof to begin sending unknown bogus MAC addresses.]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<textformat tabstops='[50]'>MAC&#09;<textformat blockindent='50'>Port</textformat><br/>X&#09;<textformat blockindent='50'>Fa0/25</textformat><br/>Y&#09;<textformat blockindent='50'>Fa0/25</textformat><br/>C&#09;<textformat blockindent='50'>Fa0/25</textformat></textformat>]]></text>
+</component>
+<component id="ID_txt10">
+<text><![CDATA[MAC X<br/>MAC Y<br/>MAC Z]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Fa0/25]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[X.. Y.. Z..]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Flood]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[VLAN 10]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[MAC C]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[The switch floods the frames.]]></text>
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[Attacker sees traffic to servers 2 and 4.]]></text>
+</component>
+
+</textcomponents>

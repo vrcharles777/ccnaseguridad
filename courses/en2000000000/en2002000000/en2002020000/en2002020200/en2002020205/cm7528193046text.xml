@@ -1,0 +1,19 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+  <component id="ID_btn1">
+  <text><![CDATA[Verify USER]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[Verify SUPPORT]]></text> 
+  </component>
+  <component id="ID_btn3">
+  <text><![CDATA[Verify JR-ADMIN]]></text> 
+  </component>
+  <component id="ID_btn4">
+  <text><![CDATA[Verify All]]></text> 
+  </component>
+</textcomponents>

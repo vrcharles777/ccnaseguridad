@@ -1,0 +1,49 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>16 Privilege Levels</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Level 0: Predefined for user-level access privileges. Seldom used, but includes five commands: <font face='_typewriter'><b>disable, enable, exit, help,</b></font> and <font face='_typewriter'><b>logout</b></font></li><li>Level 1: The default level for login with the router prompt <font face='_typewriter'>router></font>. A user cannot make any changes or view the running configuration file.</li><li>Levels 2 –14: May be customized for user-level privileges. Commands from lower levels may be moved up to another higher level, or commands from higher levels may be moved down to a lower level.</li><li>Level 15: Reserved for the enable mode privileges (<font face='_typewriter'><b>enable</b></font> command). Users can change configurations and view configuration files.</li></ul></td></tr></table>]]></text> 
+  </component>
+  <component id="ID_table02">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td width='200' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Command</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Description</b></font></td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>mode</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>This command argument specifies the configuration mode. Use the <font face='_typewriter'><b>privilege ?</b></font> command to see a complete list of router configuration modes available on your router.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>level</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Optional) This command enables setting a privilege level with a specified command.</td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>level command</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Optional) This parameter is the privilege level that is associated with a command. You can specify up to 16 privilege levels, using numbers 0 to 15.</td>
+	</tr>
+		<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><b>reset</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Optional) This command resets the privilege level of a command.</td>
+	</tr>
+	<tr>
+		
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>command</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>(Optional) This is the command argument to use when you want to reset the privilege level.</td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+  <component id="ID_btn1">
+  <text><![CDATA[Privilege Levels]]></text> 
+  </component>
+    <component id="ID_btn2">
+  <text><![CDATA[Privilege Level Syntax]]></text> 
+  </component>
+</textcomponents>

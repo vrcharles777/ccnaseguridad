@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Rebooted Due to Buffer Overflow]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[DoS Attack Script]]></text>
+</component>
+
+</textcomponents>

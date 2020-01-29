@@ -1,0 +1,12 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Common characteristics of IDS and IPS:</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. <textformat blockindent='17'>Both technologies are deployed as sensors.</textformat><br/>2. <textformat blockindent='17'>Both technologies use signatures to detect patterns of misuse in network traffic.</textformat><br/>3. <textformat blockindent='17'>Both can detect atomic patterns (single-packet) or composite patterns (multi-packet).</textformat></td>
+	</tr>
+</table>]]></text> 
+  </component>
+</textcomponents>

@@ -1,0 +1,133 @@
+<textcomponents>
+
+<component id="ID_header">
+	<text><![CDATA[<b><font size='+2'>Products available for the Cisco Self-Defending Network</font></b>]]></text>
+</component>
+
+<component id="ID_inst">
+	<text><![CDATA[<b>Roll over each product for more information.</b>]]></text>
+</component>
+
+<component id="ID_note">
+	<text><![CDATA[<b>*NOTE: Each product can be deployed independently or as part of an integrated security design.</b>]]></text>
+</component>
+
+
+
+<component id="ID_btn1">
+  	<text><![CDATA[<b>Cisco IOS platforms with integrated IPS, VPN, and stateful FW</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Cisco PIX 500 Series Security Appliances with integrated VPN</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+  	<text><![CDATA[<b>Integrated network IDS and IPS</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  	<text><![CDATA[<b>Security modules for Cisco Catalyst 6500 Series Switches and Cisco 7600 Series Routers</b>]]></text> 
+</component>
+
+<component id="ID_btn5">
+  	<text><![CDATA[<b>Cisco ASA 5500 Series Adaptive Security Appliances (ASA) with integrated VPN</b>]]></text> 
+</component>
+
+<component id="ID_btn6">
+	<text><![CDATA[<b>Appliance-based network intrusion detection system (IDS) and intrusion prevention system (IPS)</b>]]></text>
+</component>
+
+<component id="ID_btn7">
+  	<text><![CDATA[<b>Cisco Secure ACS</b>]]></text> 
+</component>
+
+<component id="ID_btn8">
+  	<text><![CDATA[<b>Cisco Security Agent endpoint protection software</b>]]></text> 
+</component>
+
+<component id="ID_btn9">
+  	<text><![CDATA[<b>Cisco Security Manager, Cisco Security MARS, Cisco Router and Security Device Manager (SDM), and other GUI-based device managers</b>]]></text> 
+</component>
+
+
+
+
+<component id="ID_pop1">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+<component id="ID_pop2">
+	<text><![CDATA[<b>Features:</b>]]></text>
+</component>
+
+<component id="ID_pop3">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+<component id="ID_pop4">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+<component id="ID_pop5">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+<component id="ID_pop6">
+	<text><![CDATA[<b>Features:</b>]]></text>
+</component>
+
+<component id="ID_pop7">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+<component id="ID_pop8">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+<component id="ID_pop9">
+  	<text><![CDATA[<b>Features:</b>]]></text> 
+</component>
+
+
+
+
+<component id="ID_poptext1">
+  	<text><![CDATA[<b>Supports secure IP connectivity.</b>]]></text> 
+</component>
+
+<component id="ID_poptext2">
+	<text><![CDATA[<b>Ensures perimeter security and access control. This product is no longer being sold and may not be supported.</b>]]></text>
+</component>
+
+<component id="ID_poptext3">
+  	<text><![CDATA[<b>Ensures intrusion detection and prevention, and is integrated into Cisco IOS routers, PIX Security Appliances and Cisco Adaptive Security Appliances (ASA).</b>]]></text> 
+</component>
+
+<component id="ID_poptext4">
+  	<text><![CDATA[<b>Provides security throughout the data center including access control and port security.</b>]]></text> 
+</component>
+
+<component id="ID_poptext5">
+  	<text><![CDATA[<b>Ensures perimeter security, access control, and intrusion prevention.</b>]]></text> 
+</component>
+
+<component id="ID_poptext6">
+	<text><![CDATA[<b>Standalone device that ensures intrusion detection and prevention.</b>]]></text>
+</component>
+
+<component id="ID_poptext7">
+  	<text><![CDATA[<b>Ensures that users have the proper authority to access corporate resources.</b>]]></text> 
+</component>
+
+<component id="ID_poptext8">
+  	<text><![CDATA[<b>Protects servers and desktops from the damaging effects of known and unknown threats.</b>]]></text> 
+</component>
+
+<component id="ID_poptext9">
+  	<text><![CDATA[<b>Provides device management for security appliances.</b>]]></text> 
+</component>
+
+
+
+</textcomponents>

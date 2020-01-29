@@ -1,0 +1,13 @@
+<textcomponents>
+
+<component id="ID_screen">
+<text><![CDATA[<font size='+2'>Welcome to SPAN Engineering<br/><br/>User Access Verification<br/>Password: cisco<br/>Password: cisco1<br/>Password: cisco12<br/>Password: cisco123</font>]]></text>
+</component>
+
+<component id="ID_titleText">
+<text><![CDATA[Virtual Login Security Tips:]]></text>
+</component>
+
+<component id="ID_bodyText">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Virtual Login Security Enhancements</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Implement delays between successive login attempts.</li><li>Enable login shutdown if DoS attacks are suspected.</li><li>Generate system logging messages for login detection.</li></ul></td></tr></table>]]></text></component>
+</textcomponents>

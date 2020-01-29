@@ -1,0 +1,59 @@
+<textcomponents>
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Arbor</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>Trigger</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b>Sinkhole</b>]]></text>
+</component>
+
+
+<component id="ID_ispa">
+	<text><![CDATA[<b>ISP A</b>]]></text>
+</component>
+
+<component id="ID_ispb">
+	<text><![CDATA[<b>ISP B</b>]]></text>
+</component>
+
+<component id="ID_netflow">
+	<text><![CDATA[<b>NetFlow Enabled Routers</b>]]></text>
+</component>
+
+
+<component id="ID_acl">
+	<text><![CDATA[<b>ACL Port Block</b>]]></text>
+</component>
+
+<component id="ID_ra">
+	<text><![CDATA[<b>Remote Access</b>]]></text>
+</component>
+
+<component id="ID_l3s">
+	<text><![CDATA[<b>Layer 3 Switch</b>]]></text>
+</component>
+
+
+<component id="ID_dc">
+	<text><![CDATA[<b>Data Center</b>]]></text>
+</component>
+
+<component id="ID_wg1">
+	<text><![CDATA[<b>Workgroup 1</b>]]></text>
+</component>
+
+<component id="ID_wg2">
+	<text><![CDATA[<b>Workgroup 2</b>]]></text>
+</component>
+
+<component id="ID_core">
+	<text><![CDATA[<b>Core</b>]]></text>
+</component>
+
+
+</textcomponents>

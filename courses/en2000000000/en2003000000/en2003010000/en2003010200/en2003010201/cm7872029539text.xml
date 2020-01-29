@@ -1,0 +1,88 @@
+<textcomponents>
+<!-- buttons -->
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Access Methods</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Local AAA</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[<b>Server-Based AAA</b>]]></text>
+</component>
+
+<!-- slide1 -->
+<component id="ID_sl1_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Access Type</font></td>
+		<td><font color='#FFFFFF'>Modes</font></td>
+		<td><font color='#FFFFFF'>Router Ports</font></td>
+		<td><font color='#FFFFFF'>Common AAA Commands</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Remote administrative access</td>
+		<td bgcolor='#DDDDDD'>Character Mode provides user and privelege EXEC access</td>
+		<td bgcolor='#DDDDDD'>console, vty, aux, and tty</td>
+		<td bgcolor='#DDDDDD'><font face='_typewriter'><b>login</b></font>, <font face='_typewriter'><b>exec</b></font>, and <font face='_typewriter'><b>enable</b></font> commands</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Remote network access</td>
+		<td bgcolor='#F2F2F2'>Packet Mode provides access to network resources</td>
+		<td bgcolor='#F2F2F2'>Dial-up and VPN access</td>
+		<td bgcolor='#F2F2F2'><font face='_typewriter'><b>ppp</b></font> and <font face='_typewriter'><b>network</b></font> commands</td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide2 -->
+<component id="ID_sl2_top01">
+<text><![CDATA[Remote Client]]></text>
+</component>
+
+<component id="ID_sl2_top02">
+<text><![CDATA[AAA Router]]></text>
+</component>
+
+<component id="ID_sl2_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>1. <textformat blockindent='15'>The client establishes a connection with the router.</textformat><br/>2. <textformat blockindent='15'>The AAA router prompts the user for a username and password.</textformat><br/>3. <textformat blockindent='15'>The router authenticates the username and password using the local database and the user is authorized to access the network based on information in the local database.</textformat></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide3 -->
+<component id="ID_sl3_top01">
+<text><![CDATA[Remote Client]]></text>
+</component>
+
+<component id="ID_sl3_top02">
+<text><![CDATA[AAA Router]]></text>
+</component>
+
+<component id="ID_sl3_top03">
+<text><![CDATA[Cisco Secure<br/>ACS Server]]></text>
+</component>
+
+<component id="ID_sl3_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>1. <textformat blockindent='15'>The client establishes a connection with the router.</textformat><br/>2. <textformat blockindent='15'>The AAA router prompts the user for a username and password.</textformat><br/>3. <textformat blockindent='15'>The router authenticates the username and password using a remote AAA server.</textformat><br/>4. <textformat blockindent='15'>The user is authorized to access the network based on information on the remote AAA Server.</textformat></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

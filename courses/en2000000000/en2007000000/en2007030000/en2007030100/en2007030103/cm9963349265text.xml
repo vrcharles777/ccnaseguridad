@@ -1,0 +1,45 @@
+<textcomponents>
+
+<component id="ID_header1">
+<text><![CDATA[Symmetric Encryption Algorithm]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[Key length (in bits)]]></text>
+</component>
+
+<component id="ID_header3">
+<text><![CDATA[Description]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' width='130'>DES</td>
+		<td bgcolor='#DDDDDD' width='150'>56</td>
+		<td bgcolor='#DDDDDD'>Designed at IBM during the 1970s and adopted as the NIST standard until 1997.<br/>Although considered outdated, DES remains widely in use.<br/>DES was designed to be implemented only in hardware, and is therefore extremely slow in software. </td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>3DES</td>
+		<td bgcolor='#F2F2F2'>112 and 168</td>
+		<td bgcolor='#F2F2F2'>Based on using DES three times which means that the input data is encrypted three times and therefore considered much stronger than DES.<br/>However, it is rather slow compared to some new block ciphers such as AES.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>AES</td>
+		<td bgcolor='#DDDDDD'>128, 192, and 256</td>
+		<td bgcolor='#DDDDDD'>AES is fast in both software and hardware, is relatively easy to implement, and requires little memory.<br/>As a new encryption standard, it is currently being deployed on a large scale.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Software Encryption Algorithm (SEAL)</td>
+		<td bgcolor='#F2F2F2'>160</td>
+		<td bgcolor='#F2F2F2'>SEAL is an alternative algorithm to DES, 3DES, and AES.<br/>It uses a 160-bit encryption key and has a lower impact to the CPU when compared to other software-based algorithms.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>The RC series</td>
+		<td bgcolor='#DDDDDD'>RC2 (40 and 64)<br/>RC4 (1 to 256)<br/>RC5 (0  to 2040)<br/>RC6 (128, 192, and 256)</td>
+		<td bgcolor='#DDDDDD'>RC algorithms are a set of symmetric-key encryption algorithms invented by Ron Rivest.<br/>RC1 was never published and RC3 was broken before ever being used.<br/>RC4 is the world's most widely used stream cipher.<br/>RC6, a 128-bit block cipher based heavily on RC5, was an AES finalist developed in 1997.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

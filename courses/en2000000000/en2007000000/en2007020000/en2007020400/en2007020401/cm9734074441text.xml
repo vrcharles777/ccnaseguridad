@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Key Generation</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Key Verification</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Key Storage</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Key Revocation and Destruction</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Key Exchange</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Key Management</b>]]></text>
+</component>
+
+</textcomponents>

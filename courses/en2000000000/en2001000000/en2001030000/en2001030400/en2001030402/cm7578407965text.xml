@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+  	<text><![CDATA[<b>Host A</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  	<text><![CDATA[<b>Router A</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  	<text><![CDATA[<b>Attacker</b>]]></text> 
+</component>
+
+<component id="ID_txt04">
+  	<text><![CDATA[<b>Router B</b>]]></text> 
+</component>
+
+<component id="ID_txt05">
+  	<text><![CDATA[<b>Host B</b>]]></text> 
+</component>
+
+  
+<component id="ID_table">
+  	<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>Techniques Available for Reconnaissance Attack Mitigation Include:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Implement authentication to ensure proper access.</li><li>Use encryption to render packet sniffer attacks useless.</li><li>Use anti-sniffer tools to detect packet sniffer attacks.</li><li>Implement a switched infrastructure.</li><li>Use a firewall and IPS.</li></ul></td></tr></table>]]></text> 
+</component>
+</textcomponents>

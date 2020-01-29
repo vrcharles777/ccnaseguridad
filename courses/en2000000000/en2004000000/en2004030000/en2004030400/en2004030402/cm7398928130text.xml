@@ -1,0 +1,21 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<ul><li>Enables the delivery of audit trail messages using syslog.</li></ul>]]></text>
+</component>
+
+<component id="ID_tip_text">
+<text><![CDATA[<b>If you telnet to the router you will not see console messages. To view console messages as they are displayed issue the terminal monitor command on the remote terminal. Issue the no form of this command to stop the display of console messages on the remote terminal.</b>]]></text>
+</component>
+
+<component id="ID_tip_title">
+	<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+<component id="ID_tip">
+	<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+
+
+</textcomponents>

@@ -1,0 +1,5 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>In this chapter, you will:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Secure the physical installation of and the administrative access to Cisco routers based on different network requirements using the CLI and SDM.</li><li>Configure administrative roles using privilege levels and role-based CLI.</li><li>Implement the management and reporting features of syslog, SNMP, SSH, and NTP.</li><li>Examine router configurations with the Security Audit feature of Cisco SDM, and make the router and network more secure by using the <font face="_typewriter"><b>auto secure</b></font> command or the One-Step Lockdown feature of Cisco SDM.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

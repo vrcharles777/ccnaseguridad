@@ -1,0 +1,49 @@
+﻿<teXtcomponents>
+<component id='tableHTML'>
+<teXt><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  <tr>
+    <td bgcolor='#BBE0E3'><font color="#FFFFFF"><b>Security Application</b></font></td>
+    <td bgcolor='#BBE0E3'><font color="#FFFFFF"><b>Network Interceptor</b></font></td>
+    <td bgcolor='#BBE0E3'><font color="#FFFFFF"><b>File System Interceptor</b></font></td>
+    <td bgcolor='#BBE0E3'><font color="#FFFFFF"><b>Configuration Interceptor</b></font></td>
+    <td bgcolor='#BBE0E3'><font color="#FFFFFF"><b>Execution Space Interceptor</b></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'>Distributed Firewall</td>
+    <td bgcolor='#F2F2F2'><p align='center'>X</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>N/A</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>N/A</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>N/A</p></td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD'>Host Intrusion Prevention</td>
+    <td bgcolor='#DDDDDD'><p align='center'>X</p></td>
+    <td bgcolor='#DDDDDD'><p align='center'>N/A</p></td>
+    <td bgcolor='#DDDDDD'><p align='center'>N/A</p></td>
+    <td bgcolor='#DDDDDD'><p align='center'>X</p></td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'>Application Sandbox</td>
+    <td bgcolor='#F2F2F2'><p align='center'>N/A</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>X</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>X</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>X</p></td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD'>Network Worm Prevention</td>
+    <td bgcolor='#DDDDDD'><p align='center'>X</p></td>
+    <td bgcolor='#DDDDDD'><p align='center'>N/A</p></td>
+    <td bgcolor='#DDDDDD'><p align='center'>N/A</p></td>
+    <td bgcolor='#DDDDDD'><p align='center'>X</p></td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'>File Integrity Monitor</td>
+    <td bgcolor='#F2F2F2'><p align='center'>N/A</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>X</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>X</p></td>
+    <td bgcolor='#F2F2F2'><p align='center'>N/A</p></td>
+  </tr>
+</table>]]></teXt>
+</component>
+</teXtcomponents>

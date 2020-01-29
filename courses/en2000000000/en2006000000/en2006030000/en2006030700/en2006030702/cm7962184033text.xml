@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[File Server]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[802.1Q Trunk]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Network Analyzer]]></text>
+</component>
+
+</textcomponents>

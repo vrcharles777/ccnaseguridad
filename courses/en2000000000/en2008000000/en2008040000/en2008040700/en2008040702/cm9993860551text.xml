@@ -1,0 +1,49 @@
+﻿<textcomponents>
+<component id="ID_inst">
+  <text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text> 
+  </component>
+<component id="ID_txt01">
+  <text><![CDATA[<ul><li>Displays the currently configured crypto maps.</li></ul>]]></text> 
+  </component>
+<component id="ID_txt02">
+  <text><![CDATA[<ul><li>Displays the currently defined transform sets.</li></ul>]]></text> 
+  </component>
+<component id="ID_button1">
+  <text><![CDATA[<font face='_typewriter'><b>show crypto map</b></font>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<font face='_typewriter'><b>show crypto isakmp policy</b></font>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<font face='_typewriter'><b>show crypto ipsec transform-set</b></font>]]></text> 
+</component>
+<component id="ID_top01">
+<text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+<component id="ID_top02">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+  </component>
+<component id="ID_top03">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+
+<component id="ID_top011">
+<text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+<component id="ID_top021">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+  </component>
+<component id="ID_top031">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+
+<component id="ID_top012">
+<text><![CDATA[<b>Site 1</b>]]></text>
+</component>
+<component id="ID_top022">
+  <text><![CDATA[<b>Site 2</b>]]></text> 
+  </component>
+<component id="ID_top032">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+  </component>
+</textcomponents>

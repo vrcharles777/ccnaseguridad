@@ -1,0 +1,39 @@
+<textcomponents>
+
+<component id="ID_title">
+	<text><![CDATA[<b><font size='+2'>Cisco Security Agent</font></b>]]></text>
+</component>
+
+
+<component id="ID_txt01">
+	<text><![CDATA[<b>Administration Workstation</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+	<text><![CDATA[<b>Server Protected by Cisco Security Agent</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+	<text><![CDATA[<b>Management Center for Cisco Security Agent with Internal or External Database</b>]]></text>
+</component>
+
+
+<component id="ID_box01">
+	<text><![CDATA[<b>SSL</b>]]></text>
+</component>
+
+<component id="ID_box02">
+	<text><![CDATA[<b>Alerts</b>]]></text>
+</component>
+
+<component id="ID_box03">
+	<text><![CDATA[<b>Events</b>]]></text>
+</component>
+
+<component id="ID_box04">
+	<text><![CDATA[<b>Security Policy</b>]]></text>
+</component>
+
+
+
+</textcomponents>

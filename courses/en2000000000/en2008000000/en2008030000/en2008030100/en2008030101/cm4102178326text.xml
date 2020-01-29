@@ -1,0 +1,230 @@
+<textcomponents>
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_button1">
+<text><![CDATA[IPsec Topology]]></text>
+</component>
+
+<component id="ID_button2">
+<text><![CDATA[IPsec Framework]]></text>
+</component>
+
+<component id="ID_button3">
+<text><![CDATA[IPsec Implementation]]></text>
+</component>
+
+<!-- slide 1 -->
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>Business Partner with a Cisco Router</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>Regional Office with a Cisco PIX Firewall</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>SOHO with a Cisco DSL Router</b>]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>Mobile Worker with a Cisco VPN Client on a Laptop Computer</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>Corporate</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Legacy Cisco PIX Firewall</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>Edge Router</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>Main Site</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>IPsec</b>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>POP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[<b>ASA</b>]]></text>
+</component>
+
+<component id="ID_S1_txt12">
+<text><![CDATA[<b>Legacy Concentrator</b>]]></text>
+</component>
+
+<component id="ID_S1_bullets01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>IPsec works at the network layer, protecting and authenticating IP packets.<ul><li>It is a framework of open standards which is algorithm-independent.</li><li>It provides data confidentiality, data integrity, and origin authentication.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+
+<component id="ID_S2_txt01">
+<text><![CDATA[<b>IPsec Framework</b>]]></text>
+</component>
+
+<component id="ID_S2_txt02">
+<text><![CDATA[<b>IPsec Protocol</b>]]></text>
+</component>
+
+<component id="ID_S2_txt03">
+<text><![CDATA[<b>Confidentiality</b>]]></text>
+</component>
+
+<component id="ID_S2_txt04">
+<text><![CDATA[<b>Integrity</b>]]></text>
+</component>
+
+<component id="ID_S2_txt05">
+<text><![CDATA[<b>Authentication</b>]]></text>
+</component>
+
+<component id="ID_S2_txt06">
+<text><![CDATA[<b>Diffie-Hellman</b>]]></text>
+</component>
+
+<component id="ID_S2_txt07">
+<text><![CDATA[<b>Choices</b>]]></text>
+</component>
+
+<component id="ID_S2_txt08">
+<text><![CDATA[<b>AH</b>]]></text>
+</component>
+
+<component id="ID_S2_txt09">
+<text><![CDATA[<b>ESP</b>]]></text>
+</component>
+
+<component id="ID_S2_txt10">
+<text><![CDATA[<b>ESP <br/>+ AH</b>]]></text>
+</component>
+
+<component id="ID_S2_txt11">
+<text><![CDATA[<b>DES</b>]]></text>
+</component>
+
+<component id="ID_S2_txt12">
+<text><![CDATA[<b>3<br />DES</b>]]></text>
+</component>
+
+<component id="ID_S2_txt13">
+<text><![CDATA[<b>AES</b>]]></text>
+</component>
+
+<component id="ID_S2_txt14">
+<text><![CDATA[<b>SEAL</b>]]></text>
+</component>
+
+<component id="ID_S2_txt15">
+<text><![CDATA[<b>MD5</b>]]></text>
+</component>
+
+<component id="ID_S2_txt16">
+<text><![CDATA[<b>SHA</b>]]></text>
+</component>
+
+<component id="ID_S2_txt17">
+<text><![CDATA[<b>PSK</b>]]></text>
+</component>
+
+<component id="ID_S2_txt18">
+<text><![CDATA[<b>RSA</b>]]></text>
+</component>
+
+<component id="ID_S2_txt19">
+<text><![CDATA[<b>DH1</b>]]></text>
+</component>
+
+<component id="ID_S2_txt20">
+<text><![CDATA[<b>DH2</b>]]></text>
+</component>
+
+<component id="ID_S2_txt21">
+<text><![CDATA[<b>DH5</b>]]></text>
+</component>
+
+<component id="ID_S2_txt22">
+<text><![CDATA[<b>DH7</b>]]></text>
+</component>
+
+<!-- slide 3 -->
+
+<component id="ID_S3_txt01a">
+<text><![CDATA[<b>IPsec Protocol</b>]]></text>
+</component>
+
+<component id="ID_S3_txt02a">
+<text><![CDATA[<b>Confidentiality</b>]]></text>
+</component>
+
+<component id="ID_S3_txt03a">
+<text><![CDATA[<b>Integrity</b>]]></text>
+</component>
+
+<component id="ID_S3_txt04a">
+<text><![CDATA[<b>Authentication</b>]]></text>
+</component>
+
+<component id="ID_S3_txt05a">
+<text><![CDATA[<b>Diffie-Hellman</b>]]></text>
+</component>
+
+<component id="ID_S3_txt01b">
+<text><![CDATA[<b>AH</b>]]></text>
+</component>
+
+<component id="ID_S3_txt02b">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_S3_txt03b">
+<text><![CDATA[<b>SHA</b>]]></text>
+</component>
+
+<component id="ID_S3_txt04b">
+<text><![CDATA[<b>PSK</b>]]></text>
+</component>
+
+<component id="ID_S3_txt05b">
+<text><![CDATA[<b>DH2</b>]]></text>
+</component>
+
+<component id="ID_S3_txt01c">
+<text><![CDATA[<b>ESP<br/>+<br/>AH</b>]]></text>
+</component>
+
+<component id="ID_S3_txt02c">
+<text><![CDATA[<b>DES</b>]]></text>
+</component>
+
+<component id="ID_S3_txt03c">
+<text><![CDATA[<b>SHA</b>]]></text>
+</component>
+
+<component id="ID_S3_txt04c">
+<text><![CDATA[<b>RSA</b>]]></text>
+</component>
+
+<component id="ID_S3_txt05c">
+<text><![CDATA[<b>DH2</b>]]></text>
+</component>
+</textcomponents>

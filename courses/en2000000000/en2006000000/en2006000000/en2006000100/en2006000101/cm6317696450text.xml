@@ -1,0 +1,5 @@
+<textcomponents>
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>In this chapter, you will:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Describe endpoint security with IronPort.</li><li>Describe endpoint security with Network Admission Control.</li><li>Describe endpoint security with Cisco Security Agent.</li><li>Describe MAC address spoofing attacks, STP manipulation attacks, MAC address overflow attacks, LAN storm attacks, and VLAN attacks.</li><li>Describe specific mitigation techniques for Layer 2 attacks.</li><li>Configure port security, BPDU guard, root guard, storm control, SPAN, and RSPAN.</li><li>Describe wireless, VoIP, and SAN security considerations.</li><li>Describe wireless, VoIP, and SAN security solutions.</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

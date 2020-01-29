@@ -1,0 +1,31 @@
+<textcomponents>
+
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr>
+  <td width="136" valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#ffffff">Parameter</font></b></td>
+  <td valign='top' glow='false' glowcolor='#FCA92E' type='dynamic'><b><font color="#ffffff">Description</font></b></td>
+</tr><tr>
+    <td bgcolor='#F2F2F2'><font face="_typewriter"><i>inspection-name</i></font></td>
+    <td bgcolor='#F2F2F2'>Names the set of inspection rules. If you want to add a protocol to an existing set of rules, use the same inspection name for the rules.</td>
+</tr>
+  <tr>
+    <td bgcolor='#DDDDDD'><font face="_typewriter"><i>protocol</i></font></td>
+    <td bgcolor='#DDDDDD'>The protocol to inspect.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'><font face="_typewriter"><b>alert {on | off}</b></font></td>
+    <td bgcolor='#F2F2F2'>(Optional) For each inspected protocol, the generation of alert messages can be set to on or off. If no option is selected, alerts are generated based on the setting of the <font face="_typewriter"><b>ip inspect alert-off</b></font> command.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD'><font face="_typewriter"><b>audit-trail {on | off}</b></font></td>
+    <td bgcolor='#DDDDDD'>(Optional) For each inspected protocol, the <font face="_typewriter"><b>audit-trail</b></font> option can be set to on or off. If no option is selected, <font face="_typewriter"><b>audit trail</b></font> messages are generated based on the setting of the <font face="_typewriter"><b>ip inspect audit-trail</b></font> command.</td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'><font face="_typewriter"><b>timeout</b> <i>seconds</i></font></td>
+    <td bgcolor='#F2F2F2'>(Optional) Specify the number of seconds for a different idle timeout to override the global TCP or UDP idle timeouts for the specified protocol. This timeout overrides the global TCP and UDP timeouts but does not override the global Domain Name Service (DNS) timeout.</td>
+  </tr>
+</table>]]></text> 
+  </component>
+
+</textcomponents>

@@ -1,0 +1,105 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+
+<!---slide 1---->
+<component id="ID_s1_txt01">
+<text><![CDATA[<b>Remote Worker</b>]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[<b>Remote Branch</b>]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[<b>VPN</b>]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[<b>CSA</b>]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[<b>IronPort</b>]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[<b>Web Server</b>]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[<b>Email Server</b>]]></text>
+</component>
+
+<component id="ID_s1_txt14">
+<text><![CDATA[<b>DNS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt15">
+<text><![CDATA[<b>Firewall</b>]]></text>
+</component>
+
+<component id="ID_s1_txt16">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt17">
+<text><![CDATA[<b>MARS</b>]]></text>
+</component>
+
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><ul><li>Network-based IPS is implemented inline while IDS is implemented offline.</li><br/><li>Implement network-based IPS and host-based IPS to secure the network from fast-moving Internet worms and viruses.</li></ul></font>]]></text>
+</component>
+
+
+
+
+
+<component id="slide02">
+<text><![CDATA[<font size="14"><ul><li>Signatures are similar to anti-virus .dat files because they provide an IPS with a list of identified problems.</li><br/><li>The IPS signatures are configured to use various triggers and actions.</li><br/><li>Signatures may need to be tuned to a specific network.</li><br/><li>Continuously monitor an IPS solution to ensure that it is providing an adequate level of protection.</li></ul></font]]></text>
+</component>
+
+
+
+
+<component id="slide03">
+<text><![CDATA[<font size="14"><ul><li>Implement Cisco IOS IPS using CLI or SDM.</li><br/><li>Modify IPS signatures using CLI or SDM.</li></ul></font>]]></text>
+</component>
+
+
+
+
+<component id="slide04">
+<text><![CDATA[<font size="14"><ul><li>Use various CLI commands to verify and monitor a Cisco IOS IPS configuration.</li></ul></font]]></text>
+</component>
+
+
+</textcomponents>

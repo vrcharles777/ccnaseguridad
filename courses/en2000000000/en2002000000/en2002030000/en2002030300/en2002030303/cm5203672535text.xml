@@ -1,0 +1,112 @@
+<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Public Web Server<BR/>10.2.2.3]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Mail Server<BR/>10.2.2.4]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[Admin Server<BR/>10.2.2.5]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[Syslog Client]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[Protected LAN<BR/>10.2.3.0/24]]></text> 
+  </component>
+<component id="ID_txt06">
+	<text><![CDATA[Syslog Server (Log Host)<BR/>10.2.2.6]]></text>
+</component>
+<component id="ID_txt07">
+	<text><![CDATA[User<BR/>10.2.3.3]]></text>
+</component>
+<component id="ID_txt08">
+	<text><![CDATA[DMZ LAN 10.2.2.0/24]]></text>
+</component>
+<component id="ID_txt09">
+	<text><![CDATA[FTP/Web Server 10.2.3.2]]></text>
+</component>
+
+<component id="ID_button1">
+  <text><![CDATA[<b>Set Host</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Set Level</b>]]></text> 
+</component>
+<component id="ID_button3">
+  <text><![CDATA[<b>Set Interface</b>]]></text> 
+</component>
+<component id="ID_button4">
+  <text><![CDATA[<b>Enable Logging</b>]]></text> 
+</component>
+<component id="ID_button5">
+  <text><![CDATA[<b>Sample Config</b>]]></text> 
+</component>
+<component id="ID_table01">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Parameter</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Description</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>host-name</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The name of the host you want to use as a syslog server.</td>
+			
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>ip-address</i></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The IP address of the host you want to use as a syslog server.</td>
+			
+	</tr>	
+</table>
+]]></text> 
+  </component>
+
+<component id="ID_table02">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Parameter</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Description</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>level</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>Limits the logging of messages to the syslog servers to a specified level and lower. You can enter the level number (0 to 7) or level name.</td>
+			
+</tr>
+	
+</table>
+]]></text> 
+  </component>
+
+
+<component id="ID_table03">
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+	<tr>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Parameter</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Description</b></font></td>
+</tr>
+<tr>
+<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>interface-type</i></font></td>
+		<td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The interface type (for example, FastEthernet)</td>
+			
+</tr>
+<tr>
+<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font face='_typewriter'><i>interface-number</i></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>The interface number (for example, 0/1)</td>
+			
+	</tr>	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

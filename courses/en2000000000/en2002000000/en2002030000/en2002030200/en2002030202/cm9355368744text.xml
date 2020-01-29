@@ -1,0 +1,51 @@
+﻿<textcomponents>
+<component id="ID_instructions">
+  <text><![CDATA[Roll over the highlighted areas for more information.]]></text> 
+</component>
+
+<component id="ID_rollover01">
+  <text><![CDATA[This segment contains the management hosts themselves and the Cisco IOS routers that act as terminal servers.]]></text> 
+</component>
+<component id="ID_rollover02">
+  <text><![CDATA[This segment connects to all of the devices that require management.]]></text> 
+</component>
+<component id="ID_rollover03">
+  <text><![CDATA[Cisco IOS router that acts as a firewall and a virtual private network (VPN) termination device separating the two network segments.]]></text> 
+</component>
+<component id="ID_txt01">
+  <text><![CDATA[SNMP Server]]></text> 
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[Cisco Security MARS]]></text> 
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[Access Control Server]]></text> 
+</component>
+<component id="ID_txt04">
+  <text><![CDATA[System Administrator]]></text> 
+</component>
+<component id="ID_txt05">
+  <text><![CDATA[Protected Management Network (Behind Firewall)]]></text> 
+</component>
+<component id="ID_txt06">
+  <text><![CDATA[Cisco IOS Firewall with VPN]]></text> 
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[Terminal server]]></text> 
+</component>
+<component id="ID_txt08">
+  <text><![CDATA[To All Device Console Ports]]></text> 
+</component>
+<component id="ID_txt09">
+  <text><![CDATA[Production Network]]></text> 
+</component>
+<component id="ID_txt10">
+  <text><![CDATA[Private VLANs]]></text> 
+</component>
+<component id="ID_txt11">
+  <text><![CDATA[Configuration and Management traffic sent to/from devices via the console port is OOB Configuration Management.]]></text> 
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[Configuration and Management traffic sent to/from devices via an Ethernet connection is in-band configuration Management. Stateful Packet Filtering and encryption is required.]]></text> 
+</component>
+</textcomponents>

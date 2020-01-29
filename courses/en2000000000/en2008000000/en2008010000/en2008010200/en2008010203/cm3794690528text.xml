@@ -1,0 +1,75 @@
+<textcomponents>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>VPN</b>]]></text> 
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[<b>Remote-Access VPNs</b>]]></text> 
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[<b>Mobile Worker with a Cisco VPN Client</b>]]></text> 
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[<b>Firewall</b>]]></text> 
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[<b>IPS</b>]]></text> 
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[<b>MARS</b>]]></text> 
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[<b>IronPort</b>]]></text> 
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[<b>Web Server</b>]]></text> 
+</component>
+
+<component id="ID_txt17">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt18">
+<text><![CDATA[<b>Email Server</b>]]></text> 
+</component>
+
+<component id="ID_txt19">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt20">
+<text><![CDATA[<b>DNS</b>]]></text> 
+</component>
+
+<component id="ID_txt21">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt22">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt23">
+<text><![CDATA[<b>CSA</b>]]></text> 
+</component>
+
+<component id="ID_txt24">
+<text><![CDATA[<b>CSA<br/>Management</b>]]></text> 
+</component>
+
+</textcomponents>

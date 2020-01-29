@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>A warning message appears when CSA detects a problem.</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>CSA maintains a log file allowing the user to verify problems and learn more information.</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>A waving flag in the system tray indicates a potential security problem.</b>]]></text>
+</component>
+
+</textcomponents>

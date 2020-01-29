@@ -1,0 +1,18 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>ALE = SLE *ARO</b>]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Quantitative Risk Analysis Formula</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>ARO represents the estimated frequency that a threat is expected to occur.</li><li>ALE is the expected financial loss that an individual threat will cause an organization. It is a monetary value derived from the formula SLE * ARO.</li><li>ALE is the number used to justify the least-cost security measures.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

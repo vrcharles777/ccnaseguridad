@@ -1,0 +1,24 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+  <text><![CDATA[<b>Copy the Signature</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+  <text><![CDATA[<b>Verify the Signature</b>]]></text> 
+</component>
+
+<component id="ID_bullets1">
+<text><![CDATA[<textformat blockindent='14'>Copy the signatures from the FTP server.</textformat></textformat>]]></text>
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<font face="_typewriter"><b>&lt;Output omitted&gt;</b></font>]]></text> 
+</component>
+
+  
+</textcomponents>

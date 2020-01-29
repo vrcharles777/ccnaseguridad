@@ -1,0 +1,20 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+  
+<component id="ID_btn2">
+   <text><![CDATA[List Type]]></text> 
+</component>
+  
+<component id="ID_btn3">
+   <text><![CDATA[Method List]]></text> 
+</component>
+  
+<component id="ID_btn4">
+   <text><![CDATA[Sample Config]]></text> 
+</component>
+
+
+</textcomponents>

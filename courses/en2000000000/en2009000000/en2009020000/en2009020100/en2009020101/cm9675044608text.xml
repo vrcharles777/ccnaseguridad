@@ -1,0 +1,45 @@
+<textcomponents>
+
+<component id="ID_title">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Permit HTTP Only</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Web Server</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Permit HTTP Only</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Deny All</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Inside</b>]]></text>
+</component>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>Least Privilege Concept</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>Inside and outside users only need access to the web server program on the exposed host.</li><li>The web server does not need to open any connections to the inside or outside.</li><li>The firewall enforces those minimal permissions.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+
+
+
+</textcomponents>

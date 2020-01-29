@@ -1,0 +1,51 @@
+﻿<textcomponents>
+
+<!-- slide 1-->
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Step 1</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Step 2</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Step 3</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Step 4</b>]]></text> 
+  </component>
+
+<component id="ID_textTitle01">
+<text><![CDATA[Step 1]]></text>
+</component>
+
+<component id="ID_textTitle02">
+<text><![CDATA[Step 2]]></text>
+</component>
+
+<component id="ID_textTitle03">
+<text><![CDATA[Step 3]]></text>
+</component>
+
+<component id="ID_textTitle04">
+<text><![CDATA[Step 4]]></text>
+</component>
+
+
+<component id="ID_textBody01">
+  <text><![CDATA[Creates a login name and password for authentication.]]></text> 
+  </component>
+<component id="ID_textBody02">
+  <text><![CDATA[Allows the user to open a Telnet connection to the router. The dynamic ACL entry is ignored until lock-and-key is triggered. The window will be opened for 15 minutes and then automatically close whether it is being used or not.]]></text> 
+  </component>
+<component id="ID_textBody03">
+  <text><![CDATA[Applies ACL 101 to interface S0/0/1.]]></text> 
+  </component>
+<component id="ID_textBody04">
+  <text><![CDATA[Once the user is authenticated using Telnet, the <font face="_typewriter"><b>autocommand</b></font> command executes and the Telnet session terminates. The user can now access network 192.168.30.0. If there is up to 5 minutes of inactivity, the window will close.]]></text> 
+  </component>
+<component id="ID_inst">
+  <text><![CDATA[Roll over each step for more information.]]></text> 
+  </component>
+
+</textcomponents>

@@ -1,0 +1,106 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click each button to view VoIP components and protocols.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[VoIP Components]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[Protocols used by VoIP]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_s1_txt01">
+<text><![CDATA[Cisco Unified Communications Manager (Call Agent)]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[MCU]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Cisco Unity]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[IP Phone]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[IP Phone]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[Videoconference Station]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[PSTN]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[IP Backbone]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[Router/<br/>Gateway]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[Router/<br/>Gateway]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[Router/<br/>Gateway]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[PBX]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_s2_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td width='200'><font color='#FFFFFF'>VoIP Protocol</font></td>
+		<td><font color='#FFFFFF'>Description</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>H.323</td>
+		<td bgcolor='#DDDDDD'>ITU standard protocol for interactive conferencing; evolved from H.320 ISDN standard; flexible, complex</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>MGCP</td>
+		<td bgcolor='#F2F2F2'>Emerging IETF standard for PSTN gateway control; thin device control</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>Megaco/H.248</td>
+		<td bgcolor='#DDDDDD'>Joint IETF and ITU standard for gateway control with support for multiple gateway types; evolved from MGCP standard</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>SIP</td>
+		<td bgcolor='#F2F2F2'>IETF protocol for interactive and noninteractive conferencing; simpler but less mature than H.323</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>RTP</td>
+		<td bgcolor='#DDDDDD'>IETF standard media-streaming protocol</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>RTCP</td>
+		<td bgcolor='#F2F2F2'>IETF protocol that provides out-of-band control information for an RTP flow</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>SRTP</td>
+		<td bgcolor='#DDDDDD'>IETF protocol that encrypts RTP traffic as it leaves the voice device</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>SCCP</td>
+		<td bgcolor='#F2F2F2'>Cisco proprietary protocol used between Cisco Unified Communications Manager and Cisco IP phones</td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

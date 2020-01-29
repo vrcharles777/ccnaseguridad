@@ -1,0 +1,60 @@
+<textcomponents>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+  	<tr><td colspan = '8'><b><font color = '#FFFFFF' size='+2'>Worm and Virus – Exploit Comparison (~20 Yrs)</font></b></td></tr>
+	<tr><td bgcolor='#B4DAFE'></td>
+  <td bgcolor='#B4DAFE'>Morris<br/>1988</td>
+  <td bgcolor='#B4DAFE'>Love Bug<br/>2000</td>
+  <td bgcolor='#B4DAFE'>Code Red<br/>2001</td>
+  <td bgcolor='#B4DAFE'>Slammer<br/>2003</td>
+  <td bgcolor='#B4DAFE'>MyDoom<br/>2004</td>
+  <td bgcolor='#B4DAFE'>Zotob<br/>2005</td>
+  <td bgcolor='#B4DAFE'>MS RPC DNS 0day<br/>2007</td></tr>
+    <tr><td bgcolor='#B4DAFE'>Probe</td>
+  <td><font size = '-2'>Scans for finger</font></td>
+  <td><font size = '-2'>N/A</font></td>
+  <td><font size = '-2'>Scans for IIS</font></td>
+  <td><font size = '-2'>N/A</font></td><td><font size = '-2'>N/A</font></td>
+  <td><font size = '-2'>Scans for MS directory services</font></td>
+  <td><font size = '-2'>Scans for endpoint Mapper query</font></td></tr>
+    <tr><td bgcolor='#B4DAFE'>Penetrate</td><td><font size='-2'>Causes buffer overflow in fingerd</font></td>
+  <td><font size='-2'>Arrives as email attachment</font></td>
+  <td><font size='-2'>Causes buffer overflow in IIS</font></td>
+  <td><font size='-2'>Causes buffer overflow in SQL and MSDE</font></td>
+  <td><font size='-2'>Arrives as email attachment</font></td>
+  <td><font size='-2'>Causes buffer overflow in UPnP service</font></td>
+  <td><font size='-2'>Causes buffer overflow in RPC service</font></td>
+  </tr>
+    <tr><td bgcolor='#B4DAFE'>Persist</td><td><font size='-2'>Executes script to download code</font></td>
+  <td><font size='-2'>Creates executables and edits the registry</font></td>
+  <td><font size='-2'>Executes script to download code</font></td>
+  <td><font size='-2'>N/A</font></td>
+  <td><font size='-2'>Creates executables and edits the registry</font></td>
+  <td><font size='-2'>Creates executables and edits the registry, download code</font></td>
+  <td><font size='-2'>Executes payload to download code</font></td>
+  </tr>
+    <tr><td bgcolor='#B4DAFE'>Propagate</td><td><font size='-2'>Looks for addresses and spreads to new victims</font></td>
+  <td><font size='-2'>Opens address book and emails copies of itself to new victims</font></td>
+  <td><font size='-2'>Picks new addresses and spreads to new victims</font></td>
+  <td><font size='-2'>Picks new addresses and spreads to new victims</font></td>
+  <td><font size='-2'>Opens address book and email copies of itself to new victims</font></td>
+  <td><font size='-2'>Starts FTP and TFTP services, looks for addresses and spreads to new victims</font></td>
+  <td><font size='-2'>Looks for addresses and spreads to new victims</font></td>
+  </tr>
+    <tr><td bgcolor='#B4DAFE'>Paralyze</td><td><font size='-2'>Spawns many processes which slow the system</font></td>
+    <td><font size='-2'>Worm spreads</font></td>
+    <td><font size='-2'>Spawns many threads which slow the system</font></td>
+    <td><font size='-2'>Generates manay packets which slows the network</font></td>
+    <td><font size='-2'>Worm spreads</font></td>
+    <td><font size='-2'>Deletes registry keys and files, and terminates processes</font></td>
+    <td><font size='-2'>Worm spreads
+    </font></td>
+  </tr></table>]]></text> 
+</component>
+
+<component id="ID_title">
+  <text><![CDATA[<b>Worm and Virus – Exploit Comparison (~20 Yrs)</b>]]></text> 
+</component>
+
+</textcomponents>

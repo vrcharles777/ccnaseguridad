@@ -1,0 +1,14 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[Enter the parameter <b>–Xmx256m</b>]]></text>
+</component>
+<component id="ID_btn1">
+  <text><![CDATA[<b>Configure Intrusion Prevention</b>]]></text> 
+  </component>
+<component id="ID_btn2">
+  <text><![CDATA[<b>Alter Java Settings</b>]]></text> 
+  </component>
+<component id="id_caption">
+    <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+  </component>
+</textcomponents>

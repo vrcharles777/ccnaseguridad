@@ -1,0 +1,11 @@
+<textcomponents>
+<component id="ID_Job1">
+  <text><![CDATA[<b>Customer</b>]]></text>
+</component>
+<component id="ID_Job2">
+  <text><![CDATA[<b>Employee</b>]]></text> 
+</component>
+<component id="ID_Job3">
+  <text><![CDATA[<b>Partner</b>]]></text> 
+</component>
+</textcomponents>

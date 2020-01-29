@@ -1,0 +1,24 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Cisco Adaptive Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cisco Adaptive Security Appliance</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>WAN</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Internet</b>]]></text>
+</component>
+
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Ensure SIP, SCCP, H.323, and MGCP requests conform to standards</li><li>Prevent inappropriate SIP methods from being sent to Cisco Unified Communications Manager</li><li>Rate limit SIP requests</li><li>Enforce policy of calls (whitelist, blacklist, caller/called party, SIP URI)</li><li>Dynamically open ports for Cisco applications</li><li>Enable only “registered phones” to make calls</li><li>Enable inspection of encrypted phone calls</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+</textcomponents>

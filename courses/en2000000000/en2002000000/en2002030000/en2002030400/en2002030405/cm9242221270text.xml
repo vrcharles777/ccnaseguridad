@@ -1,0 +1,8 @@
+<textcomponents>
+
+<!-- There is no text for this media -->
+<component id="ID_name">
+<text><![CDATA[Text goes here.]]></text>
+</component>
+
+</textcomponents>

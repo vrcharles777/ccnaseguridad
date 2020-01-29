@@ -1,0 +1,90 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[SDM]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[IDM]]></text>
+</component>
+
+<component id="ID_btn3">
+<text><![CDATA[IEV]]></text>
+</component>
+
+<component id="ID_btn4">
+<text><![CDATA[CSM]]></text>
+</component>
+
+<component id="ID_btn5">
+<text><![CDATA[MARS]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Locally Managed</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Centrally Managed </b>]]></text>
+</component>
+
+<component id="ID_bullets1">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>Cisco Router and Security Device Manager (SDM)</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Cisco IOS IPS monitors and prevents intrusions by comparing traffic against signatures of known threats and blocking the traffic when a threat is detected.</li><li>Cisco SDM allows administrators to control the application of Cisco IOS IPS on interfaces, import and edit signature definition files (SDF) from Cisco.com, and to configure the action that Cisco IOS IPS is to take if a threat is detected.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_bullets2">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>Cisco IPS Device Manager (IDM)</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Cisco IDM is a web-based configuration tool for network IPS appliances.</li><li>It is shipped at no additional cost with the Cisco IPS Sensor Software.</li><li>IDM is a web-based, Java application that enables an administrator to configure and manage a sensor.</li><li>The web server for IDM resides on the sensor and can be accessed through a web browser.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_bullets3">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>Cisco IPS Event Viewer (IEV)</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Cisco IEV is a Java-based application that enables administrators to view and manage alarms for up to five sensors.</li><li>With Cisco IEV, administrators can connect to and view alarms in real time or in imported log files.</li><li>Administrators can configure filters and views to manage the alarms.</li><li>Administrators can also import and export event data for further analysis.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_bullets4">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>Cisco Security Manager (CSM)</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Cisco Security Manager is a powerful, but very easy-to-use solution to centrally provision all aspects of device configurations and security policies for Cisco firewalls, VPNs, and IPS.</li><li>Provides support for IPS sensors and Cisco IOS IPS.</li><li>Supports automatic policy-based IPS sensor software and signature updates.</li><li>Includes a signature update wizard allowing easy review and editing prior to deployment.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_bullets5">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'><b>Cisco Security Monitoring, Analysis, and Response System (MARS)</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>Cisco Security MARS is an appliance-based, all-inclusive solution that allows network and security administrators to monitor, identify, isolate, and counter security threats.</li><li>This family of high-performance appliances enables organizations to more effectively use their network and security resources.</li><li>Works in conjunction with Cisco CSM.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

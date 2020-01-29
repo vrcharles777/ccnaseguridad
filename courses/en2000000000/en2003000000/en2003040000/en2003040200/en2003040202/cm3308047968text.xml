@@ -1,0 +1,15 @@
+<textcomponents>
+
+<component id="ID_tip_title">
+	<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+<component id="ID_tip">
+	<text><![CDATA[<b>Tip</b>]]></text>
+</component>
+
+<component id="ID_tip_text">
+	<text><![CDATA[<b>The default login policy does not apply to Cisco SDM.</b>]]></text>
+</component>
+
+</textcomponents>

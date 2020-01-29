@@ -1,0 +1,11 @@
+﻿<textcomponents>
+<component id="ID_button1">
+  <text><![CDATA[<b>Subnet to Subnet</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>Custom ACL</b>]]></text> 
+</component>
+<component id="ID_inst">
+   <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+ </component>
+</textcomponents>

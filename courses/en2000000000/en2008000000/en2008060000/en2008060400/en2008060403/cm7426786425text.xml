@@ -1,0 +1,35 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Initiate IKE Phase 1</b>]]></text>
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Establish ISAKMP SA</b>]]></text> 
+  </component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Accept Proposal1</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Username/Password Challenge</b>]]></text> 
+  </component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>System Parameters Pushed</b>]]></text> 
+  </component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Reverse Route Injection (RRI) adds a static route entry on the router for the remote clients IP address</b>]]></text> 
+  </component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>Initiate IKE Phase 2: IPsec</b>]]></text> 
+  </component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>IPsec SA</b>]]></text> 
+  </component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>PC with Cisco Easy VPN Remote Client</b>]]></text> 
+  </component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>Cisco IOS software Easy VPN Server</b>]]></text> 
+  </component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>Username/Password</b>]]></text> 
+  </component>
+</textcomponents>

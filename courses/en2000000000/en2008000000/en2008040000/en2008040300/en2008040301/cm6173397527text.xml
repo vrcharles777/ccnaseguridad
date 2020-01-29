@@ -1,0 +1,93 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b><font face='_typewriter'>crypto isakmp policy </font>Command</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>ISAKMP Parameters</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_txt01">
+<text><![CDATA[Site 1]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Site 2]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Policy 110<br/>DES<br/>MD5<br/>Preshare<br/>86400<br/>DH1]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Tunnel]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Defines the parameters within the IKE policy
+]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_s2_table">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#c0c0c0' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td colspan='5'><font color='#FFFFFF'>ISAKMP Parameters</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#B4DAFE' width='100'>Parameter</td>
+		<td bgcolor='#B4DAFE' width='100'>Keyword </td>
+		<td bgcolor='#B4DAFE'>Accepted Values</td>
+		<td bgcolor='#B4DAFE' width='100'>Default Value</td>
+		<td bgcolor='#B4DAFE'>Description</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>encryption</td>
+		<td bgcolor='#F2F2F2'>des<br/>3des<br/>aes<br/>aes 192<br/>aes 256</td>
+		<td bgcolor='#F2F2F2'>56-bit Data Encryption Standard <br/>Triple DES<br/>128-bit AES<br/>192-bit AES<br/>256-bit AES</td>
+		<td bgcolor='#F2F2F2'>des</td>
+		<td bgcolor='#F2F2F2'>Message encryption algorithm</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>hash</td>
+		<td bgcolor='#DDDDDD'>sha<br/>md5</td>
+		<td bgcolor='#DDDDDD'>SHA-1 (HMAC variant)<br/>MD5 (HMAC variant)</td>
+		<td bgcolor='#DDDDDD'>sha</td>
+		<td bgcolor='#DDDDDD'>Message integrity (Hash) algorithm</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>authentication</td>
+		<td bgcolor='#F2F2F2'>pre-share<br/>rsa-encr<br/>rsa-sig</td>
+		<td bgcolor='#F2F2F2'>preshared keys<br/>RSA encrypted nonces<br/>RSA signatures</td>
+		<td bgcolor='#F2F2F2'>rsa-sig</td>
+		<td bgcolor='#F2F2F2'>Peer authentication method</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'>group</td>
+		<td bgcolor='#DDDDDD'>1<br/>2<br/>5</td>
+		<td bgcolor='#DDDDDD'>768-bit Diffie-Hellman (DH)<br/>1024-bit DH<br/>1536-bit DH</td>
+		<td bgcolor='#DDDDDD'>1</td>
+		<td bgcolor='#DDDDDD'>Key exchange parameters (DH group identifier)</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>lifetime</td>
+		<td bgcolor='#F2F2F2'><i>seconds</i></td>
+		<td bgcolor='#F2F2F2'>Can specify any number of seconds</td>
+		<td bgcolor='#F2F2F2'>86,400 sec<br/>(one day)</td>
+		<td bgcolor='#F2F2F2'>ISAKMP-established SA lifetime</td>
+	</tr>
+	<tr><td bgcolor='#ffff99' colspan='5'>Note: Actual parameters vary based on IOS image.</td></tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

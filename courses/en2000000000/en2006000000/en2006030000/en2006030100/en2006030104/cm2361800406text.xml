@@ -1,0 +1,45 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Enables or disables static aging for the secure port or sets the aging time or type.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+<component id="ID_table02">
+   <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	<tr>
+		<td width='200' bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font  color="#FFFFFF"><b>Parameter</b></font></td>
+		<td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#FFFFFF"><b>Description</b></font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face='_typewriter'><b>static</b></font></td>
+		<td bgcolor='#DDDDDD'>Enable aging for statically configured secure addresses on this port.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face='_typewriter'><b>time</b> <i>time</i></font></td>
+		<td bgcolor='#F2F2F2'>Specify the aging time for this port. The range is 0 to 1440 minutes. If the time is 0, aging is disabled for this port.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>type absolute</b></font></td>
+		<td bgcolor='#DDDDDD'>Set absolute aging type. All the secure addresses on this port age out exactly after the time (minutes) specified and are removed from the secure address list.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>type inactivity</b></font></td>
+		<td bgcolor='#F2F2F2'>Set the inactivity aging type. The secure addresses on this port age out only if there is no data traffic from the secure source address for the specified time period.</td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+    
+    
+  <component id="ID_btn1">
+  <text><![CDATA[<b>Port Security Aging Configuration</b>]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[<b>Port Security Aging Parameters</b>]]></text> 
+  </component>
+
+</textcomponents>

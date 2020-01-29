@@ -1,0 +1,91 @@
+<textcomponents>
+
+<component id="ID_S1_txt01">
+<text><![CDATA[<b>IPsec Framework</b>]]></text>
+</component>
+
+<component id="ID_S1_txt02">
+<text><![CDATA[<b>IPsec Protocol</b>]]></text>
+</component>
+
+<component id="ID_S1_txt03">
+<text><![CDATA[<b>Confidentiality</b>]]></text>
+</component>
+
+<component id="ID_S1_txt04">
+<text><![CDATA[<b>Integrity</b>]]></text>
+</component>
+
+<component id="ID_S1_txt05">
+<text><![CDATA[<b>Authentication</b>]]></text>
+</component>
+
+<component id="ID_S1_txt06">
+<text><![CDATA[<b>Diffie-Hellman</b>]]></text>
+</component>
+
+<component id="ID_S1_txt07">
+<text><![CDATA[<b>Choices</b>]]></text>
+</component>
+
+<component id="ID_S1_txt08">
+<text><![CDATA[<b>AH</b>]]></text>
+</component>
+
+<component id="ID_S1_txt09">
+<text><![CDATA[<b>ESP</b>]]></text>
+</component>
+
+<component id="ID_S1_txt10">
+<text><![CDATA[<b>ESP <br/>+ AH</b>]]></text>
+</component>
+
+<component id="ID_S1_txt11">
+<text><![CDATA[<b>DES</b>]]></text>
+</component>
+
+<component id="ID_S1_txt12">
+<text><![CDATA[<b>3<br />DES</b>]]></text>
+</component>
+
+<component id="ID_S1_txt13">
+<text><![CDATA[<b>AES</b>]]></text>
+</component>
+
+<component id="ID_S1_txt14">
+<text><![CDATA[<b>SEAL</b>]]></text>
+</component>
+
+<component id="ID_S1_txt15">
+<text><![CDATA[<b>MD5</b>]]></text>
+</component>
+
+<component id="ID_S1_txt16">
+<text><![CDATA[<b>SHA</b>]]></text>
+</component>
+
+<component id="ID_S1_txt17">
+<text><![CDATA[<b>PSK</b>]]></text>
+</component>
+
+<component id="ID_S1_txt18">
+<text><![CDATA[<b>RSA</b>]]></text>
+</component>
+
+<component id="ID_S1_txt19">
+<text><![CDATA[<b>DH1</b>]]></text>
+</component>
+
+<component id="ID_S1_txt20">
+<text><![CDATA[<b>DH2</b>]]></text>
+</component>
+
+<component id="ID_S1_txt21">
+<text><![CDATA[<b>DH5</b>]]></text>
+</component>
+
+<component id="ID_S1_txt22">
+<text><![CDATA[<b>IPsec parameters are configured using IKE</b>]]></text>
+</component>
+
+</textcomponents>

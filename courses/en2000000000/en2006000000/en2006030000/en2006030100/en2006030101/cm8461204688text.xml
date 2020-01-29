@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Port 0/1 allows MAC A<br/>Port 0/2 allows MAC B<br/>Port 0/3 allows MAC C</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>MAC A</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>MAC A</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>MAC F</b>]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[<b>Attacker 1</b>]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<b>Attacker 2</b>]]></text>
+</component>
+
+</textcomponents>

@@ -1,0 +1,25 @@
+﻿<textcomponents>
+<component id="tableHTML">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+  <tr>
+    <td rowspan='2' width='150' bgcolor='#FFFF99'><font  color='#FFFFFF'><b>Signature Trigger</b></font></td>
+    <td colspan='2' bgcolor='#FFFF99'><font  color='#FFFFFF'><p align='center'><b>Signature Type</b></p></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>Atomic Signature</b></td>
+    <td bgcolor='#FFFF99'><b>Composite Signature</b></td>
+  </tr>
+  <tr>
+    <td bgcolor='#F2F2F2'><b>Anomaly-based Detection</b></td>
+    <td bgcolor='#F2F2F2'>No state required to identify activity that deviates from normal profile</td>
+    <td bgcolor='#F2F2F2'>State required to identify activity that deviates from normal profile</td>
+  </tr>
+  <tr>
+    <td bgcolor='#DDDDDD'><b>Example</b></td>
+    <td bgcolor='#DDDDDD'>Detecting traffic that is going to a destination port that is not in the normal profile</td>
+    <td bgcolor='#DDDDDD'>Verifying protocol compliance for HTTP traffic</td>
+  </tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

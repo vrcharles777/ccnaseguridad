@@ -1,0 +1,10 @@
+﻿<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[For more information on these standards, visit <a href="javascript:openExternal('http://www.rsa.com');"><font color='#0000FF'>http://www.rsa.com</font></a>.]]></text>
+</component>
+
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b>RSA PKCS Standards:</b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li><b>PKCS #1:</b> RSA Cryptography Standard</li><li><b>PKCS #3:</b> DH Key Agreement Standard</li><li><b>PKCS #5:</b> Password-Based Cryptography Standard</li><li><b>PKCS #6:</b> Extended-Certificate Syntax Standard</li><li><b>PKCS #7:</b> Cryptographic Message Syntax Standard</li><li><b>PKCS #8:</b> Private-Key Information Syntax Standard</li><li><b>PKCS #10:</b> Certification Request Syntax Standard</li><li><b>PKCS #12:</b> Personal Information Exchange Syntax Standard</li><li><b>PKCS #13:</b> Elliptic Curve Cryptography Standard</li><li><b>PKCS #15:</b> Cryptographic Token Information Format Standard</li></ul></td></tr></table>]]></text> 
+  </component>
+</textcomponents>

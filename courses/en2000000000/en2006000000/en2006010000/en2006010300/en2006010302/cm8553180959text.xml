@@ -1,0 +1,66 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Hosts Attempting Network Access</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Network Access Devices</b>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Policy Server Decision Points and Remediation</b>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Enforcement]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Cisco Trust Agent]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Credentials]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[EAP/UDP, EAP/802.1x]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Notification]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Credentials]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[RADIUS]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[Access Rights]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[AAA Server]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Credentials]]></text>
+</component>
+
+<component id="ID_txt14">
+<text><![CDATA[HTTPS]]></text>
+</component>
+
+<component id="ID_txt15">
+<text><![CDATA[Comply?]]></text>
+</component>
+
+<component id="ID_txt16">
+<text><![CDATA[Vendor Servers]]></text>
+</component>
+</textcomponents>

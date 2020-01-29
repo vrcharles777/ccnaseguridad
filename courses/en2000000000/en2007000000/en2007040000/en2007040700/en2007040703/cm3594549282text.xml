@@ -1,0 +1,26 @@
+<textcomponents>
+<component id="ID_box01_txt01">
+  <text><![CDATA[<b>Private Key (Alice)</b>]]></text> 
+</component>
+<component id="ID_box01_txt02">
+  <text><![CDATA[<b>Certificate (Alice)</b>]]></text> 
+</component>
+<component id="ID_box01_txt03">
+  <text><![CDATA[<b>CA Certificate</b>]]></text> 
+</component>
+<component id="ID_box02_txt01">
+  <text><![CDATA[<b>Private Key (Bob)</b>]]></text> 
+</component>
+<component id="ID_box02_txt02">
+  <text><![CDATA[<b>Certificate (Bob)</b>]]></text> 
+</component>
+<component id="ID_box02_txt03">
+  <text><![CDATA[<b>CA Certificate</b>]]></text> 
+</component>
+<component id="ID_table">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'> </td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'>1. Bob and Alice exchange certificates. The CA is no longer involved.<BR/>2. <textformat blockindent='14'>Each party verifies the digital signature on the certificate by hashing the plaintext portion of the certificate, decrypting the digital signature using the CA public key, and comparing the results.</textformat><ul><li>If the results match, then the certificate is verified as being signed by a trusted third party and the verification by the CA that Bob is Bob and Alice is Alice is accepted.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+</textcomponents>
+
+ 

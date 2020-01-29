@@ -1,0 +1,71 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Click the buttons to view the associated content.]]></text>
+</component>
+
+<component id="ID_btn1">
+<text><![CDATA[<b>Multiple Policies</b>]]></text>
+</component>
+
+<component id="ID_btn2">
+<text><![CDATA[<b>Sample Config</b>]]></text>
+</component>
+
+<!-- slide 1 -->
+<component id="ID_s1_txt01">
+<text><![CDATA[Site 1]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[Site 2]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_s1_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Policy 100 and 200 can be successfully negotiated, but policy 300 cannot.<br/><br/>Note: smaller priority numbers have higher priority.</td>
+	</tr>
+</table>]]></text>
+</component>
+
+<!-- slide 2 -->
+<component id="ID_s2_txt01">
+<text><![CDATA[Site 1]]></text>
+</component>
+
+<component id="ID_s2_txt02">
+<text><![CDATA[Site 2]]></text>
+</component>
+
+<component id="ID_s2_txt03">
+<text><![CDATA[Internet]]></text>
+</component>
+
+<component id="ID_s2_txt04">
+<text><![CDATA[Policy 110<br/>3DES<br/>SHA<br/>Preshare<br/>43200<br/>DH2]]></text>
+</component>
+
+<component id="ID_s2_txt05">
+<text><![CDATA[Tunnel]]></text>
+</component>
+
+<component id="ID_s2_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'>&nbsp;</font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><ul><li>R1 attempts to establish a VPN tunnel with R2 because it has interesting traffic destined for R2 and therefore sends its IKE policy parameters.</li><li>R2 must have an ISAKMP policy configured with the same parameters. Notice however, that policy numbers are only locally significant and do not have to match between IPsec peers.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+</textcomponents>

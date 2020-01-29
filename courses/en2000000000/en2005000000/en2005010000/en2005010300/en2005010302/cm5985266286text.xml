@@ -1,0 +1,19 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Cisco IPS AIM and Network Module Enhanced (IPS NME)</b><ul><li>Integrates IPS into the Cisco 1841 (IPS AIM only), 2800 and 3800 ISR routers</li><li>IPS AIM occupies an internal AIM slot on router and has its own CPU and DRAM</li><li>Monitors up to 45 Mb/s of traffic</li><li>Provides full-featured intrusion protection</li><li>Is able to monitor traffic from all router interfaces</li><li>Can inspect GRE and IPsec traffic that has been decrypted at the router</li><li>Delivers comprehensive intrusion protection at branch offices, isolating threats from the corporate network</li><li>Runs the same software image as Cisco IPS Sensor Appliances</li></ul>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[<b>Cisco ASA AIP-SSM</b><ul><li>High-performance module designed to provide additional security services to the Cisco ASA 5500 Series Adaptive Security Appliance</li><li>Diskless design for improved reliability</li><li>External 10/100/1000 Ethernet interface for management and software downloads</li><li>Intrusion prevention capability</li><li>Runs the same software image as the Cisco IPS Sensor appliances</li></ul>]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[<b>Cisco IPS 4200 Series Sensors</b><ul><li>Appliance solution focused on protecting network devices, services, and applications</li><li>Sophisticated attack detection is provided</li></ul>]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[<b>Cisco Catalyst 6500 Series IDSM-2</b><ul><li>Switch-integrated intrusion protection module delivering a high-value security service in the core network fabric device</li><li>Support for an unlimited number of VLANs</li><li>Intrusion prevention capability</li><li>Runs the same software image as the Cisco IPS Sensor Appliances</li></ul>]]></text>
+</component>
+
+</textcomponents>

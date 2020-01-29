@@ -1,0 +1,17 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Upon successful completion of this course, you will be able to:</b>]]></text>
+</component>
+
+
+<component id="ID_txt02">
+<text><![CDATA[<ul><li>Describe the security threats facing modern network infrastructures.</li><br/><li>Secure Cisco routers.</li><br/><li>Implement AAA on Cisco routers using local router databases and external servers.</li><br/><li>Mitigate threats to Cisco routers and networks using ACLs.</li><br/><li>Implement secure network management and reporting</li><br/><li>Mitigate common Layer 2 attacks.</li><br/><li>Implement the Cisco IOS firewall feature set.</li><br/><li>Implement the Cisco IOS IPS feature set.</li><br/><li>Implement site-to-site IPsec VPNs.</li></ul></p>]]></text>
+</component>
+
+
+
+</textcomponents>
+
+
+

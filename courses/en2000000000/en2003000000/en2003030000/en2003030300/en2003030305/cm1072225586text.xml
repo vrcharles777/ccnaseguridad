@@ -1,0 +1,27 @@
+<textcomponents>
+
+<component id="ID_list01">
+<text><![CDATA[Cisco Secure ACS Operating Systems<ul><li>Windows 2000 Server with Service Pack 4</li><li>Windows 2000 Advanced Server with Service Pack 4</li><li>Windows Server 2003 Standard Edition</li><li>Windows Server 2003 Enterprise Edition</li></ul>]]></text>
+</component>
+
+<component id="ID_list02">
+<text><![CDATA[ Cisco Secure ACS Solution Engine <ul><li>A highly scalable dedicated platform that serves as a high-performance ACS</li><li>1U, rack-mountable</li><li>Preinstalled with a security-hardened Windows software, Cisco Secure ACS software</li><li>Support for more than 350 users</li></ul>]]></text>
+</component>
+
+<component id="ID_list03">
+<text><![CDATA[Cisco Secure ACS Express 5.0<ul><li>Entry-level ACS with simplified feature set</li><li>Support for up to 50 AAA device and up to 350 unique user ID logins in a 24-hour period</li></ul> ]]></text>
+</component>
+
+<component id="ID_minfo01">
+<text><![CDATA[More Information]]></text>
+</component>
+
+<component id="ID_infoTitle">
+<text><![CDATA[<b>More Information</b>]]></text>
+</component>
+
+<component id="ID_info">
+<text><![CDATA[The Cisco Secure ACS for Windows Server must meet certain minimum hardware, operating system, and third-party software requirements. For the most recent information about supported operating systems and service packs, refer to:<br/><a href="javascript:openExternal('http://www.cisco.com/en/US/products/sw/secursw/ps2086/prod_release_notes_list.html');"><font color="#0000FF">http://www.cisco.com/en/US/products/sw/secursw/ps2086/prod_release_notes_list.html</font></a>.<br/><br/>Additionally, if upgrading from a previous version of Cisco Secure ACS, refer to the Cisco Secure ACS upgrade requirements at:<br/><a href="javascript:openExternal('http://www.cisco.com/en/US/docs/net_mgmt/cisco_secure_access_control_server_for_windows/4.1/installation/guide/windows/install.html#wp1041285');"><font color="#0000FF">http://www.cisco.com/en/US/docs/net_mgmt/cisco_secure_access_control_server_for_windows/4.1/installation/guide/windows/install.html#wp1041285</font></a>. <br/><br/>For more information about Cisco Secure ACS Express 5.0, visit <a href="javascript:openExternal('http://www.cisco.com/en/US/products/ps8543/index.html');"><font color="#0000FF">http://www.cisco.com/en/US/products/ps8543/index.html</font></a>. ]]></text>
+</component>
+
+</textcomponents>

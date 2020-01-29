@@ -1,0 +1,35 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[Plaintext]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Ciphertext]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[The plaintext message would be encoded using a key of 3.]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Use a rail fence cipher and a key of 3.]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[The appearance of the text after encryption.]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[<font face='_typewriter'>FLANK EAST<br/>ATTACK AT DAWN</font>]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[<font face='_typewriter'><b>F...K...T...A...T...N.<br/>.L.N.E.S.A.T.C.A.D.W..<br/>..A...A...T...K...A...</b></font>]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[<font face='_typewriter'>FKTATN<br/>LNESATCADW<br/>AATKA</font>]]></text>
+</component>
+
+</textcomponents>

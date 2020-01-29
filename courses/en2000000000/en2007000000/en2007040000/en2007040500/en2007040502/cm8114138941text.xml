@@ -1,0 +1,55 @@
+﻿<textcomponents>
+<component id="ID_button1">
+  <text><![CDATA[<b>X.509v3</b>]]></text> 
+</component>
+<component id="ID_button2">
+  <text><![CDATA[<b>X.509v3 Applications</b>]]></text> 
+</component>
+<component id="tableHTML">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>X.509v3 is a standard that describes the certificate structure.</li><li>X.509v3 is used with:</li><textformat blockindent="17"><li>Secure web servers: SSL and TLS</li><li>Web browsers: SSL and TLS</li><li>Email programs: S/MIME</li><li>IPsec VPNs: IKE</li></textformat></ul></td></tr></table>]]></text> 
+  </component>
+
+<component id="tableHTML2">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Certificates can be used for various purposes.</li><li>One CA server can be used for all types of authentication as long as all types support the same PKI procedures.</li></ul></td></tr></table>]]></text> 
+  </component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Internet</b>]]></text> 
+</component>
+<component id="ID_txt02">
+  <text><![CDATA[<b>Enterprise Network</b>]]></text> 
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>External Web Server</b>]]></text> 
+</component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>VPN Concentrator</b>]]></text> 
+</component>
+<component id="ID_txt05">
+  <text><![CDATA[<b>Internet Mail Server</b>]]></text> 
+</component>
+<component id="ID_txt06">
+  <text><![CDATA[<b>Cisco Secure ACS</b>]]></text> 
+</component>
+<component id="ID_txt07">
+  <text><![CDATA[<b>CA Server</b>]]></text> 
+</component>
+<component id="ID_txt08">
+  <text><![CDATA[<b>Cisco Secure ACS</b>]]></text> 
+</component>
+<component id="ID_txt09">
+  <text><![CDATA[<b>SSL</b>]]></text> 
+</component>
+<component id="ID_txt10">
+  <text><![CDATA[<b>IPsec</b>]]></text> 
+</component>
+<component id="ID_txt11">
+  <text><![CDATA[<b>S/MIME</b>]]></text> 
+</component>
+<component id="ID_txt12">
+  <text><![CDATA[<b>EAP-TLS</b>]]></text> 
+</component>
+<component id="ID_inst">
+  <text><![CDATA[<b>Click the buttons to view the associated content.</b>]]></text> 
+</component>
+</textcomponents>

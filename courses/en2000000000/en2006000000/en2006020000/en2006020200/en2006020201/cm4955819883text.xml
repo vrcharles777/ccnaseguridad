@@ -1,0 +1,43 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[<b>Switch Port</b>]]></text>
+</component>
+
+<component id="ID_txt01a">
+<text><![CDATA[<b>AABBCC</b>]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[<b>12ABDD</b>]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[MAC Address:<br/>12ABDD]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Attacker]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[MAC Address:<br/>AABBCC]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Port 2]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[Port 1]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[MAC Address:<br/>AABBCC]]></text>
+</component>
+
+<component id="ID_bubble01">
+<text><![CDATA[I have associated Ports 1 and 2 with the MAC addresses of the devices attached. Traffic destined for each device will be directly forwarded.]]></text>
+</component>
+
+</textcomponents>

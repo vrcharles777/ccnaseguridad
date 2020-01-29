@@ -1,0 +1,39 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[User Traffic]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[IP Only?]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Yes]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[No]]></text>
+</component>
+
+<component id="ID_txt05">
+<text><![CDATA[Use GRE Tunnel]]></text>
+</component>
+
+<component id="ID_txt06">
+<text><![CDATA[No]]></text>
+</component>
+
+<component id="ID_txt07">
+<text><![CDATA[Unicast Only?]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Yes]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Use IPsec VPN]]></text>
+</component>
+
+</textcomponents>

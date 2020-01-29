@@ -1,0 +1,118 @@
+<textcomponents>
+
+<component id="ID_inst">
+<text><![CDATA[Roll over each testing technique for more information.]]></text>
+</component>
+
+<!-- Rollovers -->
+<component id="ID_btn1">
+  	<text><![CDATA[<b>Network scanning</b>]]></text> 
+</component>
+
+<component id="ID_btn2">
+	<text><![CDATA[<b>Vulnerability scanning</b>]]></text>
+</component>
+
+<component id="ID_btn3">
+  	<text><![CDATA[<b>Password cracking</b>]]></text> 
+</component>
+
+<component id="ID_btn4">
+  	<text><![CDATA[<b>Log review</b>]]></text> 
+</component>
+
+<component id="ID_btn5">
+  	<text><![CDATA[<b>Integrity checkers</b>]]></text> 
+</component>
+
+<component id="ID_btn6">
+	<text><![CDATA[<b>Virus detection</b>]]></text>
+</component>
+
+<component id="ID_btn7">
+  	<text><![CDATA[<b>War dialing</b>]]></text> 
+</component>
+
+<component id="ID_btn8">
+  	<text><![CDATA[<b>War driving (802.11 or wireless LAN testing)</b>]]></text> 
+</component>
+
+<component id="ID_btn9">
+  	<text><![CDATA[<b>Penetration testing</b>]]></text> 
+</component>
+
+<!-- Popup Titles -->
+<component id="ID_pop1">
+  	<text><![CDATA[<b>Network scanning</b>]]></text> 
+</component>
+
+<component id="ID_pop2">
+	<text><![CDATA[<b>Vulnerability scanning</b>]]></text>
+</component>
+
+<component id="ID_pop3">
+  	<text><![CDATA[<b>Password cracking</b>]]></text> 
+</component>
+
+<component id="ID_pop4">
+  	<text><![CDATA[<b>Log review</b>]]></text> 
+</component>
+
+<component id="ID_pop5">
+  	<text><![CDATA[<b>Integrity checkers</b>]]></text> 
+</component>
+
+<component id="ID_pop6">
+	<text><![CDATA[<b>Virus detection</b>]]></text>
+</component>
+
+<component id="ID_pop7">
+  	<text><![CDATA[<b>War dialing</b>]]></text> 
+</component>
+
+<component id="ID_pop8">
+  	<text><![CDATA[<b>War driving (802.11 or wireless LAN testing)</b>]]></text> 
+</component>
+
+<component id="ID_pop9">
+  	<text><![CDATA[<b>Penetration testing</b>]]></text> 
+</component>
+
+<!-- Popup Text -->
+<component id="ID_poptext1">
+  	<text><![CDATA[<b>Running a computer program that can ping computers, scan for listening TCP ports and display which types of resources are available on the network. Some scanning programs can find and report user names, groups and shared resources. Network administrators can use this information to strengthen their networks.</b>]]></text> 
+</component>
+
+<component id="ID_poptext2">
+	<text><![CDATA[<b>Vulnerabilitiy scanning software can detect potential weaknesses in tested systems. These weaknesses can include misconfiguration, blank or default passwords, or potential targets for DoS attacks. Some software packages allow the administrator to attempt to crash the system through the identified vulnerablility.</b>]]></text>
+</component>
+
+<component id="ID_poptext3">
+  	<text><![CDATA[<b>A system admimistrator can use a password cracking tool to test for easily crackable passwords. Those that are easily cracked are not secure and should be changed. Password policies should include guidelines to prevent weak passwords.</b>]]></text> 
+</component>
+
+<component id="ID_poptext4">
+  	<text><![CDATA[<b>The system administrator can review security logs to identify potential security threats. Abnormal network activity should be investigated. There are software packages to aid in organizing and evaluating lengthy log files.</b>]]></text> 
+</component>
+
+<component id="ID_poptext5">
+  	<text><![CDATA[<b>An integrity checking system detects and reports on changes to the system. Most of the monitoring is focused on the file system; however, some checking systems can report on login and logout activities.</b>]]></text> 
+</component>
+
+<component id="ID_poptext6">
+	<text><![CDATA[<b>Virus detection software can be used to identify and remove computer viruses and other types of harmful malware such as worms and Trojan Horses.</b>]]></text>
+</component>
+
+<component id="ID_poptext7">
+  	<text><![CDATA[<b>A modem can be used to automatically scan a list of telephone numbers to search for computers and fax machines. The resulting list can be used by hackers for password guessing.</b>]]></text> 
+</component>
+
+<component id="ID_poptext8">
+  	<text><![CDATA[<b>Wardriving involves searching for wireless computer networks from a moving vehicle. The goal is to  collect information about wireless access points. Related terms inclulde warbiking, warwalking and warjogging. Sometimes a GPS is used to measure the location of the access point and log it on a website.</b>]]></text> 
+</component>
+
+<component id="ID_poptext9">
+  	<text><![CDATA[<b>During a penetration test, a system administrator simulates an attack from a malicious source. The goal of a penetration test is to determine the feasibility of an attack and possible consequences if one were to occur.</b>]]></text> 
+</component>
+
+</textcomponents>

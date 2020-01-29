@@ -1,0 +1,70 @@
+﻿<textcomponents>
+
+<component id="ID_inst">
+  <text><![CDATA[<b>Click each button to view the associated content.</b>]]></text> 
+</component>
+
+<component id="ID_table01a">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Sets the interface mode as access</li></ul></td></tr></table>]]></text> 
+  </component>
+
+<component id="ID_table01b">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Enables port security on the interface</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_table01c">
+  <text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'><tr><td bgcolor='#DDDDDD' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><font color="#ffffff"><b> </b></font></td></tr><tr><td bgcolor='#F2F2F2' glow='false' glowcolor='#FCA92E' valign='top' type='dynamic'><ul><li>Sets the maximum number of secure MAC addresses for the interface (optional)</li></ul></td></tr></table>]]></text> 
+  </component>
+  
+<component id="ID_header1">
+<text><![CDATA[<font color="#ffffff"><b>Parameter</b></font>]]></text>
+</component>
+
+<component id="ID_header2">
+<text><![CDATA[<font color="#ffffff"><b>Description</b></font>]]></text>
+</component>
+
+<component id="ID_table02">
+   <text><![CDATA[<table header='none' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+
+	<tr>
+		<td width="200" bgcolor='#DDDDDD'><font face='_typewriter'><b>mac-address</b> <i>mac-address</i></font></td>
+		<td bgcolor='#DDDDDD'>(Optional) Specify a secure MAC address for the port by entering a 48-bit MAC address. Add additional secure MAC addresses up to the maximum value configured.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>vlan </b><i>vlan-id</i></font></td>
+		<td bgcolor='#F2F2F2'>(Optional) On a trunk port only, specify the VLAN ID and the MAC address. If no VLAN ID is specified, the native VLAN is used.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>vlan access</b></font></td>
+		<td bgcolor='#DDDDDD'>(Optional) On an access port only, specify the VLAN as an access VLAN.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>vlan voice</b></font></td>
+		<td bgcolor='#F2F2F2'>(Optional) On an access port only, specify the VLAN as a voice VLAN.<br/><b>Note:</b> The <font face="_typewriter"><b>voice</b></font> keyword is available only if voice VLAN is configured on a port and if that port is not the access VLAN.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>mac-address sticky </b>[<i>mac-address</i>]</font></td>
+		<td bgcolor='#DDDDDD'>(Optional) Enable the interface for sticky learning by entering only the <font face="_typewriter"><b>mac-address sticky</b></font> keywords. When sticky learning is enabled, the interface adds all secure MAC addresses that are dynamically learned to the running configuration and converts these addresses to sticky secure MAC addresses.<br/><b>Note:</b> Specify a sticky secure MAC address by entering the <font face="_typewriter"><b>mac-address sticky </b><i>mac-address</i></font> keywords, however, to enter static secure MAC addresses, it is recommended to use the <font face="_typewriter"><b>mac-address</b> <i>mac-address</i></font> interface configuration command.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'><font face="_typewriter"><b>maximum</b> <i>value</i></font></td>
+		<td bgcolor='#F2F2F2'>(Optional) Set the maximum number of secure MAC addresses for the interface. The maximum number of secure MAC addresses that can be configured on a switch is set by the maximum number of available MAC addresses allowed in the system. The active Switch Database Management (SDM) template determines this number. This number represents the total of available MAC addresses, including those used for other Layer 2 functions and any other secure MAC addresses configured on interfaces.<br/>The default setting is 1.</td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><font face="_typewriter"><b>vlan </b>[<i>vlan-list</i>]</font></td>
+		<td bgcolor='#DDDDDD'>(Optional) For trunk ports, it is possible to set the maximum number of secure MAC addresses on a VLAN. If the <b><font face="_typewriter">vlan</font></b> keyword is not entered, the default value is used.<br/><font face="_typewriter"><b>vlan:</b></font> set a per-VLAN maximum value. <br/><font face="_typewriter"><b>vlan </b><i>vlan-list</i><b>:</b></font> set a per-VLAN maximum value on a range of VLANs separated by a hyphen or a series of VLANs separated by commas. For nonspecified VLANs, the per-VLAN maximum value is used.</td>
+	</tr>
+</table>
+]]></text> 
+  </component>
+    
+    
+  <component id="ID_btn1">
+  <text><![CDATA[<b>Basic Port Security Configuration</b>]]></text> 
+  </component>
+  <component id="ID_btn2">
+  <text><![CDATA[<b><font face="_typewriter">switchport port-security</font> Parameters</b>]]></text> 
+  </component>
+
+</textcomponents>

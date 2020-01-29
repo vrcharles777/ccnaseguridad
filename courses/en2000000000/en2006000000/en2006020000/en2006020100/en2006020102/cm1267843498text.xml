@@ -1,0 +1,82 @@
+<textcomponents>
+
+<component id="ID_bullets">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#DDDDDD'><ul><li>If the Data Link Layer is hacked, communications are compromised without the other layers being aware of the problem.</li><li>Security is only as strong as the weakest link.</li><li>Regarding network security, the Data Link Layer is often the weakest link.</li></ul></td>
+	</tr>
+</table>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_txt03">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_txt04">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_txt05">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_txt06">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_txt07">
+<text><![CDATA[Application]]></text>
+</component>
+
+<component id="ID_txt01b">
+<text><![CDATA[Physical]]></text>
+</component>
+<component id="ID_txt02b">
+<text><![CDATA[Data Link]]></text>
+</component>
+<component id="ID_txt03b">
+<text><![CDATA[Network]]></text>
+</component>
+<component id="ID_txt04b">
+<text><![CDATA[Transport]]></text>
+</component>
+<component id="ID_txt05b">
+<text><![CDATA[Session]]></text>
+</component>
+<component id="ID_txt06b">
+<text><![CDATA[Presentation]]></text>
+</component>
+<component id="ID_txt07b">
+<text><![CDATA[Application]]></text>
+</component>
+
+<component id="ID_txt08">
+<text><![CDATA[Compromised]]></text>
+</component>
+
+<component id="ID_txt09">
+<text><![CDATA[Application Stream]]></text>
+</component>
+
+<component id="ID_txt10">
+<text><![CDATA[Protocols and Ports]]></text>
+</component>
+
+<component id="ID_txt11">
+<text><![CDATA[IP Addresses]]></text>
+</component>
+
+<component id="ID_txt12">
+<text><![CDATA[Initial Compromise]]></text>
+</component>
+
+<component id="ID_txt13">
+<text><![CDATA[Physical Links]]></text>
+</component>
+
+</textcomponents>

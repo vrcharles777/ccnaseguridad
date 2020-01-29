@@ -1,0 +1,90 @@
+﻿<textcomponents>
+<component id='tableHTML'>
+  <text><![CDATA[
+<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='2'>
+	
+  <tr>
+    <td width='130' bgcolor='#F2F2F2'><font color='#FFFFFF'><b>Version 4.x</b></font><br/><font size='-1' color='#FFFFFF'>SME Prior to 12.4(11)T</font></td>
+    <td width='130' bgcolor='#F2F2F2'><font color='#FFFFFF'><b>Version 5.x</b></font><br/><font size='-1' color='#FFFFFF'>SME 12.4(11)T and later</font></td>
+    <td bgcolor='#F2F2F2'><font  color='#FFFFFF'><b>Description</b></font></td>
+  </tr>
+  <tr>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IP</b></td>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IP</b></td>
+    <td bgcolor='#EAEAEA'>Provides simple Layer 3 IP alarms</td>
+  </tr>
+  <tr>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.ICMP</b></td>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IP</b></td>
+    <td bgcolor='#EAEAEA'>Provides simple Internet Control Message Protocol (ICMP) alarms based on the following parameters: type, code, sequence, and ID</td>
+  </tr>
+  <tr>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IPOPTIONS</b></td>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IP</b></td>
+    <td bgcolor='#EAEAEA'>Provides simple alarms based on the decoding of Layer 3 options</td>
+  </tr>
+  <tr>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.UDP</b></td>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IP</b></td>
+    <td bgcolor='#EAEAEA'>Provides simple User Datagram Protocol (UDP) packet alarms based on the following parameters: port, direction, and data length</td>
+  </tr>
+  <tr>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.TCP</b></td>
+    <td bgcolor='#EAEAEA'><b>ATOMIC.IP</b></td>
+    <td bgcolor='#EAEAEA'>Provides simple TCP packet alarms based on the following parameters: port, destination, and flags</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>SERVICE.DNS</b></td>
+    <td bgcolor='#FFFF99'><b>SERVICE.DNS</b></td>
+    <td bgcolor='#FFFF99'>Analyzes the Domain Name System (DNS) service</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>SERVICE.RPC</b></td>
+    <td bgcolor='#FFFF99'><b>SERVICE.RPC</b></td>
+    <td bgcolor='#FFFF99'>Analyzes the remote-procedure call (RPC) service</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>SERVICE.SMTP</b></td>
+    <td bgcolor='#FFFF99'><b>STATE</b></td>
+    <td bgcolor='#FFFF99'>Inspects Simple Mail Transfer Protocol (SMTP)</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>SERVICE.HTTP</b></td>
+    <td bgcolor='#FFFF99'><b>SERVICE.HTTP</b></td>
+    <td bgcolor='#FFFF99'>Provides HTTP protocol decode-based string engine that includes anti-evasive URL de-obfuscation</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFF99'><b>SERVICE.FTP</b></td>
+    <td bgcolor='#FFFF99'><b>SERVICE.FTP</b></td>
+    <td bgcolor='#FFFF99'>Provides FTP service special decode alarms</td>
+  </tr>
+  <tr>
+    <td bgcolor='#B2B2B2'><b>STRING.TCP</b></td>
+    <td bgcolor='#B2B2B2'><b>STRING.TCP</b></td>
+    <td bgcolor='#B2B2B2'>Offers TCP regular expression-based pattern inspection engine services</td>
+  </tr>
+  <tr>
+    <td bgcolor='#B2B2B2'><b>STRING.UDP</b></td>
+    <td bgcolor='#B2B2B2'><b>STRING.UDP</b></td>
+    <td bgcolor='#B2B2B2'>Offers UDP regular expression-based pattern inspection engine services</td>
+  </tr>
+  <tr>
+    <td bgcolor='#B2B2B2'><b>STRING.ICMP</b></td>
+    <td bgcolor='#B2B2B2'><b>STRING.ICMP</b></td>
+    <td bgcolor='#B2B2B2'>Provides ICMP regular expression-based pattern inspection engine services</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFCC66'><b>MULTI-STRING</b></td>
+    <td bgcolor='#FFCC66'><b>MULTI-STRING</b></td>
+    <td bgcolor='#FFCC66'>Supports flexible pattern matching and supports Trend Labs signatures</td>
+  </tr>
+  <tr>
+    <td bgcolor='#FFFFFF'><b>OTHER</b></td>
+    <td bgcolor='#FFFFFF'><b>NORMALIZER</b></td>
+    <td bgcolor='#FFFFFF'>Provides internal engine to handle miscellaneous signatures</td>
+  </tr>
+	
+</table>
+]]></text> 
+  </component>
+</textcomponents>

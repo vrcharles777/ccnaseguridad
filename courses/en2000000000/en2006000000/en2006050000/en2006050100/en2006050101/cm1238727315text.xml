@@ -1,0 +1,194 @@
+<textcomponents>
+
+<component id="ID_instructions">
+<text><![CDATA[<b>Click through the buttons for summary information.</b>]]></text>
+</component>
+
+<component id="ID_chart1">
+  <text><![CDATA[<b>Attack Prevention</b>]]></text> 
+</component>
+
+<component id="ID_chart2">
+  <text><![CDATA[<b>Data Loss Prevention</b>]]></text> 
+</component>
+
+<component id="ID_chart3">
+  <text><![CDATA[<b>Policy Enforcement</b>]]></text> 
+</component>
+
+<component id="ID_chart4">
+  <text><![CDATA[<b>Network Collaboration</b>]]></text> 
+</component>
+
+<component id="ID_chart1_sub">
+  <text><![CDATA[<b>"Zero Update"<br/>Protection Stops<br/>Malicious Mobile<br/>Code, Botnets,<br/>Rootkits,<br/>Day-Zero Attacks</b>]]></text> 
+</component>
+
+<component id="ID_chart2_sub">
+  <text><![CDATA[<b>Identity and Control<br/>Sensitive Information</b>]]></text> 
+</component>
+
+<component id="ID_chart3_sub">
+  <text><![CDATA[<b>Corporate Acceptable Use<br/>Regulatory Compliance (PCI)</b>]]></text> 
+</component>
+
+<component id="ID_chart4_sub">
+  <text><![CDATA[<b>NAC<br/>Network IPS<br/>Wireless<br/>Traffic Marketing<br/>Event Correlation<br/>Data Loss Prevention</b>]]></text> 
+</component>
+
+<component id="ID_txt01">
+  <text><![CDATA[<b>Cisco Security Agent</b>]]></text> 
+</component>
+
+<component id="ID_txt02">
+  <text><![CDATA[<b>IronPort</b>]]></text> 
+</component>
+
+<component id="ID_txt03">
+  <text><![CDATA[<b>Cisco NAC</b>]]></text> 
+</component>
+
+
+
+<component id="slide01">
+<text><![CDATA[<font size="14"><ul><li>Endpoint security entails securing workstations, servers, switches, wireless devices, IP telephony devices, and SAN devices.</li><br/><li>Cisco IronPort is a leading provider of anti-spam, anti-virus, and anti-spyware appliances.</li><br/><li>Cisco NAC allows only authorized and compliant systems to access the network and enforces network security policy.</li><br/><li>CSA is a comprehensive, highly scalable host intrusion prevention system.</li></ul></font>]]></text>
+</component>
+
+
+
+
+
+<component id="slide02">
+<text><![CDATA[<font size="14"><ul><li>At Layer 2, a number of vulnerabilities exist that require specialized mitigation techniques.</li><br/><li>MAC address spoofing attacks are minimized with port security.</li><br/><li>STP manipulation attacks are handled by BPDU guard and root guard.</li><br/><li>MAC address table overflow attacks are addressed with port security, BPDU guard, and root guard.</li><br/><li>Storm control is used to mitigate LAN storm attacks.</li><br/><li>VLAN attacks are controlled by disabling DTP and following basic guidelines for configuring trunk ports.</li></ul></font]]></text>
+</component>
+
+
+<component id="ID_txt01_s3">
+<text><![CDATA[<b>Root Bridge</b>]]></text>
+</component>
+
+<component id="ID_txt02_s3">
+<text><![CDATA[<b>Attacker</b>]]></text>
+</component>
+
+<component id="ID_txt03_s3">
+<text><![CDATA[<b>STP BPDU</b>]]></text>
+</component>
+
+<component id="ID_txt04_s3">
+<text><![CDATA[<b>BPDU Guard Enabled</b>]]></text>
+</component>
+
+<component id="ID_txt05_s3">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt06_s3">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt07_s3">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt08_s3">
+<text><![CDATA[<b>B</b>]]></text>
+</component>
+
+<component id="ID_txt09_s3">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+<component id="ID_txt10_s3">
+<text><![CDATA[<b>F</b>]]></text>
+</component>
+
+
+<component id="slide03">
+<text><![CDATA[<font size="14"><ul><li>Port security provides a baseline security solution at the Access Layer.</li><br/><li>Port security is verified using CLI show commands and the <font face='_typewriter'><b>mac address-table</b></font> notification command.</li><br/><li>BPDU guard and root guard are designed to mitigate STP attacks.</li><br/><li>SPAN enables port mirroring, which allows traffic to be monitored through a switch.</li><br/><li>RSPAN extends the functionality of SPAN to multiple switches and the trunks connecting them.</li><br/><li>Recommended Layer 2 practices, especially for VLAN and trunk configurations, greatly improve Layer 2 security.</li></ul><br/><br/></font]]></text>
+</component>
+
+
+<component id="ID_s1_txt01">
+<text><![CDATA[<b>WCS Cross-WLC Monitoring</b>]]></text>
+</component>
+
+<component id="ID_s1_txt02">
+<text><![CDATA[<b>Wireless IDS/IPS features within WLC</b>]]></text>
+</component>
+
+<component id="ID_s1_txt03">
+<text><![CDATA[<b>IPS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt04">
+<text><![CDATA[<b>NOC</b>]]></text>
+</component>
+
+<component id="ID_s1_txt05">
+<text><![CDATA[<b>ACS AAA Server</b>]]></text>
+</component>
+
+<component id="ID_s1_txt06">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt07">
+<text><![CDATA[<b>WLC Switch</b>]]></text>
+</component>
+
+<component id="ID_s1_txt08">
+<text><![CDATA[<b>Core</b>]]></text>
+</component>
+
+<component id="ID_s1_txt09">
+<text><![CDATA[<b>FW</b>]]></text>
+</component>
+
+<component id="ID_s1_txt10">
+<text><![CDATA[<b>CS-MARS</b>]]></text>
+</component>
+
+<component id="ID_s1_txt11">
+<text><![CDATA[<b>LWAPP Tunnel</b>]]></text>
+</component>
+
+<component id="ID_s1_txt12">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt13">
+<text><![CDATA[<b>LAP</b>]]></text>
+</component>
+
+<component id="ID_s1_txt14">
+<text><![CDATA[<b>WLAN Client Traffic</b>]]></text>
+</component>
+
+<component id="ID_s1_txt15">
+<text><![CDATA[<b>LAP</b>]]></text>
+</component>
+
+<component id="ID_s1_txt16">
+<text><![CDATA[<b>Rogue Client</b>]]></text>
+</component>
+
+<component id="ID_s1_txt17">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt18">
+<text><![CDATA[<b></b>]]></text>
+</component>
+
+<component id="ID_s1_txt19">
+<text><![CDATA[<b>Rogue AP</b>]]></text>
+</component>
+
+
+<component id="slide04">
+<text><![CDATA[<font size="14"><ul><li>Modern enterprise networks deploy wireless, VoIP, and SAN devices that require specialized security solutions.</li><br/><li>Wireless technologies are the most prone to network attacks. A number of technologies have evolved to mitigate these attacks.</li><br/><li>With the increased adoption of VoIP, several security considerations specific to VoIP technology have emerged. Recent advances in VoIP security address many of these concerns.</li><br/><li>SAN technology enables faster, easier, more reliable access to data. Securing data is paramount, so technologies have developed specifically to secure SANs and ensure data integrity and secrecy.</li></ul></font>]]></text>
+</component>
+
+
+</textcomponents>

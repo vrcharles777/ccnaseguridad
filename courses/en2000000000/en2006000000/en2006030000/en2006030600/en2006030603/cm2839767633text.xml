@@ -1,0 +1,21 @@
+<textcomponents>
+
+<component id="ID_txt01">
+<text><![CDATA[IDS]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Attacker]]></text>
+</component>
+
+<component id="ID_table01">
+<text><![CDATA[<table header='top' headerstyle='black' bordercolor='#CCCCCC' borderwidth='1' shadow='false' shadowcolor='#000000' glow='true' glowcolor='#808080' cellpadding='4'>
+	<tr>
+		<td><font color='#FFFFFF'> </font></td>
+	</tr>
+	<tr>
+		<td bgcolor='#F2F2F2'>Use SPAN to mirror traffic in and out of port Fa0/1 to port Fa0/2.</td>
+	</tr>
+</table>]]></text>
+</component>
+</textcomponents>

@@ -1,0 +1,38 @@
+<textcomponents>
+
+<component id="ID_NSO">
+	<text>Network Security Organizations</text>
+</component>
+
+<component id="ID_NSO1">
+	<text><![CDATA[<b>www.first.org</b>]]></text>
+</component>
+
+<component id="ID_NSO2">
+  	<text><![CDATA[<b>www.cert.org</b>]]></text> 
+</component>
+
+<component id="ID_NSO3">
+  	<text><![CDATA[<b>www.infosyssec.com</b>]]></text> 
+</component>
+
+<component id="ID_NSO4">
+  	<text><![CDATA[<b>www.sans.org</b>]]></text> 
+</component>
+
+<component id="ID_NSO5">
+  	<text><![CDATA[<b>www.cisecurity.org</b>]]></text> 
+</component>
+
+<component id="ID_NSO6">
+	<text>www.isc2.org</text>
+</component>
+
+<component id="ID_NSO7">
+	<text>www.mitre.org</text>
+</component>
+
+</textcomponents>
+
+
+

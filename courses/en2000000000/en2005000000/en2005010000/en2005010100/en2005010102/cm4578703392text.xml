@@ -1,0 +1,25 @@
+﻿<textcomponents>
+
+<component id="ID_bullets">
+<text><![CDATA[1. <textformat blockindent='14'>An attack is launched on a network that has a sensor deployed in promiscuous IDS mode; therefore copies of all packets are sent to the IDS sensor for packet analysis. However, the target machine will experience the malicious attack.</textformat><br/><br/>2. <textformat blockindent='14'>The IDS sensor matches the malicious traffic to a signature and sends the switch a command to deny access to the malicious traffic.</textformat><br/><br/>3. <textformat blockindent='14'>The IDS sends an alarm to a management console for logging and other management purposes.</textformat>]]></text>
+</component>
+
+<component id="ID_txt01">
+<text><![CDATA[Sensor]]></text>
+</component>
+
+<component id="ID_txt02">
+<text><![CDATA[Management Console]]></text>
+</component>
+
+<component id="ID_txt03">
+<text><![CDATA[Target]]></text>
+</component>
+
+<component id="ID_txt04">
+<text><![CDATA[Switch]]></text>
+</component>
+<component id="ID_title">
+<text><![CDATA[Intrusion Detection System]]></text>
+</component>
+</textcomponents>

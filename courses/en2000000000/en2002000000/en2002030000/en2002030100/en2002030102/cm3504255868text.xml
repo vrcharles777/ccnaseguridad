@@ -1,0 +1,15 @@
+﻿<textcomponents>
+
+<component id="ID_txt01">
+
+<text><![CDATA[• Enables Cisco IOS image resilience.]]>
+</text>
+</component>
+
+<component id="ID_txt02">
+
+<text><![CDATA[• Takes a snapshot of the router running configuration and securely archives it in persistent storage.]]>
+</text>
+</component>
+
+</textcomponents>

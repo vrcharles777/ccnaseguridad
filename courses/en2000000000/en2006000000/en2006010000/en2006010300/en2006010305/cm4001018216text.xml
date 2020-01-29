@@ -1,0 +1,14 @@
+<textcomponents>
+<component id="ID_txt01">
+<text><![CDATA[<b>Login Screen</b>]]></text>
+</component>
+<component id="ID_txt02">
+<text><![CDATA[<b>Scan is performed<br/>(types of checks depend on user role)</b>]]></text>
+</component>
+<component id="ID_txt03">
+  <text><![CDATA[<b>Scan fails</b>]]></text> 
+  </component>
+<component id="ID_txt04">
+  <text><![CDATA[<b>Remediate</b>]]></text> 
+  </component>
+</textcomponents>
